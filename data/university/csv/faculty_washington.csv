@@ -1,0 +1,364 @@
+fac_name,fac_primary_office,fac_office,fac_contact,fac_position,degrees,fac_areas,awards_prizes,fac_title,fac_degree_year
+,,Sieg Hall,,,,,,,
+Craig Chambers,,Sieg Hall,1-206-685-2094,Associate Professor,"S.B. degree in Computer Science
+from MIT in 1986 
+and his Ph.D. in Computer Science from Stanford in 1992","My research interests lie in the design and implementation
+of advanced programming systems, incorporating
+expressive programming languages, efficient
+implementations, and supportive programming
+environments.",,,
+Brian Curless,308,Sieg Hall,(206) 685-3796,Assistant Professor,"bachelor's
+degree in electrical engineering at the University of Texas at
+Austin. M.S. (1991) and Ph.D. (1997) degrees at
+Stanford","research interests cover a number of
+areas in computer graphics and vision, including range
+scanning, surface reconstruction and modeling, interactive
+3D graphics, and image-based rendering.",,,
+Martin Dickey,423b,Sieg Hall,206/616-4368,Senior Lecturer,Ph.D  Arizona State University,,,,
+Chris Diorio,410,Sieg Hall,(206) 543-7165,Assistant Professor,"Ph.D. The California Institute of Technology, Electrical Engineering, 1997 
+M.S. The California Institute of Technology, Electrical Engineering, 1984 
+B.A. Occidental College, Physics, 1983","Neurally Inspired Computing 
+                   - Computing with action potentials 
+                   - Neural computation in silicon  
+                   - Machine learning in silicon 
+               Implantable Computers 
+                   - Tritonia Diomedea 
+                   - Manduca Sexta 
+               Other 
+                   - A signal processor for an
+               ionospheric-imaging radar 
+                   - Speech
+               recognition/processing/understanding","Awarded an Alfred P. Sloan Foundation Research Fellowship on Feb. 4,
+2000. 
+
+Awarded an NSF Presidential Early Career Award in Science and
+Engineering (PECASE) on February 10, 1999 (also here). 
+
+Awarded a five-year Packard Foundation Fellowship in science and
+engineering from the David and Lucile Packard Foundation on October 13,
+1998. 
+
+Awarded an NSF CAREER Award on May 15, 1998. 
+
+Awarded the Electron Devices Society?s Paul Rappaport Award for the best
+paper in an IEEE EDS publication during 1996, for ""A single-transistor
+silicon synapse,"" IEEE Trans. Electron Devices, vol. 43, no. 11, pp. 1972-1980,
+1996.",,
+PEDRO DOMINGOS,216,Sieg Hall,(206) 543-4229,"assistant
+professor","M.S. in
+Electrical Engineering and Computer Science (1992) from
+IST, in Lisbon. I received an M.S. (1994) and Ph.D. (1997)
+in Information and Computer Science from the University
+of California at Irvine.","My main research interests are in the fields of machine
+learning and data mining. I'd like to make computers do
+more with less help from us, learn from experience, adapt
+effortlessly, and discover new knowledge. We need
+computers that reduce the information overload by
+extracting the important patterns from masses of data. This
+poses many deep and fascinating scientific problems: How
+can a computer decide autonomously which representation
+is best for target knowledge? How can it tell genuine
+regularities from chance occurrences? How can
+pre-existing knowledge be exploited? How can a computer
+learn with limited computational resources? How can
+learned results be made understandable by us?","an NSF CAREER award, a Fulbright
+scholarship, an IBM Faculty Award, two best paper awards
+at KDD",,
+Emer Dooley,219,Lewis Hall,(206) 616-8682,,"EE with a Master's in Computer
+                   Engineering, both from the University of
+                   Limerick. MBA at the UW in 1992",,,,
+Carl Ebeling,215,Sieg Hall,(206) 543-9342,Associate Professor,"B.S. in Physics, Wheaton
+College, 1971; an M.S. in Computer Science, Southern Illinois
+University, 1976; and a Ph.D. in Computer Science, Carnegie-Mellon
+University in 1986.","VLSI
+architectures and computer-aided design of digital systems. He has
+worked on a number of VLSI projects including the Hitech chess
+machine, the Apex graphics chip for drawing spline curves and
+surfaces, and the Triptych field-programmable gate array. Currently he
+is leading a research project on a configurable computing architecture
+called RaPiD . He is also involved in the Chaos project which is
+currently focused on using the Chaos network router and a very fast
+network interface to construct a high-bandwidth, low-latency LAN
+network. His CAD interests are currently in the area of performance
+optimization.",,,
+Susan Eggers,308,Sieg Hall,(206) 543-2118,Professor,"B.A.in 1965 from Connecticut College, and her Ph.D. in 1989 from
+the University of California, Berkeley","research interests are in
+computer architecture and back-end compilation, with an emphasis on
+experimental performance analysis. Her current work is on issues in
+processor design (multithreaded machines) and compiler optimizations
+(staged, dynamic optimization).","In 1989 she was awarded an IBM
+Faculty Development Award and in 1990 an NSF Presidential Young
+Investigator Award.",,
+Oren Etzioni,209,Sieg Hall,(206) 685-3035,"Associate
+         Professor","B.S., Harvard University in June 1986, and his Ph.D.
+from Carnegie Mellon University in January 1991","His research interests include: Software Agents, Web Navigation and
+Search Technology, and Human-Computer Interaction.",,,
+Dieter Fox,325C,Sieg Hall,(206) 685-2517,Assistant Professor,"B.Sc. in 1990, an M.Sc. in 1993, and a
+Ph.D. in 1998, all from the computer science
+department at the University of Bonn","His research interests lie in artificial intelligence and
+its application to mobile robotics",,,
+Richard Anderson,,,Office 206-543-4305,"Professor and Associate
+        Chair (for Outreach)","B.A. in Mathematics from Reed College in
+        1981, and a Ph.D. in Computer Science from
+        Stanford University in 1985","Richard Anderson's main research interests are
+        in the theory and implementation of algorithms,
+        including parallel algorithms, computational
+        geometry, and scientific applications. He has
+        also worked on applying model checking to the
+        formal verification of software sytems. He is
+        also interested in educational uses of
+        technology.","In 1987 he
+        received an NSF Presidential Young
+        Investigator award.",,
+Alon Y. Halevy,310,Sieg Hall,(206) 543-8099,Assistant professor,"Ph.D in Computer Science from
+Stanford University, and my undergraduate degree at Hebrew
+University in Jerusalem in 1988","My research interests are in the fields of database systems and artificial
+intelligence","NSF CAREER Award, PECASE award",,
+Anna R. Karlin,114,Sieg Hall,(206) 543-9344,Professor,"Ph.D. from Stanford
+University in 1987","Her
+research is primarily in theoretical computer computer science:
+the design and analysis of algorithms, particularly probabilistic
+and online algorithms. Recently, she has been working at the
+interface between theory and other areas, such as operating
+systems, networks, distributed systems and information retrieval",,,
+Henry Kautz,417,Sieg Hall,(206) 543-1896,"Associate
+               Professor","A.B. in mathematics from Cornell
+               University, an M.A. in Creative
+               Writing from the Johns Hopkins
+               University, an M.Sc. in Computer
+               Science from the University of
+               Toronto, and a Ph.D. in computer
+               science from the University of
+               Rochester.","The goal of my research is to create efficient, scalable knowledge representation
+and reasoning systems. By ""knowledge representation"" or ""KR"" I mean declarative,
+semantically well founded systems for representing both specific facts about the
+world and general rules of inference.  Thus KR encompasses databases, frame
+systems, propositional and first order symbolic logic, probabilistic models, mixed
+integer programming, and constraint systems.  By ""efficient"" I mean practical
+efficiency:  many of the kinds of problems I work on are provably worst case
+intractable, but none the less can be solved in practice for surprisingly large
+instances.  An example of this is my work on solving logical representations of
+planning problems using new randomized algorithms (see the Blackbox project
+home page).  Work on knowledge compilation looks at ways to reformulate problem
+instances so that they are easier to solve.  A complimentary approach is develop
+new search and reasoning algorithms, such as Walksat or the Randomized Rapid
+Restart policy.  My ultimate goal is to develop general problem solving systems that
+automatically adapt to the structural characteristics of different problem domains. 
+In terms of the artificial intelligence ""big picture"", I view KR as being concerned
+with a knowledge level model of what goes on in the mind after low-level
+perception and before physical action - where the ""mind"" may or may not be
+instantiated by a human brain.. Other problem domains I have worked on or am in interested in exploring include
+mathematical reasoning, verification, multi-agent and information agent systems,
+combinatorial auctions, and biomedical applications.  I particularly welcome
+conversations with graduate students who would like to talk about connections
+between these or other domains and knowledge representation and reasoning!","Computers and Thought Award
+               from the International Joint
+               Conference on Artificial Intelligence
+               and a Fellow of the American
+               Association for Artificial
+               Intelligence.",,
+Theodore (Ted) H. Kehl,,Sieg Hall,,"Professor, Professor of Physiology and Biophysics",Ph.D. from the University of Wisconsin,,,,
+Richard E. Ladner,311,Sieg Hall,(206) 543-9347,"Professor Adjunct Professor in the Department of Electrical
+Engineering","B.S. in 1965 St. Mary's College of California Ph.D. in mathematics from the University of
+California, Berkeley in 1971","He has a number of research interests, most of them in theoretical computer
+science. He is currently investigating design and analysis of algorithms, both
+parallel and sequential. He has a particular interest in the cache performance of
+algorithms. He has continuing interests in automata based computational
+complexity theory, distributed computing, and data compression","Guggenheim Fellow in 1985-86 and a
+Fulbright in 1993 Fellow of the ACM",,
+Ed Lazowska,,Sieg Hall,(206) 543-4755,Professor and ChairProfessor and Chair,"A.B. from Brown University
+in 1972 Ph.D. from the
+University of Toronto in 1977","His research concerns
+computer systems and computer system
+performance. Specific topics in the past decade have included parallel
+discrete-event simulation, scheduling policies for multiprocessors, kernel
+structures to support high-performance parallel computing, programming systems
+for networks of multiprocessors, effective program performance monitoring tools for
+parallel systems, the interaction of architecture and operating system design,
+hardware and software techniques for high performance communication, operating
+system and programming system support that exploits wide-address architectures,
+and gigabit networking.",,,
+Henry M. Levy,,Sieg Hall,,"Microsoft Professor of Computer Science and Engineering and
+Associate Chair",,"Hank's research projects focus on
+computer architecture, operating systems, distributed and parallel computing, and
+the world-wide web.","Fellow of
+the Association for Computing Machinery, Senior Member of the IEEE, and
+recipient of a Fulbright Research Scholar Award",,
+David Notkin,414,Sieg Hall,(206) 685-3798,Professor,"a bachelor's degree from
+Brown University in 1977 Ph.D. from Carnegie-Mellon University in 1984",,NSF Presidential Young Investigator Award,,
+Hal Perkins,208,Sieg Hall,(206) 543-4784,lecturer,,,,,
+Zoran Popovic,325B,Sieg Hall,(206) 543-4226,Assistant Professor,"Sc.B. with Honors in Computer Science from Brown University in 1991, M.S. in
+Computer Science in 1993 and a Ph.D. in Computer Science in 1999 from Carnegie Mellon University.","Zoran's research interests lie primarily in computer graphics, especially in character animation, motion editing, physically based modeling and
+modeling/simulation of natural phenomena. He is also interested in nonlinearly constrained optimization, motion planning and biomechanics.",,,
+Thomas Anderson,316,Sieg Hall,(206) 543-9348,Associate Professor,"Ph.D. in Computer Science, 1991, University of
+   Washington. M.S. in Computer Science, 1989, University of
+   Washington. 
+
+   A.B. cum laude in Philosophy, 1983, Harvard
+   University.","Detour: Towards a Virtual Internet 
+
+   Portolano: Invisible Computing 
+
+   Access: Combining Communication and Computation
+   for Wide Area Networking and Systems Research 
+
+   WebOS: Operating system support for wide area
+   applications","Diane S. McEntyre Award for Excellence in Teaching,
+   1995
+   NSF Presidential Faculty Fellowship, 1994
+   Alfred P. Sloan Research Fellowship, 1994
+   NSF Young Investigator Award, 1992
+   IBM Graduate Ph.D. Fellowship, 1989",,
+Rajesh P.N. Rao,,Sieg Hall,206-685-9140,Assistant Professor,,"The primary goal of my research is to discover the computational principles
+underlying the brain's remarkable ability to learn, process and store information,
+and to apply this knowledge to the task of building adaptive robotic systems and
+artificially intelligent agents. Some of the questions that motivate my research
+include: How does the brain learn efficient representations of novel objects and
+events occurring in the natural environment? What are the algorithms that allow
+useful sensorimotor routines and behaviors to be learned? What computational
+mechanisms allow the brain to adapt to changing circumstances and remain
+fault-tolerant and robust? By investigating these questions within a computational
+and probabilistic framework, it is often possible to derive algorithms that not only
+provide functional interpretations of neurobiological properties but also suggest
+solutions to difficult problems in computer vision, speech, robotics and artificial
+intelligence.",,,
+Larry Ruzzo,,Sieg Hall,,Professor,"B.S. in Mathematics from the California
+Institute of Technology in 1968, his Ph.D. from the University of California at
+Berkeley in 1978","Currently, his principal research project involves the construction and programming
+of a vaguely parallel computer, consisting of 32 steam-powered Turing machines
+installed in the basement of Sieg Hall. Of particular interest is the use of
+triple-expansion bypass valves, coupled to individual governors on each engine, to
+achieve write-synchronization of the machines. Graduate students have played an
+important role in the construction and operation of the engine, particularly in
+stoking the boilers, and advanced undergraduates are occasionally allowed to polish
+the brass gauges.",,,
+David Salesin,,Sieg Hall,,Associate Professor,"ScB
+              from Brown University in 1983, and his PhD from Stanford
+              University in 1991","Salesin's research interests are in computer graphics, and include, in particular,
+non-photorealistic rendering, image-based rendering, and various topics in 2D
+graphics like color reproduction, digital typography, and compositing.","NSF Young Investigator award in 1993; an ONR Young
+Investigator Award, Alfred P. Sloan Research Fellowship, and an NSF Presidential
+Faculty Fellow Award in 1995; the University of Washington Award for
+Outstanding Faculty Achievement in the College of Engineering in 1996; the
+University of Washington Distinguished Teaching Award in 1997; The Carnegie
+Foundation for the Advancement of Teaching and the Council for the Advancement
+and Support of Education 1998-1999 Washington Professor of the Year Award in
+1998; and the ACM SIGGRAPH Computer Graphics Achievement Award in 2000",,
+Steven Seitz,423C,Sieg Hall,(206) 616-9431,Assistant Professor,"Ph.D., U. Wisconsin, Madison, 1997. M.A., U.C. Berkeley, 1991","Areas of Interest: computer graphics, computer vision",,,
+Rimli Sengupta,227B,Sieg Hall,(206) 616-6026,Research Assistant Professor,,,,,
+Alan Shaw,,Sieg Hall,,Professor,"Bachelor's degree in Engineering Physics
+from the University of Toronto, a Master's in Mathematics from Stanford
+University, and a Ph.D. in Computer Science from Stanford in 1968","His current research interests are in real-time systems and
+software specification methods",,,
+Lawrence Snyder,426D,Sieg Hall,206 543-9265,Professor,"University of Iowa (BA '68,
+   mathematics and economics) and Carnegie Mellon University (PhD '73,
+   computer science)","ZPL Project -- ZPL is a new parallel
+      programming language achieving high performance
+      across all contemporary parallel computers and
+      workstation clusters. ZPL is freely available and
+      in productive use by a small, but dedicated group
+      of users. A Programmer's Guide To ZPL, MIT Press,
+      1999.
+
+        Chaos Routing Project -- Chaos router is a
+      randomizing non-minimal adaptive packet router
+      suitable for parallel computers' communication
+      subsystems or local area networks. Chaos routing
+      has been implement in two silicon chips.",,,
+Steven Tanimoto,,Sieg Hall,,"Professor of Computer Science and Engineering .
+He also serves as Adjunct Professor of Electrical Engineering","A.B.
+degree from Harvard in 1971 and the Ph.D. from Princeton in 1975.","Professor Tanimoto's research interests include computer analysis of images
+(particularly using parallel processors), educational technology, visual
+programming, and artificial intelligence.",,,
+Martin Tompa,,Sieg Hall,(206) 543-9263,,,,,,
+Daniel S. Weld,408,Sieg Hall,,Thomas J. Cable / WRF Professor,"bachelor's
+         degrees in both Computer Science and Biochemistry at Yale University
+         in 1982. He landed a Ph.D. from the MIT Artificial Intelligence Lab in
+         1988","Weld's current research interests are in artificial intelligence,
+specifically software agents and planning. As one example, Weld's group supports
+the  Sensory Graphplan (SGP) planner. We also distribute the Medic
+SAT-compiler for planning problems.","Presidential Young Investigator's award in 1989 and
+an Office of Naval Research Young Investigator's award in 1990",,
+Larry Arnstein,323D,Sieg Hall,1.206.685.9138,Research Assistant Professor,"B.S, Case
+          Western Reserve University","LabScape, in collaboration with
+          the School of Medicine's Cell
+          Systems Initiative (CSI) and with
+          the  Portolano Expedition into
+          Ubiquitous Computing, is a
+          program meant to unite biologists
+          and information technologists
+          towards a better understanding of
+          living cells.",,,
+David Wetherall,210,Sieg Hall,,,"S.M. in computer science from MIT in 1994, and his B.E.
+in electrical engineering from the University of Western Australia in 1989 Ph.D. in computer science from MIT in 1998","My research interests span the area of computer systems with a focus on
+networking. They include: distributed systems, protocol design and
+implementation, programming languages, and mobile code. Lately I've spent a lot
+of time looking at how communication and computation tasks are intertwined.
+Some current projects are:
+
+   ANTS -- a Java-based toolkit for exploring active network designs and their
+   applications 
+   Self-organizing overlays -- how to automatically deploy and maintain
+   application-specific network overlay structures. 
+   Protocol design without trust -- how to design defensive protocols so that
+   parties that don't trust one another can still interact safely. 
+   Entropy-based information services -- using the replication of content
+   transfers to design better systems.",,,
+John Zahorjan,,Sieg Hall,(206) 543-0101,Professor,"Brown University in 1975 and received a
+Ph.D. from the University of Toronto in 1980.","Research Interests Summary
+
+Streaming media multicast distribution techniques; distributed real-time
+rendering;  performance evaluation; multi-media applications.","NSF Presidential
+Young Investigator Award in 1984",,
+Jean-Loup Baer,211,Sieg Hall,206 - 685-1376,"Professor and Adjunct Professor of
+Electrical Engineering,","the Diplome d'Ingenieur in
+Electrical Enginering and the Doctorat 3e cycle in
+Computer Science from the Universite de Grenoble
+(France) and the Ph.D. from UCLA in 1968",Computer Architecture,"Guggenheim Fellow, an IEEE Fellow, an ACM
+Fellow",,
+Paul Beame,,Sieg Hall,,Professor,"B.Sc. in
+                  Mathematics in 1981, an M.Sc.
+                  in Computer Science in 1982,
+                  and Ph.D. in Computer Science
+                  in 1987, all from the University
+                  of Toronto.","omputational
+                  complexity. His main interest is
+                  in proving lower bounds on the
+                  resources needed for solving
+                  computational problems. Much
+                  of his recent research has
+                  concentrated on connections
+                  between computational
+                  complexity and proof theory, in
+                  particular, on the complexity of
+                  proofs in propositional proof
+                  systems. 
+
+Another focus of Paul's recent research has been the
+application and extension of the techniques of symbolic
+model checking to apply to the verification of software
+specifications. (Believe it or not, there is a connection to
+lower bounds.)","In
+                  1988 he received an NSF
+                  Presidential Young Investigator
+                  Award.",,
+Brian N. Bershad,,Sieg Hall,1 (206) 543-6707,Associate Professor,PhD from the University of Washington in 1990,"operating systems, distributed
+systems, networking, parallel systems, and architecture.",,,
+Alan Borning,409,Sieg Hall,(206) 543-6678,professor,,"human-computer
+interaction, constraint-based languages and systems, and
+land use, transportation, and environmental modeling.",,,
+GAETANO BORRIELLO,323C,Sieg Hall,1.206.685.9432,Professor,"BS in EE from the
+Polytechnic Institute of New York (1979), an MS in EE
+from Stanford University (1981), and a PhD in CS from the
+Unversity of California at Berkeley (1988)","the design,
+development, and deployment of computing systems with
+particular emphasis on mobile and ubiquitous devices and
+their application. He has a wide range of interests that can
+be classified in embedded system design, development
+environments, user interfaces, and networking. They are
+unified by the goal of making new computing and
+communication devices that make life simpler by being as
+invisible as possible to their owners, being highly
+specialized and thus highly efficient for the task at hand,
+and able to exploit their connections to each other and the
+greater world-wide networks.",,,

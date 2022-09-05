@@ -1,0 +1,92 @@
+fac_name,fac_room,bldg,contact_phone,fac_title,final_degree,research_interests,fac_awards
+William Arms,,Upson Hall,,Professor,"Ph.D. University of Sussex, 1973.","Digital libraries, electronic publishing",
+Donald P. Greenberg,,Upson Hall,,"Jacob Gould Schurman Professor of Computer Science; Director, Program 
+of Computer Graphics; Founding Director, NSF Science and Technology Center for 
+Computer Graphics and Scientific Visualization.","Ph.D. Cornell University, 1968.","developing physically based lighting models and perceptually based rendering 
+procedures to produce images that are visually and measurably indistinguishable from real world images.",
+Joseph Y. Halpern,4144,Upson Hall,(607) 255-9562,"Professor; Co-Director, Cognitive Studies Program.","Ph.D. Harvard, 1981.","representing and reasoning about knowledge and uncertainty in multi-agent systems; 
+security.","Milner Lecturer at Edinburgh University, May, 2000. 
+   Awarded 1997 Godel Prize for outstanding paper in the area of theoretical
+   computer science for ``Knowledge and common knowledge in a distributed
+   environment''. 
+   Received ``Best Paper'' awards: 
+      ``Belief, awareness, and limited reasoning'' winner of MIT Press
+      Publisher's Prize as best paper of the 9th International Joint Conference on
+      Artificial Intelligence, 1985. 
+      ``An analysis of first-order logics of probability'' winner of Publisher's Prize
+      as best paper of the 11th International Joint Conference on Artificial
+      Intelligence, 1989. 
+   Given ``Outstanding Innovation Award'' by IBM: 
+      for work on reasoning about knowledge (1987). 
+      for work on clock synchronization (1988). 
+   Received ``First Plateau Invention Achievement Award'', IBM, 1992. 
+   Elected Fellow of the American Association of Artificial Intelligence, 1993."
+Juris Hartmanis,,Upson Hall,,"Joseph Silbert Dean of Engineering Turing Award Winner; Professor of 
+Computer Science.","Ph.D. Stanford University, 1964.","robust geometric algorithms, modeling and simulation, and information capture and 
+access.","National Academy of Engineering
+
+   Foreign Member: Latvian Academy of Sciences
+
+   Fellow: American Academy of Arts and Sciences; New York State Academy of Sciences; AAAS 
+
+   Turing Award Committee 
+
+   Goedel Prize Committee; Waterman Award Committee  
+   Editor: Springer-Verlag Lecture Notes in Computer Science; Journal of Computer and Systems
+   Sciences; Fundamenta Informaticae   
+   Advisory Board: EATCS Monographs in Theoretical Computer Science, Springer-Verlag  
+   Member: DIMACS External Advisory Committee"
+John E. Hopcroft,,Upson Hall,,"Joseph Silbert Dean of Engineering Turing Award Winner; Professor of 
+Computer Science.","Ph.D. Stanford University, 1964","robust geometric algorithms, modeling and simulation, and information capture and 
+access.",Turing Award Winner
+Daniel P. Huttenlocher,,Upson Hall,607 255 3036,Cornell Weiss Presidential Fellow; Associate Professor,"Ph.D. MIT, 1988.","computer vision, specifically the problems of model-based recognition, geometric 
+shape comparison, and the computation of visual correspondence.",
+Jon Kleinberg,,Upson Hall,,Assistant Professor,"Ph.D. MIT, 1996.","design of efficient algorithms, with an emphasis on combinatorial optimization, 
+discrete algorithms for networks, and problems in high-dimensional geometry.",
+Dexter Kozen,,Upson Hall,,"Joseph Newton Pew, Jr. Professor in Engineering","Ph.D. Cornell University, 1977.","theory of computational complexity, especially complexity of decision problems in 
+logic and algebra, program logics and semantics, and computational algebra.",
+Lillian Lee,,Upson Hall,,Assistant Professor,Ph.D. Harvard University 1997.,natural language processing.,
+J. Gregory Morrisett,,Upson Hall,,Assistant Professor,"Ph.D. Carnegie Mellon University, 1995.","Programming languages, security, type systems, and compilers.",
+Andrew Myers,,Upson Hall,,Assistant Professor,"Ph.D. MIT, 1999.","Security, programming language design and implementation, persistent and distributed 
+object systems.",
+Graeme Bailey,,Upson Hall,,Professor,"Ph.D.Univ. of Birmingham, U.K., 1977.","Mathematical modeling, applications to medicine and biology, geometry, 
+parametrization spaces and connectivity.",
+Keshav K. Pingali,,Upson Hall,,Professor,"Ph.D. MIT, 1986.","programming languages and compilers for high-performance architectures, 
+specifically generating efficient code for engineering and scientific simulations, starting from high-level 
+descriptions of the computations to be performed.",
+Fred B. Schneider,,Upson Hall,,Professor,"Ph.D. State University of New York at Stony Brook, 1978.",Concurrent and distributed systems; computer and network security.,
+David Schwartz,,Upson Hall,,Assistant Professor,"Ph.D. State University of NY at Buffalo, 1999.","Computational mechanics, applied mathematics and educational technology",
+Bart Selman,607 255 5643,Upson Hall,,,"Ph.D. University of Toronto, 1991.","Knowledge representation, reasoning and search, algorithms and complexity, 
+planning, machine learning, cognitive science, software agents, and connections between computational 
+complexity and statistical physics.","Alfred P. Sloan Research Fellowship (1999-2001)   
+   NSF Faculty Early Career  
+   Development Award (1998-2002)"
+Praveen Seshadri,,Upson Hall,,Professor,"Ph.D. University of Wisconsin, 1996.",architectural issues involved in building the next generation of database systems.,
+David B. Shmoys,,Upson Hall,,Professor,"Ph.D. University of California, Berkeley, 1984.","design and analysis of efficient algorithms for discrete optimization problems, in 
+particular approximation algorithms for NP-hard problems.",
+Eva Tardos,,Upson Hall,,Professor,"Ph.D. Eotvos University, Hungary, 1984.","design and analysis of algorithms, with an emphasis on problems in 
+combinatorial optimization and network problems.",
+Tim Teitelbaum,,Upson Hall,,Associate Professor,"Ph.D. Carnegie Mellon University, 1975.",incremental algorithms for programming languages and development environments.,
+Sam Toueg,,Upson Hall,,Professor,"Ph.D. Princeton University, 1979.","distributed computing, fault tolerance, and real time; including methodologies, 
+paradigms, and algorithms for fault-tolerant distributed systems, in both message-passing and shared-
+memory systems.",
+Charles Van Loan,,Upson Hall,,Professor,"Ph.D. University of Michigan, 1973.",numerical linear and multilinear algebra,
+Kenneth P. Birman,,Upson Hall,,Professor,"Ph.D. University of California, Berkeley, 1981.","developing corpus-based techniques for understanding and 
+extracting information from natural language texts.",
+Stephen A. Vavasis,,Upson Hall,,Associate Professor,"Ph.D. Stanford University, 1989.",design and analysis of efficient algorithms to solve large-scale scientific problems.,
+Thorsten von Eiken,,Upson Hall,,Assistant Professor,"Ph.D. University of California, Berkeley, 1993.",high performance communication in clusters of workstations.,
+Ramin Zabih,,Upson Hall,,Associate Professor,"Ph.D. Stanford University, 1994.","computer vision, both basic research issues and new applications. 
+Research issues include, image restoration, visual correspondence, and motion-based 
+tracking. The new application work focuses on content-based access to image 
+databases",
+Claire Cardie,4124,Upson Hall,607-255-9206,Associate Professor,"Ph.D. University of Massachusetts, Amherst, 1994.","developing corpus-based techniques for understanding and extracting 
+information from natural language texts.",
+Thomas F. Coleman,,Upson Hall,,"Professor Director, Advanced Computing Research Institute (ACRI).","Ph.D. University of Waterloo, 1979.","design and understanding of practical and efficient numerical algorithms for 
+continuous optimization problems. Primarily on the development of algorithms for large-scale 
+optimization.",
+Robert L. Constable,4149,Upson Hall,,Professor and Dean of CIS,"Ph.D. University of Wisconsin, Madison, 1968.","design and understanding of practical and efficient numerical algorithms for 
+continuous optimization problems. Primarily on the development of algorithms for large-scale 
+optimization.",
+Alan Demers,4130,Upson Hall,(607) 255-7416,Professor,"Ph.D. Princeton University, 1975.","Database systems, database replication, and algorithms.",
+Ron Elber,,Upson Hall,(607) 255-7416,Professor,"Ph.D. Hebrew University, Jerusalem, 1984.","Computational molecular biology, genomics.",
+Johannes Gehrke,4108,Upson Hall,607-255-1045,Assistant Professor,"Ph.D. University of Wisconsin-Madison, 1999.","Database systems, data mining, mining and monitoring evolving data.",

@@ -1,0 +1,446 @@
+name,room,building,phone,fac_title,degrees,research,award
+Alexander Aiken,773,Soda Hall,(510) 642-5319,associate professor,"Bachelors degree in Computer Science and Music
+from Bowling Green State University in 1983 and his Ph.D. from Cornell
+University in 1988","Type systems, static program analysis and abstract interpretation, constraint
+resolution algorithms, parallel programming, language design, domain specific
+languages, end user programming, visualization.  software eng.; programming languages; algorithms",
+Richard J. Fateman,789,Soda Hall,(510) 642-1879,Professor,"BS in Physics and Mathematics from Union
+College in 1966, and his Ph.D. in Applied Mathematics from Harvard
+University in 1971","My interests include scientific programming environments; algebraic
+manipulation by computer (programs like Macsyma, Mathematica, Maple,
+Axiom, Reduce); distributed computing; analysis of algorithms; programming
+and measurement of large systems; design and implementation of
+programming languages; digital document analysis (optical character
+recognition).",
+Jerry Feldman,731,Soda Hall,(510) 643-9153,Professor,,AI; massively parallel [connectionist] computation,
+David Forsyth,723,Soda Hall,,Associate Professor,,ision; geometric modeling,
+Michael J. Franklin,387,Soda Hall,(510) 642-1662,Associate Professor,"Ph.D., Computer Sciences, University of
+   Wisconsin, Madison, 1993 
+    M.S.E., Wang Institute of Graduate Studies,
+   1986, 
+    B.S., Computer and Information Science,
+   Univ. of Massachusetts, Amherst, 1983","nternet-scale Distributed Database
+             Systems 
+             Mobile and Ubiquitous Computing 
+             Data Dissemination and Broadcast 
+             DBMS Architecture and Performance
+             Evaluation",
+Dan Garcia,795,Soda Hall,"(510)
+642-9595",,"Ph.D. from the Computer
+         Science department of the University of California,","combinatorial game theory, CS education,
+           computer graphics (scientific visualization, corneal
+           visual acuity simulation), user interfaces",
+Ken Goldberg,4189,Etcheverry Hall,(510) 643-9565,Associate Professor,"undergrad work at the University of Pennsylvania and received
+my Ph.D. from the School of Computer Science at Carnegie Mellon
+University","obotics for auotmated manufacturing,
+           motion planning algorithms for feeding, sorting,
+           fixturing and assembly, desing of parts and devices for
+           automation, robotics in multimedia applications,
+           internet interfaces,collaborative filtering",
+Susan L. Graham,771,Soda Hall,(510) 642-2059,Professor,,"programming languages; software
+           development environments; software engineering",
+Michael A. Harrison,775,Soda Hall,(510) 642-1469,professor emeritus,"PhD from the
+University of Michigan in Communication Sciences","multimedia; user interfaces; software
+           environments My research interests over the years started with switching and
+automata theory. At Berkeley my focus shifted towards automata theory
+and discrete systems. This led to work on formal language theory and
+ultimately its application to fast parsing methods for compilers as well as
+getting the fastest practical algorithm for general context free
+recognition. Starting switching towards software research. A simple
+abstract model of protection in operating systems was invented which
+had far-reaching consequences.",
+Brian Harvey,781,Soda Hall,510 642-8311,lecturer,"BS, Mathematics, MIT, 1969
+                MS, Computer Science, Stanford, 1975
+                PhD, Science and Mathematics
+                          Education, Berkeley, 1985
+                MA, Clinical Psychology,
+                          New College of California, 1990",,
+Marti Hearst,102,South Hall,510-642-8016,assistant Professor,"BA, MS, and PhD degrees in
+   computer science from the University of California at Berkeley
+   in the BAIR group","nformation retrieval, user interfaces,
+           computational linguistics",
+Brian Barsky,785,Soda Hall,(510) 642-9838,Professor,"Ph.D. degree is
+in computer science from the University of Utah in Salt Lake City.  D.C.S. in engineering and a B.Sc. in mathematics and computer science","His research interests include computer aided geometric design and modeling, interactive three-dimensional computer graphics,
+visualization in scientific computing, computer aided cornea modeling and visualization, medical imaging, and virtual environments for
+surgical simulation. He has been working in spline curve/surface representation and their applications in computer graphics and geometric modeling for many
+years. He is applying his knowledge of curve/surface representations as well as his computer graphics experience to improving
+videokeratography and corneal topographic mapping, forming a mathematical model of the cornea, providing computer visualization of
+patients' corneas to clinicians, and developing new techniques for contact lens design and fabrication. This research forms the OPTICAL
+(OPtics and Topography Involving Cornea and Lens) project.","recipient of an IBM Faculty Development Award and a National Science Foundation Presidential Young Investigator
+Award."
+Joseph Hellerstein,685,Soda Hall,(510) 643-4011,Assistant Professor,,"Database Systems
+Adaptive Dataflow Systems
+Federated Systems",
+Thomas Henzinger,585,Soda Hall,(510) 643-2430,Professor,"Ph.D. Stanford University, 1991","Theory of concurrent and hybrid systems
+                Formal verification
+                Design and analysis of embedded real-time
+                systems CAD of integrated circuits & systems,
+           control, robotics, and biosystems",
+Paul Hilfinger,787,Soda Hall,(510) 642-8401,Associate Professor,,"software engineering; programming
+           languages",
+David Hodges,516,cory Hall,(510) 642-5771,Professor Emeritus,"B.E.E. degree at Cornell University in 1960 and the M.S. and
+Ph.D. degrees at Berkeley in 1961 and 1966","Professor Hodges was active in teaching and
+research on microelectronics technology and design. Since 1984 his
+research has centered on semiconductor manufacturing systems.","Daniel M. Tellep Distinguished Professor of
+Engineering Emeritus the winner of the 1997 IEEE Education Medal
+and the 1999 ASEE Benjamin Garver Lamme Award."
+Michael I. Jordan,731,Soda Hall,(510) 642-3806,Professor,"Masters in
+Mathematics from Arizona State University, earned his PhD in
+Cognitive Science from the University of California, San Diego","His research interests focus on artificial intelligence and statistics,
+particularly the areas of machine learning and reasoning under
+uncertainty. He has worked on a number of topics in machine learning,
+including neural networks, mixture models, decision trees, hidden
+Markov models, Boltzmann machines and Bayesian networks. His most
+recent interest is in mathematical methods for approximate inference, in
+particular *variational* or *mean field* methods.",
+Anthony D. Joseph,675,Soda Hall,(510) 643-7212,Assistant Professor,,"My primary research interests are in mobile and
+distributed computing, wireless communications
+(networking and telephony), and smart spaces. I
+am exploring these areas in two efforts, the
+Iceberg project and the Ninja project, and in a
+broader collaboration, the Internet-scale
+Systems Research Group",
+William Kahan,733,Soda Hall,(510) 642-5638,Professor,"Ph.D., University of Toronto",numerical analysis; scientific computation,"IEEE Emanuel R. Piore Award, 2000
+   Soc. Indust. & Appl. Math., 1997 John von Neumann Memorial
+   Lecture 
+   ACM Fellow, 1994
+   ACM Turing Award, 1989
+   SIAM Activity Group on Linear Algebra, Prize for Outstanding
+   Paper 
+   in 1988-1990 (with J. Demmel), 1991
+   ACM 1st G. E. Forsythe Memorial Award, 1972"
+Richard Karp,621,Soda Hall,(510) 642-5799,Professor,,Theory,
+Randy H. Katz,637,Soda Hall,510-642-8778,Professor,"Ph.D., University of California, Berkeley, 1980.
+M.S., University of California, Berkeley, 1978.
+A.B., Cornell University, 1976","Wireless Communications, Mobile Computing, Collaborations
+Environments, Smart Spaces.","National Academy of Engineering, Class of 2000;
+ACM Karl V. Karlstrom Outstanding Educator Award, (May 2000);
+Keynote Address, 20th IEEE Distributed Computing Conference,
+Taipei, Taiwan, 2000;
+Decoration for Exceptional Civilian Service, Department of the Air
+Force, for Service on the United States Air Force Scientific Advisory
+Board, 1997-1999, (November 1999);
+1999 ASEE Frederick Emmon Terman Award for Contemporary Logic
+Design, Longman, Addison, Wesley Publishers, Reading, MA, 1993
+(Outstanding engineering textbook written by an author under 40 years
+old);
+Tau Beta Pi Eminent Engineer, 1999;
+Distinguished Invited Lecturer, University of Illinois,
+Urbana-Champaign, 1999;
+Distinguished Invited Lecturer, University of Washington, Seatlle, 1998;
+1999 IEEE Reynold B. Johnson Information Storage Award ""for the
+development of Redundant Arrays of Inexpensive Disks (RAID)."" With
+David Patterson and Garth Gibson;
+Keynote Address, 8th INRIA-Industry Conference on Software for
+Telecommunications and Multimedia, Paris, France, 1998;
+Best Paper Award, ACM SIGCOMM'98, Vancouver, BC, 1998;
+ACM SIGMOD 1998 ""Test of Time Award"" for the Most Influential
+Paper Published in the 1988 ACM SIGMOD Proceedings (Patterson,
+Gibson, Katz, ""The Case for Redundant Arrays of Inexpensive Disks
+(RAID)"");
+The United Microelectronics Corporation Distinguished Professor in
+Electrical Engineering and Computer Science, 1996-Present;
+Invited Plenary Speaker, IEEE ICCD'97 Conference, Austin, TX, 1997;
+Best Paper Award, ACM Multimedia Conference, Seattle, WA, 1997;
+Best Paper Award, IEEE ICCD'97 Conference, Austin, TX, 1997;
+Best Paper Award, ACM/IEEE Mobile Computing Conference,
+Budapest, Hungary, 1997;
+Keynote Address, ACM/IEEE Mobile Computing Conference,
+Budapest, Hungary, 1997;
+Keynote Address, ACM Workshop on Satellite-Based Information
+Systems, Budapest, Hungary, 1997
+Research Triangle Distinguished Lecturer, University of North Carolina
+Chapel Hill, Duke University, and North Carolina State University
+Raleigh, 1997;
+Invited Plenary Lecture: Federated Computer Research Conference,
+Philadelphia, PA, 1996;
+Distinguished Invited Lecturer: University of Southern California, 1996;
+Fellow of the IEEE, 1996;
+Fellow of the ACM, 1996;
+Best Paper Award, ACM Conference on Mobile Computing and
+Networks, Berkeley, CA, 1995;
+Computing Research Association Distinguished Service Awards, 1995;
+Distinguished Alumni Award, Computer Science and Engineering,
+University of California, Berkeley, 1994;
+Brice Colloquium Lecturer, Rice University, Houston, TX, 1994;
+Keynote Address, Parallel and Distributed Systems Conference, Austin,
+TX, 1994;
+Keynote Address, International Computational Seismology Workshop,
+San Diego, CA, 1994;
+Keynote Address, ASPLOS VI Conference, San Jose, CA, 1994;
+Keynote Address, ACM SIGUCCS User Services Conference, San
+Diego, CA, 1993;
+Keynote Address, Computer Elements Workshop, Vail, CO, 1992;
+Distinguished Teaching Award, Academic Senate, University of
+California, Berkeley, 1991-1992;
+I.E.E.E. Certificate of Appreciation for Program Chairmanship of Second
+International Conference on Architectural Support for Programming
+Languages and Operating Systems (ASPLOS-II);
+Best Presentation Award: I.E.E.E. International Conference on
+Computer Design (ICCD'86);
+Distinguished Invited Lecturer: University of Colorado-Boulder, (March
+1988);
+Distinguished Invited Lecturer: University of Wisconsin-Madison,
+(November 1987);
+Best Paper Award: 23rd A.C.M./I.E.E.E. Design Automation
+Conference, (June 1986);
+Best Presentation Award: 23rd A.C.M./I.E.E.E. Design Automation
+Conference, (June 1986);
+Best Panel Session Award: 33rd I.E.E.E. International Solid-State
+Circuits Conference (February 1986);
+I.B.M. Faculty Development Award 1984 - 1986;
+National Science Foundation Presidential Young Investigator 1984 -
+1989;
+I.E.E.E. Certificate of Appreciation for Associate Editorship of Database
+Engineering Newsletter;
+Best Presentation Award: 19th A.C.M./I.E.E.E. Design Automation
+Conference (June 1982);
+I.B.M. Predoctoral Fellowship; Sigma Xi; Phi Beta Kappa; Phi Kappa
+Phi; Cornell Regents Scholarship; Cornell College Scholar"
+John Kubiatowicz,673,Soda Hall,(510) 643-6817,Assistant Professor,,"multiprocessor computer architectures and
+           systems",
+Elwyn Berlekamp,847,Evans Hall,(510) 642-6919,Professor,"1964: PhD in electrical engineering, MIT
+               (thesis appears under publications) 
+
+               1962: MS in electrical engineering, MIT 
+
+               1962: BS in electrical engineering, MIT 
+
+               1960-1962: co-op student, Bell Telephone Laboratories,
+               (now Lucent Technology and AT&T Shannon Laboratories)
+
+               1958: Diploma, Highland High School, Fort Thomas, KY",Games and Codes,"1999: National Academy of Sciences, Applied Math Section 
+
+               1996: American Academy of Arts and Sciences, Mathematics Section 
+
+               1977: National Academy of Engineering, Computer Science and EE Systems Sections 
+
+               IEEE Information Theory Society 
+
+                  1998: Golden Jubilee Award
+                  1993: Shannon Award
+                  1969: Best Research Paper Award 
+
+               IEEE 
+
+                  1991: R. W. Hamming Award
+                  1990: Koji Kobayashi Award for Computers and Communications
+                  1984: Centennial Medal
+                  1971: Fellow 
+
+               1971: Eta Kappa Nu ""Outstanding Young Electrical Engineer"" Award 
+
+               1961: William Lowell Putnam Intercollegiate Mathematics Competition, top 5"
+"James A.
+                 Landay",683,Soda Hall,(510) 643-3043,Assistant Professor,,"My primary research interests are in
+human-computer interaction, user interface
+design tools, pen-based user interfaces,
+end-user programming, mobile computing, and
+other novel uses of computer technology. The
+Group for User Interface Research is working in
+many of these areas.",
+Jitendra Malik,725,Soda Hall,(510) 642-7597,Professor,"B.Tech degree in Electrical Engineering from Indian Institute of
+Technology, Kanpur in 1980 and the PhD degree in Computer Science
+from Stanford University in 1985","His research interests are in computer vision and computational
+modeling of human vision. His work spans a range of topics in vision
+including image segmentation and grouping, texture, stereopsis and
+object recognition,. His research has found applications in image based
+modeling and rendering, content based image querying, and intelligent
+vehicle highway systems. He has authored or co-authored more than 90
+research papers on these topics.  vision; robotics; geometric modeling","He received the gold medal for the best graduating student in Electrical
+Engineering from IIT Kanpur in 1980, a Presidential Young Investigator
+Award in 1989, and the Rosenbaum fellowship for the Computer Vision
+Programme at the Newton Institute of Mathematical Sciences,
+University of Cambridge in 1993. He received the Diane S. McEntyre
+Award for Excellence in Teaching from the Computer Science Division,
+University of California at Berkeley, in 2000."
+George Necula,783,Soda Hall,(510) 643-1481,"Assistant
+         Professor",,"software engineering; programming
+           languages; security",
+A. Richard Newton,563,cory Hall,(510) 642-5771,"Dean of the
+          College of Engineering and the Roy W.
+          Carlson Professor","B. Eng. and
+   M.Eng.Sci degrees from the University of
+   Melbourne, Australia, in 1973 and 1975
+   respectively, and the Ph.D. degree from the
+   University of California at Berkeley in 1978","His teaching and
+          research interests include all aspects of
+          the design of electronic systems, with
+          emphasis on computer-aided design,
+          the use of the Web for design, advanced
+          user interfaces, embedded systems and
+          software, and new design techniques for
+          deep sub-micron technologies.","Best Paper
+   Awards at the 1988 European Solid State Circuits
+   Conference, the 1987 and 1989 ACM/IEEE
+   Design Automation Conferences, and the
+   International Conference on Computer Design,
+   and he was selected in 1987 as the national
+   recipient of the C. Holmes McDonald
+   Outstanding Young Professor Award of the
+   Eta-Kappa-Nu Engineering Honor Society. In
+   1989 he was co-recipient of a Best Paper Award
+   for the IEEE Transactions for Computer-Aided
+   Design of Integrated Circuits and Systems."
+James F. O'Brien,633,Soda Hall,,Assistant Professor,,"My primary area of research involves the
+                physically based simulation of complex
+                deformable systems to generate motion for use in
+                computer generated animation.",
+Christos H. Papadimitriou,689,Soda Hall,(510) 642-1559,Professor,"Athens Polytechnic (BS in EE 1972) and Princeton (PhD in
+CS 1976).","I am interested in the theory of algorithms and complexity, and its
+applications to databases, optimization, AI, and game theory.",
+David A. Patterson,635,Soda Hall,(510) 642-6587,Professor,,"architecture; mass storage & networks of
+           workstations","Outstanding Alumnus Award of the UCLA Computer Science
+Department as part of its 25th Anniversary.  In 1995 he received the
+IEEE Technical Achievement Award. In 1998 he shared the inaugural
+Test of Time Award with Garth Gibson and Randy Katz, given by  the
+Special Interest Group on Management of Data (SIGMOD) to the most
+influential paper from the SIGMOD proceedings 10 years earlier. The
+following year they also shared the IEEE Reynold B. Johnson
+Information Storage Award ""for the development of Redundant Arrays of
+Inexpensive Disks (RAID)."" In 2000 he shared the IEEE John von
+Neumann Medal with John Hennessy"
+Chitoor Ramamoorthy,741,Soda Hall,(510) 642-4751,Professor Emeritus,"Ph.D., Harvard University",software engineering,"Distinquished Scholar Award, Society for Design & Process
+   Science, 1995
+   IEEE Richard E. Merwin Award, 1993
+   IEEE Computer Society Meritorious Service Award, 1991
+   Keynote Speaker, IEEE International Conference on Distributed
+   Computing Systems, 1991
+   IEEE Computer Society Taylor Booth Award, 1990
+   Keynote Speaker, IEEE International Conference on Data
+   Engineering, 1991
+   Keynote Speaker, Silver Jubilee Anniversary Conference of the
+   Computer Society of India, 1990
+   IEEE Computer Society, Outstanding Paper Award, 1987
+   Keynote Speaker, International Computer Symposium, Taiwan,
+   1988 and 1990
+   IEEE Centennial Medal, 1984
+   Fellow, IEEE, 1978
+   IEEE Computer Society, Special Education Award, 1978
+   IEEE Computer Society, Honor Roll Award, 1974
+   Admiral Grace Hopper Chair, Naval Postgraduate School"
+Satish Rao,679,Soda Hall,(510) 642-4328,Associate Professor,,Theory,
+Lawrence A. Rowe,629,Soda Hall,(510) 642-5117,Professor,"BA in mathematics and a PhD in information and computer science from the University of California
+at Irvine in 1970 and 1976, respectively","digital video; multimedia applications; user
+           interfaces",
+Manuel Blum,687,Soda Hall,(510) 6442-1662,Professor,"B.S. in Electrical Engineering, Massachusetts Intitute of Technology, 1959
+M.S. in Electrical Engineering, Massachusetts Intitute of Technology, 1961
+Ph.D. in Mathematics, Massachusetts Institute of Technology, 1964","heory, recursive function; cryptographic protocols;
+           program checking","ACM's A. M. Turing Award, 1995
+   Arthur J. Chick Chair, EECS, 1995
+   Fellow, American Academy of Arts and Sciences, 1995
+   Faculty Research Lecturer, UC Berkeley Academic Senate, 1994
+   Sigma Xi's Monie A. Ferst Award, 1991
+   Fellow, American Association for the Advancement of Science, 1988
+   Fellow, IEEE, 1987
+   Invited Lecturer, International Congress of Mathematicians, 1986
+   Chair, Computer Science Division, 1977-1980
+   Distinguished Teaching Award, Academic Senate of UC Berkeley, 1977"
+Stuart Russell,727,Soda Hall,(510) 642-4964,Professor,"B.A. with first-class honours in Physics from Oxford University in
+1982, and his Ph.D. in Computer Science from Stanford in 1986","AI; machine learning; real-time
+           decision-making; algorithms His research interests include machine learning, limited rationality,
+real-time decision-making, intelligent agent architectures, autonomous
+vehicles, search, game-playing, reasoning under uncertainty, and
+commonsense knowledge representation.","Presidential Young Investigator Award of the National Science
+Foundation, and in 1995 he was co-winner of the Computers and
+Thought Award, the highest international award in the field of artificial
+intelligence"
+Alberto Sangiovanni-Vincentelli,515,cory Hall,(510) 642-4882,Professor,"Graduate Dottore in Ingegneria (summa cum
+   laude) (Doctor of Engineering) Politecnico di
+   Milano, 1971","CAD of integrated circuit & systems,
+           control, robotics & biosystems, integrated circuits. CS:
+           operating systems, programming languages &
+           environments, theory","Mattioli Awards 1965 - 1971; 
+   Phillips Awards 1970-1971 for the best
+   student in Electrical Engineering and
+   Computer Sciences at the Politecnico di
+   Milano 
+    Italian Government Fellowships 1971-1974, 
+    NATO Junior Fellowship 1975, 
+    Fulbright Fellowship 1975, 
+    C.N.R. (Italian National Research Council)
+   Fellowship 1976, 
+    Blanceflor-Stiftelsen-Ludovisi Fodd Bildt
+   grant 1976, 
+    Distinguished Teaching Award, University of
+   California, 1981, 
+    Best Paper Award 1982 Design Automation
+   Conference, Las Vegas, June 1982 
+    Best Presentation Award, 1982 Design
+   Automation Conference, Las Vegas, June 1982 
+    IEEE Fellow, January 1983 
+    Guillemin-Cauer Award for the best paper of
+   the IEEE Transactions published by the
+   Circuits and Systems Society in the calendar
+   years 1981-1982. 
+    Best Paper Award 1983 Design Automation
+   Conference, Miami Beach, June 1983. 
+    Distinguished Lecturer of the IEEE Circuits
+   and System Society, 1985-1993 
+    Gold Medal of University of L'Aquila for
+   contributions to electronics sciences. 
+    Darlington Award for the best paper of the
+   IEEE Transactions published by the Circuits
+   and Systems Society in the calendar years
+   1986-1987 bridging theory and practice. 
+    1989 IEEE CAD Transactions Best Paper Award 
+    Best Paper Award 1991 Design Automation
+   Conference, San Francisco, June 1991. 
+    Inventor Recognition Award by the
+   Semiconductor Research Corporation for
+   simulated annealing research embedded in the
+   program TimberWolf. 
+    Medal of Scuola Sant'Anna, University of
+   Pisa, 1991."
+Carlo H. Sequin,639,Soda Hall,(510) 642-5103,Professor,"Ph.D degree in experimental physics
+from the University of Basel, Switzerland in 1969",CAD tools; graphics; geometric modeling,
+Jonathan Shewchuk,625,Soda Hall,(510) 642-3936,Assistant Professor,"B.Sc. in
+Physics and Computing Science from Simon Fraser
+University in 1990, and my M.S. and Ph.D. in Computer Science from
+Carnegie Mellon University","scientific computing; computational
+           geometry (esp. mesh generation); computer
+           arithemetic; compilers for parallel unstructured
+           computation; numerical analysis",
+Alistair Sinclair,677,Soda Hall,(510) 643-8144,Professor,,theory; design & analysis of algorithms,
+Robert K. Brayton,573,Cory Hall,(510) 643-9801,Professor,"Ph.D. Mathematics, 1961, Massachusetts Institute of Technology","omputer-aided design of integrated circuits and
+           systems Current research involves combinational and sequential
+logic synthesis for area/performance/testability, asynchronous
+synthesis, and formal design verification","Dr. Brayton holds the Edgar L. and Harold H. Buttner Endowed Chair
+in Electrical Engineering in the EECS Department at Berkeley.
+He is a member of the National Academy of Engineering, and
+a Fellow of the IEEE and the AAAS. He received the 1991 IEEE CAS
+technical achievement award, the 1971 Guilleman-Cauer award, and 
+the 1987 Darlington award."
+John Canny,529,Soda Hall,(510) 642-9955,Professor,,"HCC is a research consortium on
+             Human-Centered Computing. It comprises
+             faculty from computer science,
+             sociology, psychology, SIMS,
+             education, business, linguistics,
+             electrical and mechanical engineering.
+             HCC's goal is to design information
+             systems into human contexts, and to
+             better understand those contexts using
+             computational tools",
+Michael Clancy,779,Soda Hall,"(510) 642-7017,",Senior Lecturer,"B.S., University of Illinois at Urbana-Champaign",CS education; programming languages; algorithms,"Diane S. McEntyre Award, 1992"
+David E. Culler,627,Soda Hall,(510) 643-7572,Professor,,"Tiny OS: Design Principles for Deeply Embedded Networked Systems 
+   The Endeavour Expedition: Charting the Fluid Information Utility 
+   Ninja - Platform architecture for Scalable Internet Services 
+   Post-PC Era (IBM Pervasive Computing Meetings) 
+   SimMillenniumCAL Millennium Clusters of Clusters on a Campus-wide
+   Scale (under construction). 
+   TITAN A Next-Generation Infrastructure for Integrating Computing and
+   Communication. 
+   NOW: Network of Workstations as a High Performance Integrated System 
+   The Castle Project: Integrated software support for parallel computing. 
+   Split-C: A performance programming language for parallel machines.",
+James Demmel,737,Soda Hall,(510) 643-5386,Professor of Mathematics and Computer Science,"BS in Mathematics from Caltech in 1975 and
+   his Ph.D. in Computer Science from UC Berkeley in 1983.","scientific computing; numerical analysis; linear
+           algebra","National Academy of Engineering, 1999
+   ACM Fellow, 1999
+   NSF-CBMS Lecturer on Parallel Numerical Linear Algebra, San
+   Francisco, 1995 
+   J. H. Wilkinson Prize in Numerical Analysis and Scientific Computing,
+   1993 
+   SIAG on Linear Algebra Prize 1991 (with W. Kahan) and 1988 
+   Presidential Young Investigator Award, 1986 
+   IBM Faculty Development Award, 1985  Dr. Richard Carl Dehmel Distinguished Professor"

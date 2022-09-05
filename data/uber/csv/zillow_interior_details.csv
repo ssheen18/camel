@@ -1,0 +1,457 @@
+house_id,full_bathrooms,half_bathrooms,basement,flooring,appliances,total_interior_livable_area,fireplace
+55397269,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,001 sqft",Yes
+448478,1,,,Hardwood,"Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator",867 sqft,
+43691309,2,,,"Tile, Carpet","Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","1,910 sqft",1 Fireplace
+55397043,1,,Unfinished,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,957 sqft",Yes
+15151214,,,Finished,Hardwood,"Dishwasher, Dryer, Freezer, Range / Oven, Refrigerator, Washer",930 sqft,
+104460216,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer",801 sqft,
+245677620,2,,,"Tile, Hardwood","Dishwasher, Microwave, Range / Oven, Refrigerator","1,578 sqft",
+89921434,2,,Slab,"Tile, Carpet, Hardwood","Dishwasher, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator","1,200 sqft",Yes
+439323,4,,,Hardwood,,"4,099 sqft",Yes
+20690565,1,,,Other,,576 sqft,
+3874726,3,,,"Carpet, Hardwood","Dishwasher, Dryer, Microwave, Refrigerator, Washer","1,480 sqft",
+295357473,2,,,,,"1,369 sqft",
+27323931,2,,,"Tile, Carpet",Dishwasher,"1,963 sqft",Gas Logs
+29333056,9,,,"Tile, Hardwood","Dishwasher, Garbage disposal, Microwave, Refrigerator","13,886 sqft",Yes
+43708313,2,,,"Tile, Carpet, Linoleum / Vinyl","Dishwasher, Range / Oven, Refrigerator","2,320 sqft","Wood Burning Fireplace, 1 Fireplace, Marble Fireplace"
+7512091,,,,Tile,"Microwave, Range / Oven, Refrigerator","1,130 sqft",
+121073218,2,,,"Carpet, Hardwood","Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,948 sqft",Yes
+102959965,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,123 sqft",Yes
+26819039,3,,,"Tile, Linoleum / Vinyl",,"2,500 sqft",
+15072751,,,,Carpet,,700 sqft,
+26818496,2,,,"Carpet, Tile",Dishwasher,"1,472 sqft",
+36730425,2,,None,Hardwood,"Dishwasher, Dryer, Garbage disposal, Range / Oven, Refrigerator, Washer","2,064 sqft",Yes
+60136219,2,,,"Tile, Carpet, Hardwood","Dishwasher, Garbage disposal, Microwave","3,051 sqft",Yes
+19607297,2,,None,"Tile, Hardwood, Linoleum / Vinyl","Dishwasher, Garbage disposal, Microwave, Range / Oven","1,511 sqft",Yes
+2077554927,3,,,"Tile, Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","2,137 sqft","Wood Burning Fireplace, 1 Fireplace, Tile Fireplace, Fireplace-Family Room/Den/Gr"
+7515311,,,,Tile,"Range / Oven, Refrigerator","1,180 sqft",
+29331251,6,,,Carpet,"Dishwasher, Garbage disposal, Range / Oven, Refrigerator","12,550 sqft",
+17112435,,,,"Tile, Hardwood",,"1,323 sqft",
+20788262,,,None,Hardwood,Dishwasher,"2,789 sqft",Yes
+81944512,3,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,840 sqft",Yes
+449003,1,,,Hardwood,"Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator",988 sqft,
+101377273,2,,,,,"1,330 sqft",
+83813569,5,,,"Carpet, Hardwood","Dishwasher, Garbage disposal","7,293 sqft",
+15078068,,,,"Tile, Hardwood","Dryer, Washer","1,276 sqft",Yes
+82785788,,,,"Hardwood, Tile","Dryer, Washer",491 sqft,Yes
+110721756,1,,"Full, Block",,,"1,792 sqft",Wood Burning
+64778753,4,,,"Tile, Carpet, Hardwood","Dishwasher, Garbage disposal, Microwave, Refrigerator","3,704 sqft",Yes
+19600868,2,,,,"Dishwasher, Garbage disposal, Microwave, Range / Oven, Trash compactor","1,700 sqft",Yes
+15080658,,,Partially finished,"Carpet, Hardwood","Dryer, Washer","6,685 sqft",Yes
+7514179,3,,,Other,,"1,594 sqft",
+15077575,,,,Carpet,,"1,037 sqft",Yes
+7515266,,,,Linoleum / Vinyl,,"1,430 sqft",
+19579447,1,,,"Tile, Hardwood, Linoleum / Vinyl","Dryer, Range / Oven, Washer","1,040 sqft",
+20690599,3,,,Tile,Range / Oven,"2,544 sqft",
+2119576321,2,,,"Carpet, Laminate","Freezer, Microwave, Washer","1,664 sqft",
+61618491,2,,,"Carpet, Hardwood","Dishwasher, Microwave, Refrigerator",945 sqft,
+110721151,1,,"Finished, Full, Block, Radon Mitigation",Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,778 sqft",
+110711045,1,,"Finished, Full, Block, Sump Pump, Radon Mitigation",Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,848 sqft",
+89913137,2,,,Hardwood,"Range / Oven, Refrigerator","1,800 sqft",
+20795967,2,,,"Hardwood, Tile","Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer","1,017 sqft",
+62629095,2,,,Hardwood,"Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","2,307 sqft",1 Fireplace
+63790467,1,,,"Tile, Carpet","Dishwasher, Garbage disposal",767 sqft,
+26994444,2,,,"Tile, Hardwood","Dishwasher, Microwave","1,926 sqft",Gas Logs
+26943888,,,,"Tile, Carpet, Hardwood","Dishwasher, Microwave, Refrigerator, Washer","1,806 sqft",Wood Burning
+19608428,2,,,"Tile, Carpet, Laminate","Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Refrigerator, Washer","1,855 sqft",Yes
+104456605,2,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,264 sqft",Yes
+20788517,1,,,,"Dishwasher, Garbage disposal, Refrigerator",696 sqft,
+122064192,,,Unfinished,Hardwood,"Dryer, Washer","1,179 sqft",Yes
+153249692,,,,,,"2,468 sqft",
+89237737,,,,Hardwood,"Dryer, Washer","1,037 sqft",
+54535555,1,,,"Carpet, Hardwood, Laminate","Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,600 sqft",Yes
+26907572,1,,,"Tile, Linoleum / Vinyl",Dishwasher,"1,362 sqft",Wood Burning
+108871045,1,,Partially finished,Hardwood,"Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","1,750 sqft",Wood Burning
+40472965,1,,Partially finished,,"Dryer, Microwave, Range / Oven, Refrigerator",864 sqft,
+65557381,1,,Partially Finished,"Tile, Hardwood","Dishwasher, Refrigerator","1,100 sqft",
+110749564,1,,Block,Hardwood,"Dishwasher, Dryer, Garbage disposal, Range / Oven, Refrigerator, Washer","2,461 sqft",Wood Burning
+20643510,,,,"Tile, Carpet, Hardwood",,"1,950 sqft",
+87717960,3,,Finished,Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","2,600 sqft",Yes
+20797557,3,,Finished,"Hardwood, Tile","Dishwasher, Freezer, Garbage disposal, Refrigerator","1,729 sqft",Yes
+125234157,2,,,Hardwood,"Dishwasher, Microwave","1,350 sqft",
+20800583,2,,,Tile,"Dishwasher, Dryer, Freezer, Garbage disposal, Range / Oven, Refrigerator, Washer","1,587 sqft",Yes
+70753128,2,,,"Carpet, Hardwood, Linoleum / Vinyl","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,385 sqft",
+26794313,1,,,Hardwood,,"1,352 sqft",
+36743778,2,,,Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","3,390 sqft",Yes
+84640400,2,,None,"Tile, Carpet, Laminate","Microwave, Range / Oven, Refrigerator","2,923 sqft",2 or more Fireplaces
+104454639,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer",801 sqft,
+19580018,1,,,Other,"Microwave, Range / Oven, Trash compactor",931 sqft,Yes
+19594284,2,,,Hardwood,,"1,310 sqft",Yes
+96794859,2,,"Finished, Full, Sump Pump, Shower",Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,924 sqft",Wood Burning
+29333050,4,,,"Tile, Carpet, Hardwood","Dishwasher, Garbage disposal, Microwave, Refrigerator, Trash compactor","6,796 sqft",Yes
+43695222,3,,,Carpet,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","2,091 sqft","1 Fireplace, Mantle, Fireplace-Family Room/Den/Gr"
+19556933,2,,,"Tile, Hardwood","Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer",876 sqft,Yes
+19557393,1,,None,"Tile, Hardwood","Dishwasher, Range / Oven, Refrigerator",653 sqft,
+7505448,,,,,,"1,500 sqft",
+246025291,3,,,,,"2,500 sqft",
+284859871,,,,Tile,"Range / Oven, Refrigerator","1,303 sqft",
+70465543,1,,,"Carpet, Hardwood","Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer",,Yes
+26951537,2,,,"Tile, Carpet, Linoleum / Vinyl","Dishwasher, Microwave","1,555 sqft","Brick, Wood Burning, Masonry Box"
+7519505,,,,"Carpet, Other","Dishwasher, Dryer, Range / Oven, Refrigerator, Washer","1,140 sqft",
+448457,1,,,Hardwood,"Microwave, Refrigerator",659 sqft,
+29334463,4,,,"Carpet, Hardwood","Dishwasher, Garbage disposal, Microwave, Refrigerator","5,381 sqft",Yes
+29331269,6,,Unfinished,"Hardwood, Tile","Dishwasher, Garbage disposal, Microwave, Refrigerator, Trash compactor","5,577 sqft",
+29334477,3,,,"Carpet, Hardwood, Tile","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","4,434 sqft",
+459564,3,,,Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer","3,120 sqft",Yes
+95632851,1,,,"Carpet, Hardwood, Tile","Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer","2,110 sqft",
+20788058,3,,,"Hardwood, Tile","Dishwasher, Garbage disposal, Refrigerator","2,853 sqft",Yes
+3592202,1,,Crawl,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,100 sqft",
+121066995,2,,,Hardwood,,"1,191 sqft",
+81921171,2,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,577 sqft",
+87724167,2,,,Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer",,
+29333052,7,,None,"Tile, Other, Hardwood","Dishwasher, Garbage disposal, Microwave, Refrigerator, Trash compactor, Washer","9,579 sqft",Yes
+19594537,2,,,Laminate,"Range / Oven, Refrigerator","1,810 sqft",Yes
+448535,1,,Y,Hardwood,"Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator",855 sqft,
+2078389959,4,,,"Carpet, Hardwood, Tile","Dishwasher, Garbage disposal, Microwave, Range / Oven","2,462 sqft",
+306645920,4,,,"Carpet, Hardwood, Tile","Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","4,961 sqft",
+26860844,1,,,"Carpet, Laminate",Refrigerator,"1,120 sqft",
+61962938,3,,,"Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,633 sqft",Yes
+20797583,1,,,"Tile, Carpet, Hardwood",,710 sqft,Yes
+19607696,2,,,"Tile, Hardwood","Garbage disposal, Refrigerator","1,554 sqft",Yes
+158778443,2,,Unfinished,"Hardwood, Linoleum / Vinyl",,"2,547 sqft",Yes
+27290268,2,,,"Tile, Carpet",Dishwasher,"2,010 sqft",Yes
+458486,,,,Hardwood,"Dryer, Washer",950 sqft,Yes
+36744362,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator","1,344 sqft",Yes
+55396371,2,,Partially finished,,"Dishwasher, Microwave, Range / Oven, Refrigerator","2,008 sqft",
+27263280,2,,,"Tile, Carpet, Laminate",Dishwasher,"1,720 sqft",Yes
+55397047,1,,Finished,Hardwood,"Range / Oven, Refrigerator",975 sqft,
+15181623,,,Finished,"Carpet, Tile","Dryer, Washer","2,468 sqft",Yes
+17112626,2,,,Laminate,"Dishwasher, Microwave, Refrigerator","1,225 sqft",Yes
+19599402,2,,,"Tile, Laminate",,"1,654 sqft",Yes
+7506397,,,,Linoleum / Vinyl,"Dishwasher, Microwave, Range / Oven","1,858 sqft",
+2077871631,1,,,Tile,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer",,
+20802252,3,,,,"Dishwasher, Dryer, Microwave, Refrigerator","2,720 sqft",Yes
+26817089,1,,,"Tile, Carpet","Dishwasher, Garbage disposal, Range / Oven","1,164 sqft",
+20802736,3,,,Hardwood,"Dishwasher, Microwave, Refrigerator","3,400 sqft",
+20690665,2,,,"Tile, Hardwood",,"1,200 sqft",
+125235199,2,,,"Tile, Hardwood","Dishwasher, Microwave","1,295 sqft",
+19599061,1,,,"Hardwood, Laminate","Dryer, Garbage disposal, Washer","1,019 sqft","Living Room, Masonry, Wood Burning"
+110717469,1,,Partially finished,Hardwood,"Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","1,872 sqft",Wood Burning
+3591619,1,,Finished,"Hardwood, Linoleum / Vinyl","Dishwasher, Dryer, Range / Oven, Refrigerator, Washer","1,000 sqft",
+61122245,2,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,559 sqft",Yes
+26816793,1,,,Laminate,Refrigerator,761 sqft,
+83239335,2,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,047 sqft",Yes
+17044002,2,,,,"Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,296 sqft",Yes
+36721173,2,,Finished,,"Range / Oven, Refrigerator","1,668 sqft",Yes
+61122536,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer",995 sqft,Yes
+27263190,2,,,"Tile, Carpet, Laminate",Dishwasher,"1,804 sqft",Yes
+110714834,3,,Partially finished,Hardwood,"Dishwasher, Dryer, Range / Oven, Refrigerator, Washer","1,915 sqft",Wood Burning
+7515762,,,,,"Range / Oven, Refrigerator",930 sqft,
+110745460,1,,"Partially Finished, Partial, Crawl Space, Block",,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,928 sqft",Wood Burning
+111710774,,,,"Carpet, Hardwood, Tile","Dryer, Washer","1,345 sqft",
+43693622,3,,None,"Tile, Concrete, Laminate","Dishwasher, Microwave","3,070 sqft",Yes
+89028797,1,,,"Tile, Carpet, Laminate","Dishwasher, Freezer, Microwave, Refrigerator",760 sqft,
+96794753,1,,Finished,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,524 sqft",
+20641954,1,,,"Tile, Hardwood, Laminate","Range / Oven, Refrigerator",974 sqft,Living Room
+7500794,,,,Linoleum / Vinyl,Range / Oven,"1,626 sqft",
+26798388,2,,,"Carpet, Linoleum / Vinyl","Dishwasher, Microwave","1,811 sqft",
+17017506,2,,,"Tile, Carpet, Linoleum / Vinyl","Dishwasher, Refrigerator","1,550 sqft",Yes
+110701630,2,,Unfinished,Hardwood,"Dryer, Washer","1,270 sqft",
+64969813,,,,Carpet,"Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","1,160 sqft",
+442860,2,,,Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,480 sqft",Yes
+89923337,2,,,"Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,250 sqft",Yes
+99356274,2,,,"Tile, Carpet, Hardwood, Laminate, Linoleum / Vinyl","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,605 sqft",
+55420773,1,,Unfinished,"Hardwood, Linoleum / Vinyl","Dishwasher, Microwave, Range / Oven, Refrigerator, Washer","1,543 sqft",
+110755705,1,,"Full, Block, Concrete",Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,901 sqft",Gas
+19557451,1,,,,,653 sqft,
+20784175,,,,Hardwood,"Dishwasher, Dryer, Freezer, Garbage disposal, Range / Oven, Refrigerator, Trash compactor, Washer","8,100 sqft",
+43700869,2,,,"Tile, Hardwood","Microwave, Range / Oven, Refrigerator","2,182 sqft",1 Fireplace
+80823358,1,,,"Carpet, Linoleum / Vinyl","Dishwasher, Dryer, Microwave, Refrigerator, Washer","1,166 sqft",
+3592461,2,,Partially Finished,,,"1,475 sqft",
+36729707,2,,Partially finished,Hardwood,"Dishwasher, Dryer, Garbage disposal, Range / Oven, Refrigerator, Washer","3,684 sqft",Yes
+3591197,1,,,"Tile, Hardwood, Laminate","Dishwasher, Range / Oven, Refrigerator",750 sqft,
+80778341,3,,None,"Tile, Carpet, Hardwood","Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","3,954 sqft",1 Fireplace
+26936483,2,,,"Tile, Carpet, Laminate","Dishwasher, Microwave, Refrigerator","1,789 sqft","Gas Logs, Gas Starter"
+2077565351,1,,Unfinished,"Hardwood, Laminate","Range / Oven, Refrigerator",,
+19580903,1,,,,,"1,165 sqft",
+29329522,3,,,"Carpet, Hardwood, Tile","Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer","3,772 sqft",
+7512973,,,,"Tile, Laminate",Range / Oven,"1,169 sqft",
+84642661,2,,,"Tile, Carpet","Microwave, Range / Oven, Refrigerator","1,150 sqft",
+63790404,1,,,Carpet,"Garbage disposal, Microwave, Refrigerator",767 sqft,
+60977467,,,,Hardwood,"Microwave, Range / Oven, Refrigerator","1,092 sqft",
+20794415,3,,,"Tile, Hardwood","Dishwasher, Dryer, Garbage disposal, Refrigerator, Washer","2,083 sqft",Yes
+17115104,,,,,"Dishwasher, Microwave","1,167 sqft",
+442861,2,,,Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,406 sqft",Yes
+110724472,1,,Partially finished,"Tile, Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","2,217 sqft",Gas
+20795290,2,,None,Laminate,"Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,191 sqft",
+101240330,3,,"Finished, Crawl, Exterior Access",,,"3,000 sqft",Yes
+26802135,2,,,"Carpet, Linoleum / Vinyl",,998 sqft,
+26800911,1,,,"Laminate, Linoleum / Vinyl",Range / Oven,761 sqft,
+99356271,1,,,"Carpet, Hardwood, Laminate, Linoleum / Vinyl","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,213 sqft",
+43693023,4,,,"Tile, Carpet, Hardwood","Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","5,298 sqft","Wood Burning Fireplace, Gas Fireplace, 1 Fireplace, Fireplace-Living Rm, 2 or more Fireplaces, Mantle, Fireplace-Family Room/Den/Gr"
+60347400,2,,,"Carpet, Linoleum / Vinyl, Tile",Dishwasher,"1,216 sqft",
+2077681491,1,,,"Hardwood, Tile","Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","2,111 sqft",
+82295911,1,,,,"Dishwasher, Dryer, Microwave, Refrigerator, Washer",562 sqft,
+89977213,4,,Finished,Hardwood,"Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Trash compactor, Washer","3,000 sqft",
+20795082,5,,,Hardwood,"Dryer, Washer","3,806 sqft",Yes
+20690529,1,,,Hardwood,Microwave,"1,038 sqft",
+43692923,5,,,"Tile, Carpet","Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","3,270 sqft","Gas Fireplace, 1 Fireplace"
+29334576,4,,,"Carpet, Hardwood, Tile","Dishwasher, Microwave","4,691 sqft",
+17044038,2,,,,"Dishwasher, Dryer, Refrigerator, Washer","3,169 sqft",Yes
+246025806,3,,,,,"2,423 sqft",
+53153596,,,,"Tile, Carpet, Hardwood","Dryer, Washer","1,440 sqft",
+104458538,2,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,678 sqft",Yes
+19599072,1,,,"Tile, Hardwood, Linoleum / Vinyl","Dryer, Washer",990 sqft,
+20801358,3,,,Hardwood,"Dishwasher, Garbage disposal, Refrigerator","2,400 sqft",Yes
+82950285,1,,None,"Tile, Hardwood","Dryer, Washer",624 sqft,
+40472907,1,,Partially finished,,"Dryer, Range / Oven, Refrigerator, Washer",960 sqft,
+36725918,1,,Partially finished,Other,"Dryer, Washer","1,120 sqft",Yes
+7505371,,,,Tile,Range / Oven,500 sqft,
+452861,3,,Finished,Hardwood,,"1,855 sqft",Yes
+20642095,,,,,,"3,455 sqft",
+55144589,2,,,Linoleum / Vinyl,"Dishwasher, Microwave","1,604 sqft",Yes
+2077641307,3,,,"Hardwood, Tile","Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,600 sqft",
+83124292,2,,,"Tile, Carpet","Dishwasher, Garbage disposal, Microwave","1,975 sqft",
+43691351,3,,,Carpet,"Dishwasher, Microwave, Range / Oven, Refrigerator","2,060 sqft",1 Fireplace
+7511689,,,,"Tile, Linoleum / Vinyl",,"1,361 sqft",
+82300060,2,,,Hardwood,"Dishwasher, Dryer, Microwave, Refrigerator, Washer",977 sqft,
+36726977,3,,Finished,"Carpet, Hardwood","Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,730 sqft",Yes
+2078363717,6,,,"Tile, Carpet, Hardwood","Dishwasher, Garbage disposal, Range / Oven, Refrigerator, Trash compactor","4,214 sqft",Yes
+3591973,1,,Finished,"Tile, Hardwood","Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,158 sqft",
+26994346,2,,,Tile,"Dishwasher, Microwave","2,264 sqft",Gas Logs
+20802121,4,,,Hardwood,"Dishwasher, Dryer, Freezer, Garbage disposal, Refrigerator, Washer","2,464 sqft",Yes
+110709652,2,,"Full, Block, Sump Pump",Hardwood,"Dishwasher, Dryer, Range / Oven, Refrigerator, Washer","2,035 sqft",Wood Burning
+29336613,5,,,"Carpet, Hardwood, Tile","Dishwasher, Garbage disposal, Microwave, Refrigerator, Trash compactor","10,730 sqft",
+3593209,2,,Finished,"Tile, Carpet, Hardwood",,"1,150 sqft",
+2091594414,2,,,"Tile, Hardwood","Dishwasher, Microwave, Refrigerator","1,763 sqft",
+81991571,,,,Other,Range / Oven,818 sqft,
+27338350,,,,"Tile, Carpet, Hardwood, Slate","Dishwasher, Microwave, Trash compactor","2,743 sqft",Yes
+53737274,3,,None,"Tile, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","3,335 sqft","Gas Fireplace, 1 Fireplace, Mantle, Fireplace-Family Room/Den/Gr"
+26802279,1,,,"Tile, Hardwood, Linoleum / Vinyl","Dishwasher, Garbage disposal, Range / Oven, Trash compactor","1,000 sqft",
+17016580,1,,,,,"1,100 sqft",Yes
+60200173,1,,Other,"Tile, Hardwood","Dishwasher, Microwave, Range / Oven, Refrigerator",950 sqft,
+69669981,2,,,"Carpet, Laminate",Dishwasher,"2,920 sqft",
+26816620,1,,,"Laminate, Linoleum / Vinyl",Refrigerator,758 sqft,
+20793195,,,,Tile,"Dishwasher, Garbage disposal, Refrigerator",996 sqft,
+70465537,2,,,Hardwood,Dishwasher,"1,100 sqft",Yes
+20643834,2,,,Laminate,,813 sqft,
+110750322,1,,"Partially Finished, Full, Block, Sump Pump",Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","2,276 sqft",Wood Burning
+55406002,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,416 sqft",Yes
+7511108,,,,Tile,"Microwave, Range / Oven, Refrigerator","1,300 sqft",
+50903650,2,,,,,"2,500 sqft",Yes
+20691214,1,,,Other,,822 sqft,
+15143256,,,,"Tile, Hardwood",,621 sqft,
+251031652,2,,,"Carpet, Laminate","Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer","2,188 sqft",Yes
+55398332,5,,Partially finished,,,"3,015 sqft",Yes
+110700901,3,,"Partially Finished, Full, Walk-Out Access, Block",Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","2,230 sqft","Wood Burning, Gas"
+70747509,3,,,Tile,"Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","2,527 sqft",Yes
+20642448,,,,Laminate,"Microwave, Refrigerator","2,232 sqft",
+63703850,2,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,250 sqft",
+19557711,1,,,,"Dishwasher, Dryer, Garbage disposal, Range / Oven, Refrigerator, Washer",853 sqft,
+458775,5,,,Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","8,035 sqft",Yes
+118189181,2,,,,"Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","1,144 sqft",
+27323556,2,,,"Tile, Carpet",Dishwasher,"1,512 sqft","Brick, Wood Burning"
+110704145,1,,Full,,"Dishwasher, Range / Oven, Refrigerator","1,092 sqft",
+61122517,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer",713 sqft,Yes
+71481806,2,,None,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,730 sqft",Yes
+27329279,2,,,"Tile, Linoleum / Vinyl","Dishwasher, Microwave","1,592 sqft",
+20793210,2,,,"Tile, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer","1,009 sqft",
+2104378637,2,,,"Tile, Laminate","Dishwasher, Garbage disposal","1,295 sqft",Yes
+3591765,2,,,,,"1,200 sqft",
+19600792,2,,,"Tile, Carpet, Hardwood","Dishwasher, Garbage disposal, Microwave, Refrigerator","1,825 sqft",Yes
+3860868,3,,Finished,Hardwood,"Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","3,000 sqft",
+17043835,2,,,,"Dishwasher, Dryer, Microwave, Refrigerator","1,540 sqft",
+241585966,2,,,"Carpet, Hardwood, Tile",Dishwasher,"1,311 sqft",
+55398319,3,,Partially finished,,,"2,242 sqft",
+15160498,,,,Hardwood,"Dryer, Washer","1,879 sqft",Yes
+36741277,3,,Finished,,"Dishwasher, Dryer, Garbage disposal, Range / Oven, Refrigerator","1,968 sqft",Yes
+15084939,,,,"Carpet, Hardwood","Dryer, Washer","2,120 sqft",Yes
+53737326,2,,,"Concrete, Laminate, Linoleum / Vinyl","Microwave, Range / Oven, Refrigerator","1,796 sqft",1 Fireplace
+7511296,,,,Tile,"Dryer, Range / Oven, Refrigerator, Washer","1,551 sqft",
+104452024,2,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,819 sqft",Yes
+63012913,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer",700 sqft,
+81928071,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer",722 sqft,Yes
+173560724,1,,"Full, Block, Sump Pump",,"Dishwasher, Dryer, Range / Oven, Refrigerator, Washer","1,343 sqft",
+20639953,1,,,,,"1,120 sqft",
+43701149,3,,,Hardwood,"Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","3,754 sqft","Wood Burning Fireplace, 1 Fireplace, Fireplace-Family Room/Den/Gr"
+36731431,2,,,,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Washer","1,349 sqft",Yes
+92355228,,,,Linoleum / Vinyl,"Dryer, Refrigerator, Washer","3,726 sqft",
+110749091,2,,Unfinished,Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,664 sqft",Wood Burning
+110747725,1,,Full,,"Dishwasher, Dryer, Garbage disposal, Range / Oven, Refrigerator, Washer","1,816 sqft",Gas
+110709853,2,,"Full, Sump Pump, 8+ Ceiling, Stubbed for Bathroom, Full Size Windows, Exposed Basement",Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","2,878 sqft",Gas
+20795689,1,,,Hardwood,"Dishwasher, Garbage disposal, Range / Oven, Refrigerator",693 sqft,
+62847505,5,,Partially finished,Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","5,476 sqft",Yes
+70474031,3,,Finished,"Carpet, Hardwood","Dishwasher, Dryer, Freezer, Microwave, Range / Oven, Refrigerator, Washer","1,800 sqft",Yes
+26946434,2,,,Linoleum / Vinyl,"Dishwasher, Microwave, Refrigerator","2,122 sqft","Brick, Gas Logs, Wood Burning"
+26906776,2,,,"Carpet, Laminate",Dishwasher,800 sqft,Yes
+26802262,2,,,"Carpet, Laminate, Tile",Refrigerator,864 sqft,Yes
+19557511,2,,,"Tile, Hardwood, Laminate, Linoleum / Vinyl","Dishwasher, Garbage disposal, Range / Oven","1,424 sqft",Yes
+122064249,,,,Hardwood,,"1,042 sqft",Yes
+17017652,2,,,,,"1,435 sqft",
+2077681488,1,,,"Tile, Hardwood","Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","2,111 sqft",
+110722988,2,,"Full, Block",,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","2,155 sqft",
+36718840,2,,None,"Tile, Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,380 sqft",Yes
+153249613,,,,"Carpet, Linoleum / Vinyl",,"2,248 sqft",
+84001081,2,,,"Carpet, Tile","Dishwasher, Microwave","1,507 sqft",
+65562967,2,,,"Carpet, Hardwood",,"1,150 sqft",
+110717248,1,,Full,,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,336 sqft",Wood Burning
+241585552,,,,Hardwood,"Dryer, Washer",528 sqft,
+125257061,2,,,"Tile, Hardwood","Dishwasher, Microwave, Refrigerator","1,295 sqft",
+110718999,1,,"Full, Block, Sump Pump",Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,586 sqft",Wood Burning
+79843055,,,,"Tile, Hardwood","Dryer, Washer",658 sqft,
+17016010,2,,None,"Hardwood, Tile","Garbage disposal, Microwave, Refrigerator","1,710 sqft",Yes
+448548,1,,,,,825 sqft,
+17016789,2,,,,Refrigerator,840 sqft,
+7514658,,,,"Concrete, Tile, Other",Refrigerator,"2,520 sqft",
+2078089792,1,,,"Tile, Carpet, Hardwood","Microwave, Range / Oven, Refrigerator",,
+20639002,1,,None,"Hardwood, Laminate","Microwave, Refrigerator",661 sqft,
+7519355,,,,Tile,"Dryer, Washer","1,438 sqft",Yes
+19580714,3,,,"Tile, Laminate","Dishwasher, Garbage disposal, Range / Oven, Refrigerator","1,325 sqft",Yes
+453141,3,,,Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer","2,294 sqft",Yes
+20797716,2,,None,Hardwood,Range / Oven,"2,355 sqft",Yes
+20794223,2,,,"Hardwood, Tile","Dishwasher, Freezer, Garbage disposal, Microwave, Refrigerator","1,682 sqft",
+110729370,2,,Finished,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,866 sqft","Wood Burning, 2 or more Fireplaces"
+27324149,2,,,"Tile, Hardwood","Dishwasher, Microwave","1,859 sqft","Wood Burning, Decorative"
+63012888,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer",897 sqft,
+55397006,1,,Partially finished,Hardwood,"Dryer, Range / Oven, Refrigerator, Washer",900 sqft,
+158776765,3,,Finished,"Tile, Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer","4,584 sqft",Yes
+17010299,1,,,"Tile, Carpet, Laminate",,"1,170 sqft",
+104454096,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer",713 sqft,
+81968055,,,,"Tile, Carpet","Range / Oven, Refrigerator","1,956 sqft",
+2077819232,1,,,"Carpet, Hardwood, Laminate",,700 sqft,
+15086469,,,,,,824 sqft,Yes
+111435637,2,,,Other,Refrigerator,"1,873 sqft",
+27325725,3,,,Other,"Dishwasher, Microwave","1,724 sqft",Wood Burning
+2077915350,4,,,"Hardwood, Tile","Dishwasher, Garbage disposal, Microwave, Range / Oven","2,890 sqft",
+66134507,2,,,"Tile, Carpet, Hardwood","Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","3,361 sqft","Gas Fireplace, 1 Fireplace"
+7515343,,,,"Carpet, Linoleum / Vinyl, Tile",Range / Oven,"1,289 sqft",
+15069492,,,,Carpet,,520 sqft,
+26802339,1,,,"Carpet, Linoleum / Vinyl",,"1,267 sqft",
+2078664523,3,,,"Tile, Concrete, Hardwood","Dishwasher, Garbage disposal, Refrigerator","5,528 sqft",Yes
+113950920,3,,,"Tile, Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","2,400 sqft",Yes
+69669976,,,None,"Carpet, Linoleum / Vinyl","Dryer, Washer","3,646 sqft",
+449292,2,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Washer","1,248 sqft",Yes
+70447588,1,,,"Hardwood, Linoleum / Vinyl","Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer",850 sqft,
+60529017,3,,Finished,,"Dishwasher, Dryer, Garbage disposal, Refrigerator, Washer","2,636 sqft",Yes
+27324765,2,,,"Tile, Carpet, Laminate","Dishwasher, Microwave, Refrigerator, Trash compactor","1,939 sqft","Gas Logs, Gas Starter, Stone"
+19581408,2,,None,"Tile, Laminate","Dishwasher, Dryer, Range / Oven, Refrigerator, Washer","1,284 sqft",Yes
+26819446,2,,None,"Carpet, Laminate, Linoleum / Vinyl",Washer,"1,899 sqft",
+20796184,1,,,"Laminate, Tile","Range / Oven, Refrigerator",426 sqft,
+104453117,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,011 sqft",Yes
+3591199,1,,,"Hardwood, Laminate","Dishwasher, Freezer, Microwave, Range / Oven, Refrigerator",750 sqft,
+3591833,2,,Partially finished,"Tile, Carpet, Hardwood","Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","2,240 sqft",Yes
+89148047,3,,Finished,,"Dishwasher, Garbage disposal","2,208 sqft","Living Room, Gas"
+19579826,1,,,"Carpet, Hardwood",Refrigerator,"1,077 sqft",
+70336895,4,,,"Tile, Carpet, Hardwood","Dishwasher, Garbage disposal, Microwave, Range / Oven","4,183 sqft",Yes
+92352811,,,,"Carpet, Tile","Dishwasher, Range / Oven","2,750 sqft",
+7515356,,,,Hardwood,Range / Oven,"1,759 sqft",Yes
+26906412,2,,,"Carpet, Linoleum / Vinyl",Dishwasher,"1,841 sqft",Yes
+26947300,2,,,"Tile, Carpet, Hardwood",Microwave,"2,238 sqft","Brick, Gas Starter, Wood Burning"
+36731224,3,,Finished,Hardwood,"Dishwasher, Microwave, Range / Oven, Refrigerator","1,836 sqft",Yes
+26817292,1,,,Laminate,"Dishwasher, Refrigerator",748 sqft,
+306141859,3,,,,"Dishwasher, Garbage disposal, Microwave, Range / Oven","2,607 sqft",
+20784322,6,,,Hardwood,"Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Refrigerator, Washer","5,321 sqft",Yes
+58297288,5,,,Tile,,"10,396 sqft","Family Room, Living Room, Bedroom"
+7515443,,,,Tile,Microwave,"2,487 sqft",Yes
+20785955,3,,,"Hardwood, Tile","Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,973 sqft",
+82294487,2,,,Hardwood,"Dishwasher, Dryer, Microwave, Refrigerator, Washer","1,565 sqft",
+55421174,1,,Unfinished,Hardwood,"Dishwasher, Dryer, Range / Oven","2,028 sqft",Yes
+27326048,2,,,"Carpet, Laminate, Linoleum / Vinyl","Dishwasher, Microwave, Refrigerator","1,764 sqft","Gas Logs, Gas Starter"
+70747556,3,,,Tile,"Dishwasher, Microwave, Range / Oven, Refrigerator","3,438 sqft",Yes
+7514205,,,,,"Dishwasher, Microwave, Range / Oven, Refrigerator",788 sqft,
+65546308,1,,,"Hardwood, Laminate",,900 sqft,
+110737102,1,,"Finished, Full, Block, Sump Pump",Hardwood,"Dishwasher, Garbage disposal, Range / Oven, Refrigerator","2,358 sqft",
+69302229,2,,,"Tile, Carpet","Dishwasher, Garbage disposal, Range / Oven, Refrigerator",924 sqft,
+60261285,1,,,"Tile, Hardwood","Dishwasher, Garbage disposal, Range / Oven, Refrigerator",950 sqft,
+29333062,6,,,"Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator","6,840 sqft",
+26794863,1,,,"Carpet, Tile",,"1,407 sqft",
+19556691,2,,,"Carpet, Linoleum / Vinyl",,985 sqft,
+27327034,2,,,"Tile, Carpet",Microwave,"1,567 sqft",Yes
+26795771,1,,,"Carpet, Laminate, Linoleum / Vinyl",Dishwasher,"1,440 sqft",
+36721864,1,,,,"Dishwasher, Dryer, Garbage disposal, Range / Oven, Refrigerator, Washer","1,232 sqft",Yes
+43695007,3,,,"Tile, Carpet, Hardwood","Dishwasher, Garbage disposal, Range / Oven, Refrigerator","2,248 sqft","Wood Burning Fireplace, 1 Fireplace, Tile Fireplace, Fireplace-Family Room/Den/Gr"
+71488699,,,,Tile,,"1,989 sqft",Yes
+15072610,,,,"Tile, Hardwood","Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Refrigerator, Trash compactor, Washer",635 sqft,Yes
+29333077,,,None,Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator","5,225 sqft",Yes
+29323270,3,,None,Linoleum / Vinyl,"Dryer, Washer","3,185 sqft",Yes
+29333063,11,,,"Carpet, Hardwood",Refrigerator,"16,722 sqft","Wood Burning Fireplace, Gas Connections"
+95060776,1,,"Finished, Partially Finished, Partial, Walk-Out Access, Block, Sump Pump, Full Size Windows, Exposed Basement",Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,782 sqft","Wood Burning, 2 or more Fireplaces"
+3591114,1,,Finished,"Tile, Carpet, Hardwood, Linoleum / Vinyl","Dryer, Range / Oven, Refrigerator, Washer",980 sqft,
+15131932,,,,Hardwood,"Dishwasher, Dryer, Freezer, Garbage disposal, Range / Oven, Refrigerator, Washer","2,049 sqft",Yes
+63509948,1,,,Carpet,,767 sqft,
+26949149,3,,,"Tile, Linoleum / Vinyl","Dishwasher, Microwave","2,016 sqft",Decorative
+29475480,2,,,"Carpet, Hardwood, Tile","Dishwasher, Microwave, Refrigerator","2,165 sqft",
+68978645,4,,,Tile,"Dishwasher, Range / Oven","3,033 sqft",Living Room
+2136248651,1,,,"Carpet, Hardwood, Laminate","Range / Oven, Refrigerator",900 sqft,
+121067648,1,,,"Hardwood, Laminate","Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,035 sqft",
+89667847,3,,,Carpet,"Dishwasher, Garbage disposal, Microwave, Range / Oven","2,272 sqft",Living Room
+246025934,2,,,"Tile, Carpet","Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer","1,753 sqft",
+7512449,,,,"Carpet, Tile",Range / Oven,"1,514 sqft",
+55397049,2,,Partially finished,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","2,286 sqft",Yes
+458477,2,,,Hardwood,,"2,116 sqft",Yes
+448664,1,,,Hardwood,"Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator",730 sqft,
+110738232,2,,"Finished, Full, Walk-Out Access",Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","3,228 sqft",Gas
+125230936,1,,,"Tile, Hardwood",Microwave,745 sqft,
+3593067,2,,"Finished, Exterior Access",Hardwood,,"1,040 sqft",
+26947748,2,,,"Tile, Carpet, Hardwood",Dishwasher,"1,546 sqft","Brick, Wood Burning"
+87691710,2,,,"Carpet, Hardwood","Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,200 sqft",Yes
+27327976,2,,,"Carpet, Linoleum / Vinyl","Dishwasher, Microwave","2,017 sqft",Yes
+63698345,2,,,"Carpet, Hardwood","Dishwasher, Dryer, Freezer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer",,Yes
+2078005094,1,,,"Carpet, Hardwood, Laminate","Range / Oven, Refrigerator",,
+26818503,2,,,"Tile, Carpet",Refrigerator,"1,139 sqft",
+113979252,,,,,,594 sqft,
+65544482,1,,,Hardwood,,700 sqft,
+125313917,2,,,"Tile, Hardwood","Dishwasher, Microwave, Refrigerator","1,295 sqft",
+40472968,1,,Partially finished,,"Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,558 sqft",
+26946279,2,,,"Tile, Other, Carpet, Laminate","Dishwasher, Microwave","1,720 sqft",Wood Burning
+26994303,2,,,"Tile, Carpet, Laminate",Dishwasher,"1,821 sqft",Gas Logs
+7505336,,,,Tile,Range / Oven,"1,321 sqft",
+2079567485,2,,,"Carpet, Hardwood, Tile","Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer","3,002 sqft",
+43669888,1,,,Hardwood,,960 sqft,
+55405981,1,,None,Hardwood,"Dishwasher, Dryer, Range / Oven, Refrigerator, Washer",736 sqft,
+110753479,2,,"Full, Block, Sump Pump",Hardwood,"Dishwasher, Microwave, Range / Oven, Refrigerator","1,528 sqft",
+15080532,,,,Hardwood,"Dryer, Washer","3,061 sqft",Yes
+247164329,2,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer",950 sqft,
+20641726,2,,,,,"1,093 sqft",Great Room
+2126801952,2,,,"Tile, Carpet, Hardwood, Laminate","Dishwasher, Garbage disposal, Microwave","1,288 sqft",
+55406095,2,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","1,752 sqft",Yes
+36730417,2,,Partially finished,,,"2,340 sqft",Yes
+36743599,2,,,,,"1,864 sqft",Yes
+110707602,1,,Finished,"Tile, Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,811 sqft",
+63692490,1,,,"Tile, Hardwood, Laminate","Microwave, Range / Oven, Refrigerator",600 sqft,
+62847238,2,,Partially finished,,,"3,075 sqft",
+29331303,6,,None,"Carpet, Concrete","Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","8,784 sqft",
+19600870,2,,,"Tile, Carpet, Laminate","Dishwasher, Microwave","1,700 sqft",Yes
+29334535,5,,,"Tile, Carpet, Hardwood","Dishwasher, Garbage disposal, Microwave, Refrigerator","4,516 sqft",Yes
+60270629,2,,,Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,775 sqft",Yes
+20794916,3,,,"Tile, Hardwood","Dishwasher, Dryer, Freezer, Garbage disposal, Refrigerator, Washer","3,392 sqft",Yes
+2121238192,6,,,"Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Refrigerator, Washer","8,791 sqft",Family Room
+54906867,2,,,Hardwood,"Garbage disposal, Range / Oven, Refrigerator","1,918 sqft",Yes
+26799818,2,,,Hardwood,"Dishwasher, Microwave","1,296 sqft",
+2077913807,3,,,"Hardwood, Tile","Dishwasher, Garbage disposal, Microwave, Range / Oven","2,457 sqft",
+299125344,3,,,"Tile, Carpet","Dishwasher, Microwave","1,851 sqft","Blower Fan, Electric"
+448700,1,,,,"Dishwasher, Microwave, Range / Oven, Refrigerator",550 sqft,
+26944325,2,,,"Tile, Hardwood",,"1,758 sqft",
+61325138,,,,Hardwood,"Dryer, Washer","1,559 sqft",
+26995971,2,,,Laminate,"Dishwasher, Microwave","1,439 sqft",
+19556721,2,,,"Tile, Laminate","Dishwasher, Dryer, Microwave, Refrigerator, Washer","1,722 sqft",
+3580631,3,,Finished,"Hardwood, Laminate","Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","2,900 sqft",
+110751900,1,,Partially finished,Hardwood,"Dishwasher, Range / Oven, Refrigerator","1,264 sqft",
+40473124,1,,Partially finished,"Tile, Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,447 sqft",
+53735967,2,,,Tile,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer","2,052 sqft",
+20688535,4,,,"Hardwood, Laminate",Washer,"3,908 sqft",Family Room
+2077987889,2,,"Finished, Full",,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","1,120 sqft",
+110701338,2,,"Partially Finished, Full, Block, Sump Pump",Hardwood,"Dryer, Range / Oven, Refrigerator, Washer","1,749 sqft",
+17044483,2,,,Laminate,"Garbage disposal, Range / Oven","1,072 sqft",Yes
+27330607,2,,,Carpet,"Dishwasher, Microwave","1,624 sqft",Yes
+20794256,2,,,"Hardwood, Tile","Dishwasher, Dryer, Washer","1,949 sqft",Yes
+125231582,1,,,"Tile, Concrete",Microwave,"1,100 sqft",
+19579887,2,,Unfinished,Laminate,"Dishwasher, Garbage disposal, Microwave","1,512 sqft",
+20801682,2,,,Hardwood,"Dishwasher, Dryer, Freezer, Garbage disposal, Refrigerator, Washer","1,300 sqft",Yes
+7515527,,,,Linoleum / Vinyl,"Dishwasher, Range / Oven","24,888 sqft",
+60270617,2,,,Hardwood,,"1,300 sqft",Yes
+63703823,2,,,Hardwood,"Dryer, Washer","1,200 sqft",Yes
+20788332,,,None,Laminate,"Dishwasher, Garbage disposal, Microwave, Range / Oven","1,255 sqft",Yes
+61122203,1,,,Hardwood,"Dishwasher, Dryer, Microwave, Range / Oven, Refrigerator, Washer",900 sqft,Yes
+82291316,1,,,Other,"Dishwasher, Dryer, Microwave, Refrigerator, Washer",562 sqft,
+94702669,3,,,"Tile, Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Range / Oven, Refrigerator, Washer","1,548 sqft",Yes
+62007666,1,,,Carpet,"Dryer, Range / Oven, Refrigerator, Washer",600 sqft,
+7510715,,,,Tile,Range / Oven,"1,258 sqft",
+2093019920,2,,,Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer",,
+110755026,2,,"Partially Finished, Full, Shower",Hardwood,"Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer","2,212 sqft",Wood Burning
+26802165,1,,None,"Tile, Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer",840 sqft,
+36744633,3,,Finished,Hardwood,"Dishwasher, Dryer, Refrigerator, Washer","4,000 sqft",Yes
+43710140,2,,,"Tile, Hardwood","Dishwasher, Garbage disposal, Microwave, Range / Oven, Refrigerator","2,116 sqft",Yes
+72652295,1,,,"Tile, Laminate","Dishwasher, Dryer, Garbage disposal, Microwave, Washer",550 sqft,Yes
+49911608,2,,,"Carpet, Hardwood","Dishwasher, Dryer, Garbage disposal, Microwave, Range / Oven, Refrigerator, Washer",,Yes
+96031440,,,,Hardwood,"Dryer, Washer",917 sqft,

@@ -1,0 +1,704 @@
+reg_num,subj,crse,sect,title,units,instructor,days,start_time,end_time,building,room
+10577,ANTH,211,F01,Introduction to Anthropology,1.0,Brightman,M-W,03:10PM,04:30,ELIOT,414
+20573,ANTH,344,S01,Sex and Gender,1.0,Makley,T-Th,10:30AM,11:50,VOLLUM,120
+10624,BIOL,431,F01,Field Biology of Amphibians,0.5,Kaplan,T,06:10PM,08:00,PHYSIC,240A
+10626,BIOL,431,F03,Bacterial Pathogenesis,0.5,,,,,,Mellies         RESCHEDULED TO OTHER SEMESTER
+20626,BIOL,431,S04,Seminar in Biology,0.5,Yezerinac,Th,06:10PM,08:00,BIOL,200A
+10543,CHEM,101,F,MolecularStructure&Properties,1.0,Geselbracht,M-W-F,11:00AM,11:50,VOLLUM,VLH
+10544,CHEM,101,F01,MolecularStructure&Properties,0.0,Geselbracht,M,01:10PM,02:00,CHEM,301
+10545,CHEM,101,F02,MolecularStructure&Properties,0.0,Geselbracht,M,02:10PM,03:00,CHEM,301
+10546,CHEM,101,F03,MolecularStructure&Properties,0.0,Geselbracht,M,03:10PM,04:00,CHEM,301
+10789,CHEM,101,F08,MolecularStructure&Properties,0.0,Geselbracht,T,11:00AM,11:50,PHYSIC,123
+10547,CHEM,101,F04,MolecularStructure&Properties,0.0,Geselbracht,T,01:10PM,02:00,CHEM,301
+10548,CHEM,101,F05,MolecularStructure&Properties,0.0,Geselbracht,T,02:10PM,03:00,CHEM,301
+20575,ANTH,344,S02,Sex and Gender,1.0,Makley,T-Th,01:10PM,02:30,VOLLUM,110
+10549,CHEM,101,F06,MolecularStructure&Properties,0.0,Geselbracht,T,03:10PM,04:00,CHEM,301
+10550,CHEM,101,F07,MolecularStructure&Properties,0.0,Geselbracht,T,04:10PM,05:00,CHEM,301
+10551,CHEM,101,FL1,MolecularStructure&Properties,0.0,Geselbracht,M,01:10PM,04:00,CHEM,308
+10555,CHEM,101,FL5,MolecularStructure&Properties,0.0,Geselbracht,T,09:00AM,11:50,CHEM,308
+10552,CHEM,101,FL2,MolecularStructure&Properties,0.0,Geselbracht,T,01:10PM,04:00,CHEM,308
+10553,CHEM,101,FL3,MolecularStructure&Properties,0.0,Geselbracht,W,01:10PM,04:00,CHEM,308
+10557,CHEM,101,FL7,MolecularStructure&Properties,0.0,Geselbracht,W,06:10PM,09:00,CHEM,308
+10556,CHEM,101,FL6,MolecularStructure&Properties,0.0,Geselbracht,Th,09:00AM,11:50,CHEM,308
+10554,CHEM,101,FL4,MolecularStructure&Properties,0.0,Geselbracht,Th,01:10PM,04:00,CHEM,308
+10558,CHEM,101,FL8,MolecularStructure&Properties,0.0,Geselbracht,F,02:10PM,05:00,CHEM,308
+20483,ANTH,348,S,Languages the Americas:Mayan,1.0,Haviland,T,06:10PM,09:00,ELIOT,419
+20537,CHEM,102,S,Chemical Reactivity,1.0,Glasfeld,M-W-F,11:00AM,11:50,VOLLUM,VLH
+20538,CHEM,102,S01,Chemical Reactivity,0.0,Glasfeld,M,02:10PM,03:00,CHEM,301
+20539,CHEM,102,S02,Chemical Reactivity,0.0,Glasfeld,M,03:10PM,04:00,CHEM,301
+20540,CHEM,102,S03,Chemical Reactivity,0.0,Glasfeld,T,02:10PM,03:00,CHEM,301
+20541,CHEM,102,S04,Chemical Reactivity,0.0,Glasfeld,T,03:10PM,04:00,CHEM,301
+20542,CHEM,102,S05,Chemical Reactivity,0.0,Glasfeld,T,04:10PM,05:00,PHYSIC,123
+20543,CHEM,102,SL1,Chemical Reactivity,0.0,Glasfeld,M,01:10PM,04:00,CHEM,308
+20544,CHEM,102,SL2,Chemical Reactivity,0.0,Glasfeld,T,01:10PM,04:00,CHEM,308
+20545,CHEM,102,SL3,Chemical Reactivity,0.0,Glasfeld,W,01:10PM,04:00,CHEM,308
+20546,CHEM,102,SL4,Chemical Reactivity,0.0,Glasfeld,Th,01:10PM,04:00,CHEM,308
+20667,ANTH,352,S,Anthropology of Europe,1.0,Silverstein,T-Th,10:30AM,11:50,LIB,203
+20547,CHEM,102,SL5,Chemical Reactivity,0.0,Glasfeld,F,02:10PM,05:00,CHEM,308
+10559,CHEM,201,F,Organic Chemistry I,1.0,Shusterman,M-W-F,09:00AM,09:50,PSYCH,105
+10560,CHEM,201,F01,Organic Chemistry I,0.0,Shusterman,Th,08:00AM,08:50,PHYSIC,123
+10561,CHEM,201,F02,Organic Chemistry I,0.0,Shusterman,Th,09:00AM,09:50,PHYSIC,121
+10562,CHEM,201,F03,Organic Chemistry I,0.0,Shusterman,Th,11:00AM,11:50,PHYSIC,123
+10563,CHEM,201,F04,Organic Chemistry I,0.0,Shusterman,Th,12:00PM,12:50,PHYSIC,123
+10565,CHEM,201,FL1,Organic Chemistry I,0.0,Shusterman,M,01:10PM,05:00,CHEM,209
+10566,CHEM,201,FL2,Organic Chemistry I,0.0,Shusterman,T,01:10PM,05:00,CHEM,209
+10567,CHEM,201,FL3,Organic Chemistry I,0.0,Shusterman,W,01:10PM,05:00,CHEM,209
+20548,CHEM,202,S,Organic Chemistry II,1.0,McDougal,M-W-F,09:00AM,09:50,PSYCH,105
+20571,ANTH,357,S,Prob in IndonesianEthnography,1.0,Stasch,T-Th,02:40PM,04:00,VOLLUM,309
+20549,CHEM,202,S01,Organic Chemistry II,0.0,McDougal,Th,08:00AM,08:50,PHYSIC,123
+20550,CHEM,202,S02,Organic Chemistry II,0.0,McDougal,Th,09:00AM,09:50,PHYSIC,121
+20551,CHEM,202,S03,Organic Chemistry II,0.0,McDougal,Th,11:00AM,11:50,PHYSIC,121
+20552,CHEM,202,S04,Organic Chemistry II,0.0,McDougal,Th,12:00PM,12:50,PHYSIC,123
+20554,CHEM,202,SL1,Organic Chemistry II,0.0,McDougal,M,01:10PM,05:00,CHEM,209
+20555,CHEM,202,SL2,Organic Chemistry II,0.0,McDougal,T,01:10PM,05:00,CHEM,209
+20556,CHEM,202,SL3,Organic Chemistry II,0.0,McDougal,W,01:10PM,05:00,CHEM,209
+20557,CHEM,212,S,Intro Inorganic Chemistry,1.0,Geselbracht,M-W-F,11:00AM,11:50,CHEM,301
+20559,CHEM,212,SL1,Intro Inorganic Chemistry,0.0,Geselbracht,W,02:10PM,05:00,CHEM,214
+20560,CHEM,212,SL2,Intro Inorganic Chemistry,0.0,Geselbracht,F,02:10PM,05:00,CHEM,214
+10605,ANTH,362,F,"Gender&Ethnicity China, Tibet",1.0,Makley,T-Th,10:30AM,11:50,VOLLUM,228
+10582,CHEM,225,F,Environmental Chemistry,0.5,Dunne,M-W,10:00AM,10:50,CHEM,301
+10568,CHEM,271,F,Analytical Chemistry,1.0,McClard,T-Th,10:30AM,11:50,CHEM,301
+10569,CHEM,271,FL1,Analytical Chemistry,0.0,McClard,Th,01:10PM,05:00,CHEM,313
+10570,CHEM,271,FL2,Analytical Chemistry,0.0,McClard,F,01:10PM,05:00,CHEM,313
+20561,CHEM,316,S,Physical Chemistry Laboratory,0.5,Ahmadi,T,10:30AM,11:50,CHEM,301
+20563,CHEM,324,S,Computational Organic Chem,0.5,Shusterman,M-W-F,10:00AM,10:50,CHEM,301
+20564,CHEM,332,S,Statistical Thermodynamics,1.0,Ahmadi,M-W-F,09:00AM,09:50,CHEM,301
+10571,CHEM,333,F,Quantum Mechanics & MolStruct,1.0,Ahmadi,M-W-F,09:00AM,09:50,CHEM,301
+20565,CHEM,334,S,Advanced Inorganic Chemistry,0.5,Geselbracht,T-Th,09:00AM,10:20,PSYCH,103
+10572,CHEM,343,F,Adv Synth Organic Chemistry,1.0,McDougal,M-W-F,11:00AM,11:50,CHEM,301
+20570,ANTH,368,S,Myth,1.0,Stasch,T-Th,01:10PM,02:30,VOLLUM,126
+10574,CHEM,391,F,Structural Biochemistry,0.5,Glasfeld,T-Th,09:00AM,10:20,CHEM,301
+10576,CHEM,391,F02,Structural Biochemistry,0.0,Glasfeld,W,04:10PM,05:00,CHEM,301
+10575,CHEM,391,F01,Structural Biochemistry,0.0,Glasfeld,T,04:10PM,05:00,PHYSIC,121
+20566,CHEM,392,S,Metabolic Biochemistry,0.5,McClard,T-Th,09:00AM,10:20,CHEM,301
+20567,CHEM,394,S,Biochemical Methods,0.5,McClard,M,06:10PM,07:00,CHEM,301
+20568,CHEM,394,SL1,Biochemical Methods,0.0,McClard,T,01:10PM,05:00,CHEM,313
+20569,CHEM,394,SL2,Biochemical Methods,0.0,McClard,W,01:10PM,05:00,CHEM,313
+10377,CHIN,110,Y,First Year Chinese,1.0,,,,,,Staff           M-T-W-Th-F12:00     VOLLUM  120
+10118,CHIN,210,Y,Second Year Chinese,1.0,,,,,,Staff           M-T-W-Th-F12:00     ELIOT   123
+20598,CHIN,311,S,Third Year Chinese,1.0,Wu,M-W-F,09:00AM,09:50,ELIOT,121
+20572,ANTH,369,S,Media & Culture Post-MaoChina,1.0,Makley,M-W,03:10PM,04:30,ELIOT,414
+10629,CHIN,316,F,Classical Chinese,1.0,Rhew,M-W-F,09:00AM,09:50,ELIOT,121
+10628,CHIN,321,F,"20 Cent Chin Fiction, 1919-49",1.0,Wu,T-Th,02:40PM,04:00,ELIOT,121
+10630,CHIN,326,F,Chinese Narrative Tradition,1.0,Rhew,M-W,03:10PM,04:30,ELIOT,121
+20596,CHIN,334,S,Yijing: Text and Tradition,1.0,Rhew,M-W,03:10PM,04:30,ELIOT,121
+20601,CHIN,341,S,20th Century Chinese Poetry,1.0,Wu,T-Th,02:40PM,04:00,ELIOT,121
+20486,CLAS,363,S,Greek Tragedy,1.0,Englert,M-W-F,12:00PM,12:50,VOLLUM,126
+10489,CLAS,373,F,Ancient History: Rome,1.0,Kelly,M-W,03:10PM,04:30,VOLLUM,120
+20488,CLAS,374,S,Specl Topics in Roman History,1.0,Kelly,M-W,03:10PM,04:30,VOLLUM,120
+20503,CRWR,201,S,Intro to Creative Writing,1.0,Hillis,M-W-F,11:00AM,11:50,PHYSIC,121
+10515,CRWR,211,F,Intro Poetry Writing,1.0,Williams,M-W,03:10PM,04:30,PHYSIC,121
+20659,ANTH,372,S,Indians & Northrn NativeAmers,1.0,Brightman,M-W,03:10PM,04:30,TBA,
+20504,CRWR,211,S,Intro Poetry Writing,1.0,Williams,M-W,03:10PM,04:30,PHYSIC,121
+10516,CRWR,221,F,Intro to Fiction Writing,1.0,Hillis,M-W-F,11:00AM,11:50,PHYSIC,121
+20642,CRWR,241,S,Intermediate Poetry: StudioII,1.0,Williams,T-Th,02:40PM,04:00,PHYSIC,121
+10517,CRWR,250,F,Intro to ScreenwritingWrkshop,1.0,Hillis,W,06:10PM,09:00,VOLLUM,228
+10518,CRWR,331,F,Adv Poet Writng: SequentVoice,1.0,Williams,T,07:10PM,10:00,VOLLUM,234
+20506,CRWR,331,S,Adv Poet Writing:NaturalVoice,1.0,Williams,M,07:10PM,10:00,VOLLUM,234
+10519,CRWR,332,F,Advanced Fiction Writing,1.0,Hillis,T-Th,06:10PM,07:30,ELIOT,317
+20507,CRWR,332,S,Advanced Fiction Writing,1.0,Hillis,T-Th,06:10PM,07:30,ELIOT,405
+10119,DANC,110,Y,Basic Technique,1.0,Mann,M-W,04:40PM,06:00,SPORTS,GYMII
+10121,DANC,210,Y,"Technique, Design &Compostion",1.0,Wong,T-Th,01:10PM,02:30,SPORTS,GYMII
+20672,ANTH,374,S,Urban Anthropology,1.0,Silverstein,T-Th,09:00AM,10:20,VOLLUM,120
+20627,DANC,252,S,Improvisation,0.5,Mann,T-Th,05:10PM,06:30,SPORTS,GYMII
+10639,DANC,311,F,Adv Techniques & CompositionI,1.0,Mann,T-Th,05:10PM,06:30,SPORTS,GYMII
+20655,DANC,312,S,Adv Technique & CompositionII,1.0,Wong,T-Th,02:40PM,04:00,SPORTS,GYMII
+10631,DANC,330,F,Dance Theory and Criticism,1.0,Wong,M-W,03:10PM,04:30,ELIOT,126
+10324,ECON,201,F01,Intro to Economic Analysis,1.0,Clausing,M-W-F,10:00AM,10:50,VOLLUM,116
+10325,ECON,201,F02,Intro to Economic Analysis,1.0,Clausing,M-W-F,11:00AM,11:50,VOLLUM,116
+10326,ECON,201,FL1,Intro to Economic Analysis,0.0,Clausing,Th,03:10PM,04:00,ELIOT,314
+10327,ECON,201,FL2,Intro to Economic Analysis,0.0,Clausing,Th,04:10PM,05:00,ELIOT,314
+20319,ECON,201,S01,Intro to Economic Analysis,1.0,Netusil,M-W-F,10:00AM,10:50,VOLLUM,116
+20320,ECON,201,S02,Intro to Economic Analysis,1.0,Netusil,M-W-F,11:00AM,11:50,VOLLUM,116
+10578,ANTH,211,F02,Introduction to Anthropology,1.0,Makley,T-Th,01:10PM,02:30,VOLLUM,120
+10583,ANTH,378,F,"Nature, Cult &Envirnmentalism",1.0,Brightman,T,07:10PM,10:00,ELIOT,414
+20321,ECON,201,SL1,Intro to Economic Analysis,0.0,Netusil,Th,03:10PM,04:00,ELIOT,314
+20322,ECON,201,SL2,Intro to Economic Analysis,0.0,Netusil,Th,04:10PM,05:00,ELIOT,314
+10584,ECON,311,F,Survey of Econometric Methods,1.0,Netusil,M-W-F,10:00AM,10:50,VOLLUM,120
+20574,ECON,312,S,Theory& Practice Econometrics,1.0,Parker,M-W-F,09:00AM,09:50,VOLLUM,116
+10585,ECON,313,F,Microeconomic Theory,1.0,Despins,M-W-F,09:00AM,09:50,VOLLUM,234
+20576,ECON,314,S,Macroeconomic Theory,1.0,Parker,M-W-F,11:00AM,11:50,VOLLUM,120
+20580,ECON,331,S,History of Economic Thought,1.0,Clausing,M-W-F,01:10PM,02:00,VOLLUM,134
+10587,ECON,341,F,Monetary and Fiscal Policy,1.0,Parker,T-Th,01:10PM,02:30,VOLLUM,228
+10589,ECON,342,F,International Macroeconomics,1.0,Clausing,M-W-F,01:10PM,02:00,VOLLUM,134
+20585,ECON,348,S,Economics of the PublicSector,1.0,Netusil,M-W-F,02:10PM,03:00,VOLLUM,116
+10586,ANTH,392,F01,Structuralism and Semiotics,1.0,Stasch,T-Th,01:10PM,02:30,VOLLUM,134
+10590,ECON,351,F,Environment & Nat Resrce Econ,1.0,Netusil,M-W-F,02:10PM,03:00,VOLLUM,116
+10591,ECON,382,F,Economics of Development,1.0,Despins,M-W-F,11:00AM,11:50,VOLLUM,234
+20582,ECON,383,S,International Trade,1.0,Clausing,M-W-F,10:00AM,10:50,VOLLUM,234
+10592,ECON,401,F,Seminar: Unemployment,0.5,Parker,M-W-F,12:00PM,12:50,VOLLUM,234
+20602,ECON,413,S,Economics & Game Theory,1.0,Despins,T-Th,09:00AM,10:20,VOLLUM,234
+20592,ECON,442,S,"Econ Envirn, Intl Trade,Devel",1.0,Despins,T-Th,10:30AM,11:50,VOLLUM,234
+10597,ECON,454,F,Economic Growth,1.0,Parker,M-W-F,10:00AM,10:50,VOLLUM,234
+10503,ENG,201,F01,Intro Narr:Native AmericanLit,1.0,Arnold,M-W,03:10PM,04:30,VOLLUM,116
+10774,ENG,201,F02,Intro Narr: Telling Lives,1.0,Leveen,M-W-F,01:10PM,02:00,VOLLUM,309
+20508,ENG,201,S,Intro Narrative: The Essay,1.0,Duquette,M-W-F,01:10PM,02:00,VOLLUM,110
+10593,ANTH,392,F02,Structuralism and Semiotics,1.0,Stasch,T-Th,02:40PM,04:00,VOLLUM,134
+10504,ENG,205,F01,Intro Fict:Colonl&LaterNovels,1.0,Gillcrist,T-Th,10:30AM,11:50,ELIOT,416
+10505,ENG,205,F02,Intro Fict:Portraits ofLadies,1.0,King,T-Th,10:30AM,11:50,PSYCH,108
+20509,ENG,205,S,Intro Fict: The Short Story,1.0,Baker,M-W-F,01:10PM,02:00,VOLLUM,120
+10506,ENG,211,F01,Intro to Poetry and Poetics,1.0,Steinman,T-Th,01:10PM,02:30,VOLLUM,110
+10507,ENG,211,F02,Intro to Poetry and Poetics,1.0,Steinman,T-Th,02:40PM,04:00,VOLLUM,116
+20510,ENG,211,S,Intro to Poetry and Poetics,1.0,Stauder,T-Th,01:10PM,02:30,PSYCH,103
+10758,ENG,242,F,Intro to Drama: The 1990s,1.0,Savery,M-W-F,10:00AM,10:50,LIB,41
+20511,ENG,242,S01,Intro Drama:Conventn &Inovatn,1.0,Porter,T-Th,10:30AM,11:50,ELIOT,416
+20512,ENG,242,S02,Intro Drama:Conventn &Inovatn,1.0,Porter,T-Th,02:40PM,04:00,ELIOT,416
+10508,ENG,301,F,Jun Sem: Epic and Novel,1.0,Sherman,T-Th,10:30AM,11:50,ELIOT,126
+20660,ANTH,434,S,Theories of Culture,1.0,Brightman,W,07:10PM,10:00,ELIOT,
+20513,ENG,302,S,"Jun Sem:Irony, Allegory, Epic",1.0,Knapp,W,07:10PM,10:00,VOLLUM,126
+20647,ENG,303,S,Amer. Studies Seminar: TheEnd,1.0,Arnold,M-W,03:10PM,04:30,PSYCH,103
+20514,ENG,333,S01,"Fict:Wolff,Forster,Bloomsbury",1.0,Gillcrist,T-Th,10:30AM,11:50,ELIOT,405
+20515,ENG,333,S02,Fict: Novel & Theory Mimesis,1.0,King,T,07:10PM,10:00,VOLLUM,126
+20516,ENG,338,S,Mod Fict:Representing Mothers,1.0,Sherman,T-Th,10:30AM,11:50,ELIOT,126
+10509,ENG,341,F01,American Lit: Race in America,1.0,Baker,M,06:10PM,09:00,VOLLUM,126
+10510,ENG,341,F02,Amer Lit: The James Brothers,1.0,Duquette,M-W,03:10PM,04:30,ELIOT,405
+20677,ENG,341,S,American Lit: Speaking ofRace,1.0,Leveen,Th,07:10PM,10:00,VOLLUM,110
+10511,ENG,356,F,20th Cent African-Amercan Lit,1.0,Savery,M-W-F,11:00AM,11:50,LIB,41
+10512,ENG,363,F,Love in Shakespeare,1.0,Porter,T-Th,02:40PM,04:00,PHYSIC,121
+10458,ART,161,F01,Introductory Drawing,0.5,Knutson,M-W,01:10PM,04:00,ART,DRAW
+20517,ENG,363,S,Skepticism in Shakespeare,1.0,Knapp,M-W-F,02:10PM,03:00,VOLLUM,126
+10752,ENG,366,F,Poetry: Pound and H.D.,1.0,Stauder,T-Th,01:10PM,02:30,VOLLUM,118
+20518,ENG,384,S,Poetry & History:Contemp Amer,1.0,Steinman,T-Th,02:40PM,04:00,VOLLUM,116
+10514,ENG,393,F,Literary Theory:EthicsReading,1.0,Knapp,M-W-F,02:10PM,03:00,LIB,41
+10136,FREN,110,Y01,First Year French,1.0,,,,,,Hochman         M-T-W-Th-F11:00     ELIOT   207
+10137,FREN,110,Y02,First Year French,1.0,,,,,,Hochman         M-T-W-Th-F12:00     ELIOT   207
+10138,FREN,110,Y03,First Year French,1.0,,,,,,Khan            M-T-W-Th-F12:00     ELIOT   216
+10139,FREN,210,Y01,Second Year French,1.0,Delehanty,M-W-F,10:00AM,10:50,VOLLUM,126
+10140,FREN,210,Y02,Second Year French,1.0,Berkvam,M-W-F,11:00AM,11:50,VOLLUM,302
+10141,FREN,210,Y03,Second Year French,1.0,Berkvam,M-W-F,12:00PM,12:50,VOLLUM,302
+10459,ART,161,F02,Introductory Drawing,0.5,Ondrizek,T-Th,09:00AM,11:50,ART,DRAW
+10142,FREN,320,Y,Stylistics and Composition,1.0,Khan,M-W-F,11:00AM,11:50,VOLLUM,118
+10495,FREN,332,F,Lit & Society (16th Century),1.0,Berkvam,T-Th,01:10PM,02:30,VOLLUM,302
+20493,FREN,334,S,Lit & Society (18th Century),1.0,Berkvam,T-Th,01:10PM,02:30,VOLLUM,302
+20494,FREN,341,S,Early Modern French Narrative,1.0,Khan,M-W,03:10PM,04:30,LIB,203
+20495,FREN,351,S,17th Cent French Drama,1.0,Delehanty,T-Th,02:40PM,04:00,VOLLUM,118
+20496,FREN,381,S,20th C French Poetry &Poetics,1.0,Hochman,M-W-F,02:10PM,03:00,VOLLUM,302
+10496,FREN,382,F,20th Century French Theatre,1.0,Khan,T-Th,02:40PM,04:00,VOLLUM,309
+10497,FREN,451,F,Seminar:Uses of Literature,1.0,Hochman,M-W,03:10PM,04:30,VOLLUM,118
+10143,GER,110,Y01,Frst Yr German:A Foundation,1.0,,,,,,Irmscher        M-T-W-Th-F11:00     ELIOT   414
+10397,GER,110,Y02,Frst Yr German:A Foundation,1.0,,,,,,Irmscher        M-T-W-Th-F12:00     ELIOT   414
+20465,ART,162,S,Figure Drawing,0.5,Ondrizek,T-Th,09:00AM,11:50,ART,DRAW
+10145,GER,220,Y,Secnd Yr Ger:CultralPerspctvs,1.0,Gokberk,M-W-F,01:10PM,02:00,VOLLUM,110
+10498,GER,311,F,Adv Conversation and Writing,1.0,Mieszkowski,T-Th,01:10PM,02:30,ELIOT,419
+20499,GER,312,S,Advancd Conversation&Writing,1.0,Irmscher,T-Th,02:40PM,04:00,ELIOT,419
+20497,GER,321,S,Modernism: Berlin,1.0,Gokberk,M-W,03:10PM,04:30,VOLLUM,116
+20502,GER,335,S,Contemporary German Prose,1.0,Gokberk,Th,06:40PM,09:30,ELIOT,419
+10501,GER,341,F,Modern German Theatre,1.0,Rudolf,M-W,03:10PM,04:30,ELIOT,419
+10499,GER,391,F,German Thought Postmodrn Era,1.0,Irmscher,T-Th,02:40PM,04:00,ELIOT,414
+20500,GER,392,S,German Theory II: Body Media,1.0,Mieszkowski,W,06:10PM,09:00,ELIOT,414
+10146,GRK,110,Y,First Year Greek,1.0,,,,,,Nicholson       M-T-W-Th-F11:00     VOLLUM  309
+10147,GRK,210,Y,Second Year Greek,1.0,Wolfe,M-T-W-Th,01:10PM,02:00,VOLLUM,234
+20466,ART,164,S,Printmaking,0.5,Knutson,M-W,01:10PM,04:00,ART,PRINT
+10487,GRK,311,F,Advanced Greek,1.0,Tron,T-Th,04:10PM,05:30,VOLLUM,134
+20485,GRK,312,S,Advanced Greek,1.0,Nicholson,T-Th,09:00AM,10:20,VOLLUM,134
+20628,HIST,220,S,Late Imperial China,1.0,Fix,M-W-F,01:10PM,02:00,ELIOT,414
+10643,HIST,221,F,Modern China,1.0,Fix,M-W-F,10:00AM,10:50,ELIOT,414
+10644,HIST,275,F,Cultr & Society 19 CentAmerca,1.0,Dirks,M-W,03:10PM,04:30,VOLLUM,110
+20629,HIST,276,S,Culture&Society 20 Cent Amer,1.0,Dirks,M-W,03:10PM,04:30,VOLLUM,110
+10784,HIST,281,F,Introduction to Judaism,1.0,McCalla,M-W-F,11:00AM,11:50,ELIOT,314
+10645,HIST,308,F01,Spcl Tops: Vietnam War,1.0,Segel,M-W-F,01:10PM,02:00,VOLLUM,120
+10646,HIST,308,F02,Spcl Tops: Vietnam War,1.0,Segel,M-W-F,02:10PM,03:00,VOLLUM,120
+10647,HIST,322,F,Subaltern Stds Historiography,1.0,Fix,M-W-F,01:10PM,02:00,ELIOT,414
+10453,ART,201,F,Introduction to Art History,1.0,Diebold,T-Th,09:00AM,10:20,LIB,41
+20630,HIST,325,S,The Family in China and Japan,1.0,Fix,T-Th,01:10PM,02:30,ELIOT,405
+10648,HIST,335,F,Devel of Britain 1700-1830,1.0,Sacks,T-Th,10:30AM,11:50,VOLLUM,118
+20631,HIST,343,S01,The Third Reich,1.0,Mueller,T-Th,10:30AM,11:50,WINCH,CPHT
+20632,HIST,343,S02,The Third Reich,1.0,Mueller,T-Th,01:10PM,02:30,VOLLUM,120
+20633,HIST,344,S01,The Russian Revolution,1.0,Smith,T-Th,10:30AM,11:50,PSYCH,103
+20634,HIST,344,S02,The Russian Revolution,1.0,Smith,T-Th,02:40PM,04:00,PSYCH,103
+10649,HIST,345,F,"Weimar:State,Society &Culture",1.0,Mueller,T-Th,01:10PM,02:30,ELIOT,405
+10653,HIST,352,F,Old Regime France 1600-1750,1.0,Breen,M-W-F,02:10PM,03:00,LIB,203
+20640,HIST,356,S,The French Enlightenment,1.0,Breen,M-W-F,02:10PM,03:00,LIB,203
+20641,HIST,364,S,Civil War and Reconstruction,1.0,Iaccarino,M-W,03:10PM,04:30,VOLLUM,234
+20461,ART,201,S01,Introduction to Art History,1.0,Diebold,M-W,03:10PM,04:30,LIB,41
+20635,HIST,367,S01,Gender and History,1.0,Dirks,T-Th,01:10PM,02:30,ELIOT,414
+20636,HIST,367,S02,Gender and History,1.0,Dirks,T-Th,02:40PM,04:00,ELIOT,414
+10650,HIST,369,F,American Slavery,1.0,Iaccarino,M-W,03:10PM,04:30,VOLLUM,126
+20637,HIST,384,S01,Mexico: Indepdence toRevolutn,1.0,Garrett,M-W,03:10PM,04:30,VOLLUM,228
+20638,HIST,384,S02,Mexico: Indepdence toRevolutn,1.0,Garrett,T-Th,09:00AM,10:20,VOLLUM,228
+10651,HIST,386,F,Mexico & the Spanish Conquest,1.0,Garrett,T-Th,09:00AM,10:20,VOLLUM,228
+10800,HIST,386,F02,Mexico & the Spanish Conquest,1.0,Garrett,T-Th,10:30AM,11:50,VOLLUM,134
+10490,HIST,393,F,Ancient History: Rome,1.0,Kelly,M-W,03:10PM,04:30,VOLLUM,120
+20489,HIST,394,S,Specl Topics in Roman History,1.0,Kelly,M-W,03:10PM,04:30,VOLLUM,120
+10652,HIST,411,F,Jun Sem: Depression Era U.S.,1.0,Dirks,T-Th,02:40PM,04:00,ELIOT,123
+10579,ANTH,211,F03,Introduction to Anthropology,1.0,Stasch,T-Th,10:30AM,11:50,VOLLUM,116
+20462,ART,201,S02,Introduction to Art History,1.0,Diebold,T-Th,10:30AM,11:50,LIB,41
+20639,HIST,412,S,"Sem: Comty, Auth, Cult15-1700",1.0,Sacks,T-Th,10:30AM,11:50,VOLLUM,134
+10072,HUM,110,Y,West Humanities: Greece &Rome,0.0,King,M-W-F,09:00AM,09:50,VOLLUM,VLH
+10148,HUM,110,Y01,West Humanities: Greece &Rome,0.0,Arnold,M-W-F,10:00AM,10:50,ELIOT,121
+10149,HUM,110,Y02,West Humanities: Greece &Rome,0.0,Drumm,M-W-F,10:00AM,10:50,ELIOT,123
+10150,HUM,110,Y03,West Humanities: Greece &Rome,0.0,Englert,M-W-F,10:00AM,10:50,ELIOT,126
+10151,HUM,110,Y04,West Humanities: Greece &Rome,0.0,Sherman,M-W-F,10:00AM,10:50,ELIOT,317
+10152,HUM,110,Y05,West Humanities: Greece &Rome,0.0,Leveen,M-W-F,10:00AM,10:50,LIB,203
+10153,HUM,110,Y06,West Humanities: Greece &Rome,0.0,Arkonovich,M-W-F,11:00AM,11:50,ELIOT,123
+10154,HUM,110,Y07,West Humanities: Greece &Rome,0.0,Gillcrist,M-W-F,11:00AM,11:50,ELIOT,126
+10155,HUM,110,Y08,West Humanities: Greece &Rome,0.0,Breen,M-W-F,11:00AM,11:50,ELIOT,317
+10460,ART,271,F,Introductory Painting,1.0,Knutson,M-W,07:10PM,10:00,ART,PAINT
+10156,HUM,110,Y09,West Humanities: Greece &Rome,0.0,Baker,M-W-F,11:00AM,11:50,LIB,203
+10157,HUM,110,Y10,West Humanities: Greece &Rome,0.0,Duquette,M-W-F,12:00PM,12:50,ELIOT,317
+10158,HUM,110,Y11,West Humanities: Greece &Rome,0.0,Nicholson,M-W-F,12:00PM,12:50,LIB,203
+10159,HUM,110,Y12,West Humanities: Greece &Rome,0.0,Stauder,M-W-F,01:10PM,02:00,ELIOT,123
+10160,HUM,110,Y13,West Humanities: Greece &Rome,0.0,Feener,M-W-F,01:10PM,02:00,ELIOT,317
+10161,HUM,110,Y14,West Humanities: Greece &Rome,0.0,Delehanty,M-W-F,02:10PM,03:00,ELIOT,317
+10749,HUM,110,Y25,West Humanities: Greece &Rome,0.0,Foat,M-W-F,02:10PM,03:00,ELIOT,123
+10162,HUM,110,Y15,West Humanities: Greece &Rome,0.0,Mandell,M-W,03:10PM,04:30,ELIOT,123
+10163,HUM,110,Y16,West Humanities: Greece &Rome,0.0,King,M-W,03:10PM,04:30,ELIOT,317
+10164,HUM,110,Y17,West Humanities: Greece &Rome,0.0,David,T-Th,09:00AM,10:20,ELIOT,317
+20467,ART,272,S,Introductory Painting II,1.0,Knutson,M-W,07:10PM,10:00,ART,PAINT
+10165,HUM,110,Y18,West Humanities: Greece &Rome,0.0,Latham,T-Th,09:00AM,10:20,LIB,203
+10775,HUM,110,Y26,West Humanities: Greece &Rome,0.0,Wolfe,T-Th,09:00AM,10:20,ELIOT,126
+10166,HUM,110,Y19,West Humanities: Greece &Rome,0.0,Mieszkowski,T-Th,10:30AM,11:50,ELIOT,317
+10168,HUM,110,Y21,West Humanities: Greece &Rome,0.0,Kelly,T-Th,01:10PM,02:30,ELIOT,317
+10169,HUM,110,Y22,West Humanities: Greece &Rome,0.0,Hendrickson,T-Th,01:10PM,02:30,LIB,203
+10318,HUM,110,Y23,West Humanities: Greece &Rome,0.0,Sacks,T-Th,02:40PM,04:00,ELIOT,317
+10323,HUM,110,Y24,West Humanities: Greece &Rome,0.0,Iaccarino,T-Th,02:40PM,04:00,LIB,203
+10073,HUM,210,Y,Early Modern Europe,0.0,Knapp,M-W,01:10PM,02:00,PSYCH,105
+10175,HUM,210,Y01,Early Modern Europe,0.0,Knapp,M-W-F,11:00AM,11:50,VOLLUM,134
+10176,HUM,210,Y02,Early Modern Europe,0.0,Steinman,M-W,03:10PM,04:30,VOLLUM,309
+10461,ART,281,F,Sculpture,1.0,Ondrizek,M-W,01:10PM,04:00,ART,SCULP
+10177,HUM,210,Y03,Early Modern Europe,0.0,Kierstead,T-Th,10:30AM,11:50,VOLLUM,302
+10178,HUM,210,Y04,Early Modern Europe,0.0,Garrett,T-Th,02:40PM,04:00,VOLLUM,228
+10074,HUM,220,Y,Modern Humanities,0.0,Mueller,M-W,11:00AM,11:50,ELIOT,CHPL
+10170,HUM,220,Y01,Modern Humanities,0.0,van Dyke,M-W-F,10:00AM,10:50,VOLLUM,302
+10171,HUM,220,Y02,Modern Humanities,0.0,Mueller,M-W-F,01:10PM,02:00,LIB,203
+10172,HUM,220,Y03,Modern Humanities,0.0,Porter,M-W,03:10PM,04:30,VOLLUM,134
+10173,HUM,220,Y04,Modern Humanities,0.0,Segel,T-Th,01:10PM,02:30,PSYCH,103
+10174,HUM,220,Y05,Modern Humanities,0.0,Gokberk,T-Th,02:40PM,04:00,VOLLUM,302
+10314,HUM,230,Y,Foundatns ChineseCivilization,0.0,Brashier,T-Th,09:30AM,10:20,PSYCH,105
+10315,HUM,230,Y01,Foundatns ChineseCivilization,0.0,Wu,M-W-F,10:00AM,10:50,ELIOT,405
+20468,ART,282,S,Sculpture II,1.0,Ondrizek,M-W,01:10PM,04:00,ART,SCULP
+10316,HUM,230,Y02,Foundatns ChineseCivilization,0.0,Brashier,M-W-F,11:00AM,11:50,ELIOT,405
+10317,HUM,230,Y03,Foundatns ChineseCivilization,0.0,Fix,T-Th,10:30AM,11:50,ELIOT,121
+10179,LAT,110,Y,First Year Latin,1.0,,,,,,Englert         M-T-W-Th-F11:00     VOLLUM  126
+10180,LAT,210,Y,Second Year Latin,1.0,Wolfe,M-T-W-Th,02:10PM,03:00,VOLLUM,234
+10486,LAT,311,F,Advanced Latin,1.0,Englert,T-Th,09:00AM,10:20,VOLLUM,134
+20484,LAT,312,S,Advanced Latin,1.0,Tron,T-Th,02:40PM,04:00,VOLLUM,134
+10481,LING,311,F,General Linguistics,1.0,Haviland,T-Th,09:00AM,10:20,VOLLUM,116
+10484,LING,313,F,Language and Society,1.0,Haviland,T,06:10PM,09:00,ELIOT,419
+10483,LING,323,F,Introductory Syntax,1.0,Haviland,T-Th,10:30AM,11:50,ELIOT,419
+20481,LING,328,S,Morphosyntactic Typology,1.0,Haviland,T-Th,09:00AM,10:20,ELIOT,419
+10454,ART,315,F,Early Medieval Art,1.0,Diebold,T-Th,02:40PM,04:00,LIB,41
+20482,LING,348,S,Languages the Americas:Mayan,1.0,Haviland,T,06:10PM,09:00,ELIOT,419
+10588,LING,392,F01,Structuralism and Semiotics,1.0,Stasch,T-Th,01:10PM,02:30,VOLLUM,134
+10598,LING,392,F02,Structuralism and Semiotics,1.0,Stasch,T-Th,02:40PM,04:00,VOLLUM,134
+10747,LING,393,F,Psycholinguistics,1.0,Canseco-Gonzale,M-W-F,10:00AM,10:50,PSYCH,108
+10747,LING,393,F,Psycholinguistics,1.0,Canseco-Gonzale,W,04:40PM,06:00,PSYCH,108
+20652,LING,396,S,Psych of Language Acquisition,1.0,Canseco-Gonzale,T-Th,02:40PM,04:00,PSYCH,108
+10538,LIT,266,F,Russian Short Fiction,1.0,Lencek,T-Th,01:10PM,02:30,VOLLUM,126
+10757,LIT,320,F,"20-Cent Chin Fiction, 1919-49",1.0,Wu,T-Th,02:40PM,04:00,ELIOT,121
+20498,LIT,321,S,Modernism: Berlin,1.0,Gokberk,M-W,03:10PM,04:30,VOLLUM,116
+10756,LIT,326,F,Chinese Narrative Tradition,1.0,Rhew,M-W,03:10PM,04:30,ELIOT,121
+20682,ART,316,S,Medieval Manuscript Illumin,1.0,Diebold,T-Th,02:40PM,04:00,LIB,41
+20657,LIT,334,S,Yijing: Text and Tradition,1.0,Rhew,M-W,03:10PM,04:30,ELIOT,121
+10502,LIT,341,F,Modern German Theatre,1.0,Rudolf,M-W,03:10PM,04:30,ELIOT,419
+20665,LIT,343,S,20-Century Chinese Poetry,1.0,Wu,T-Th,02:40PM,04:00,ELIOT,121
+20487,LIT,363,S,Greek Tragedy,1.0,Englert,M-W-F,12:00PM,12:50,VOLLUM,126
+20531,LIT,373,S,Russian Lit:Chekhov toPresent,1.0,Bershtein,T-Th,02:40PM,04:00,VOLLUM,126
+10540,LIT,379,F,The Myth of St. Petersburg,1.0,Bershtein,T-Th,02:40PM,04:00,PSYCH,103
+10500,LIT,391,F,German Thought Postmod Era,1.0,Irmscher,T-Th,02:40PM,04:00,ELIOT,414
+20501,LIT,392,S,German Theory II: Body Media,1.0,Mieszkowski,W,06:10PM,09:00,ELIOT,414
+20536,LIT,404,S,Russian Lit:Gogol &Dostoevsky,1.0,Lencek,T-Th,09:00AM,10:20,VOLLUM,118
+20533,LIT,408,S,Russ Decadent/SymbolistCultur,1.0,Bershtein,M-W,03:10PM,04:30,VOLLUM,302
+10455,ART,333,F,Divine Comedy &Visualizations,1.0,David,T-Th,01:10PM,02:30,LIB,41
+10542,LIT,413,F,20th C Russian CriticalTheory,1.0,Lencek,T-Th,09:00AM,10:20,VOLLUM,126
+10430,MATH,111,F01,Calculus I,1.0,Mayer,M-T-W-F,08:00AM,08:50,LIB,204
+10431,MATH,111,F02,Calculus I,1.0,Shurman,M-T-W-F,11:00AM,11:50,LIB,204
+10432,MATH,111,F03,Calculus I,1.0,Mayer,M-T-W-F,12:00PM,12:50,ELIOT,200
+10433,MATH,111,F04,Calculus I,1.0,Potluri,M-T-W-F,12:00PM,12:50,PSYCH,102
+10434,MATH,111,F05,Calculus I,1.0,Shurman,M-T-W-F,01:10PM,02:00,ELIOT,207
+10435,MATH,111,F06,Calculus I,1.0,Potluri,M-T-W-F,02:10PM,03:00,PSYCH,102
+20442,MATH,111,S01,Calculus I,1.0,Potluri,M-T-W-F,11:00AM,11:50,PSYCH,102
+20443,MATH,111,S02,Calculus I,1.0,Potluri,M-T-W-F,12:00PM,12:50,PSYCH,102
+20444,MATH,112,S01,Calculus II,1.0,Mayer,M-T-W-F,08:00AM,08:50,LIB,204
+20680,ART,343,S,Art and Politics in France,1.0,Hendrickson,T-Th,09:00AM,10:20,LIB,41
+20445,MATH,112,S02,Calculus II,1.0,Perkinson,M-T-W-F,11:00AM,11:50,LIB,204
+20446,MATH,112,S03,Calculus II,1.0,Jones,M-T-W-F,12:00PM,12:50,ELIOT,200
+20447,MATH,112,S04,Calculus II,1.0,Wieting,M-T-W-F,12:00PM,12:50,LIB,204
+20448,MATH,112,S05,Calculus II,1.0,Perkinson,M-T-W-F,01:10PM,02:00,ELIOT,207
+20449,MATH,112,S06,Calculus II,1.0,Bernhard,M-T-W-F,02:10PM,03:00,ELIOT,200
+10436,MATH,121,F01,Introduction to Computing,1.0,Fix,M-W-F,11:00AM,11:50,PHYSIC,123
+10436,MATH,121,F01,Introduction to Computing,1.0,Fix,Th,11:00AM,11:50,LIB,18
+10437,MATH,121,F02,Introduction to Computing,1.0,Fix,M-W-F,01:10PM,02:00,PHYSIC,123
+10437,MATH,121,F02,Introduction to Computing,1.0,Fix,Th,01:10PM,02:00,LIB,18
+20450,MATH,132,S,Introduction to Combinatorics,1.0,Shurman,M-W-F,10:00AM,10:50,ELIOT,207
+20681,ART,344,S,Pol Hist of Art Between Wars,1.0,van Dyke,M-W-F,01:10PM,02:00,LIB,41
+10438,MATH,141,F01,Intro to Probability &Statist,1.0,Jones,M-W-F,11:00AM,11:50,PHYSIC,240A
+10439,MATH,141,F02,Intro to Probability &Statist,1.0,Jones,M-W-F,01:10PM,02:00,PHYSIC,240A
+10440,MATH,141,FL1,Intro to Probability &Statist,0.0,Jones,T,09:00AM,09:50,LIB,18
+10441,MATH,141,FL2,Intro to Probability &Statist,0.0,Jones,T,11:00AM,11:50,LIB,18
+10442,MATH,141,FL3,Intro to Probability &Statist,0.0,Jones,T,01:10PM,02:00,LIB,18
+10443,MATH,211,F01,Introduction to Analysis I,1.0,Perkinson,M-T-W-F,09:00AM,09:50,ELIOT,200
+10444,MATH,211,F02,Introduction to Analysis I,1.0,Wieting,M-T-W-F,11:00AM,11:50,ELIOT,200
+10445,MATH,211,F03,Introduction to Analysis I,1.0,Bernhard,M-T-W-F,12:00PM,12:50,LIB,204
+20451,MATH,212,S01,Introduction to Analysis II,1.0,Wieting,M-T-W-F,09:00AM,09:50,ELIOT,207
+20452,MATH,212,S02,Introduction to Analysis II,1.0,Bernhard,M-T-W-F,12:00PM,12:50,PHYSIC,240A
+10580,ANTH,211,F04,Introduction to Anthropology,1.0,Silverstein,T-Th,01:10PM,02:30,ELIOT,414
+10777,ART,348,F,Art & Pol in Weimar Republic,1.0,van Dyke,M-W,03:10PM,04:30,LIB,41
+20453,MATH,311,S,Complex Analysis,1.0,Perkinson,M-T-W-F,10:00AM,10:50,LIB,204
+10446,MATH,321,F,Advanced Calculus,1.0,Shurman,M-T-W-F,10:00AM,10:50,LIB,204
+10447,MATH,331,F01,Linear Algebra,1.0,Mayer,M-T-W-F,09:00AM,09:50,ELIOT,216
+10448,MATH,331,F02,Linear Algebra,1.0,Potluri,M-T-W-F,11:00AM,11:50,PSYCH,102
+20454,MATH,331,S,Linear Algebra,1.0,Jones,M-T-W-F,11:00AM,11:50,ELIOT,216
+20455,MATH,332,S,Abstract Algebra,1.0,Bernhard,M-T-W-F,11:00AM,11:50,ELIOT,200
+20456,MATH,341,S,Geometry,1.0,Wieting,M-W-F,02:10PM,03:00,LIB,204
+10449,MATH,372,F,Combinatorics,1.0,Perkinson,M-W-F,01:10PM,02:00,ELIOT,216
+20457,MATH,382,S,Data Structure & Algorithm,1.0,Fix,M-W-F,09:00AM,09:50,PHYSIC,123
+20643,MATH,385,S,Computer Graphics,1.0,Fix,M-W-F,01:10PM,02:00,PHYSIC,123
+20679,ART,349,S,New West in Amer Photography,0.5,Fillin-Yeh,F,03:10PM,04:30,LIB,41
+10450,MATH,391,F,Probability,1.0,Wieting,M-W-F,09:00AM,09:50,LIB,204
+20458,MATH,412,S,Topics in Advanced AnalysisII,1.0,Mayer,M-W-F,03:10PM,04:00,LIB,204
+20459,MATH,421,S,Elemetary Number Theory,1.0,Shurman,M-W-F,12:00PM,12:50,PHYSIC,122
+10451,MATH,431,F,Algebraic Structures,1.0,Bernhard,M-W-F,03:10PM,04:00,LIB,204
+10452,MATH,441,F,Topics In Computer Theory,1.0,Fix,M-W-F,02:10PM,03:00,LIB,204
+10329,MUS,103,F,Chamber Orchestra,0.5,Schiff,M,06:10PM,07:30,KAUL,
+20324,MUS,103,S,Chamber Orchestra,0.5,Schiff,M,06:10PM,07:30,KAUL,
+10321,MUS,105,F,Chorus,0.5,Hancock,T,04:40PM,06:00,ELIOT,314
+20316,MUS,105,S,Chorus,0.5,Hancock,T,04:40PM,06:00,ELIOT,314
+10322,MUS,107,F,Collegium Musicum,0.5,Hancock,W,04:40PM,06:00,ELIOT,123
+10462,ART,371,F,"Intermed Paint,Draw,PrintmakI",1.0,Knutson,T-Th,01:10PM,04:00,ART,PAINT
+20317,MUS,107,S,Collegium Musicum,0.5,Hancock,W,04:40PM,06:00,ELIOT,123
+10464,MUS,110,F,Intro to Music Listening,1.0,Falk,M-W-F,12:00PM,12:50,ELIOT,416
+10465,MUS,111,F,Music Theory I,1.0,Hancock,M-W-F,01:10PM,02:00,ELIOT,416
+10466,MUS,111,FL1,Music Theory I,0.0,Hancock,M,11:00AM,11:50,ELIOT,416
+10467,MUS,111,FL2,Music Theory I,0.0,Hancock,M,03:10PM,04:00,ELIOT,416
+10468,MUS,111,FL3,Music Theory I,0.0,Hancock,T,02:10PM,03:00,ELIOT,416
+10469,MUS,111,FL4,Music Theory I,0.0,Hancock,W,02:10PM,03:00,ELIOT,301A
+20471,MUS,112,S,Theory II:IntermediateHarmony,1.0,Hancock,M-W-F,01:10PM,02:00,ELIOT,416
+20472,MUS,112,SL1,Theory II:IntermediateHarmony,0.0,Hancock,M,03:10PM,04:00,ELIOT,301A
+20473,MUS,112,SL2,Theory II:IntermediateHarmony,0.0,Hancock,W,02:10PM,03:00,ELIOT,301A
+20469,ART,372,S,"IntermedPaint,Draw,PrintmakII",1.0,Knutson,T-Th,01:10PM,04:00,ART,PAINT
+20474,MUS,122,S,Survey of Western Music,1.0,Falk,M-W-F,12:00PM,12:50,ELIOT,416
+10470,MUS,212,F,Theory III: BaroqueCounterpnt,1.0,Schiff,M-W-F,10:00AM,10:50,ELIOT,301A
+20648,MUS,236,S,The String Quartet,1.0,Falk,T-Th,10:30AM,11:50,LIB,36
+10471,MUS,251,F,Representation in Music,1.0,Falk,T-Th,01:10PM,02:30,LIB,36
+20475,MUS,256,S,Romantic Music,1.0,Hancock,T-Th,01:10PM,02:30,ELIOT,416
+20476,MUS,262,S01,Jazz,1.0,Schiff,M-W-F,02:10PM,03:00,ELIOT,416
+20477,MUS,262,S02,Jazz,1.0,Schiff,M-W-F,03:10PM,04:00,ELIOT,416
+10472,MUS,264,F,Modernism in Music,1.0,Schiff,M-W-F,02:10PM,03:00,ELIOT,416
+10473,MUS,311,F,Medieval and RenaissanceMusic,1.0,Falk,T-Th,10:30AM,11:50,LIB,36
+20478,MUS,343,S,Advanced Analysis,1.0,Schiff,M-W-F,10:00AM,10:50,ELIOT,301A
+10463,ART,381,F,Intermed Sculp & Multimedia I,1.0,Ondrizek,T-Th,01:10PM,04:00,ART,SCULP
+10656,PE,101,AE6,Aerobics,0.0,Casey,M-W,06:10PM,07:00,SPORTS,DANCE
+10657,PE,101,AE7,Aerobics,0.0,Casey,M-W,07:10PM,08:00,SPORTS,DANCE
+10658,PE,101,AFD,African Dance,0.0,Casey,T-Th,04:10PM,05:00,SPORTS,DANCE
+10661,PE,101,AIK,Aikido,0.0,Casey,M-W,07:10PM,09:00,SPORTS,MAT
+10659,PE,101,AR3,Archery,0.0,Casey,M-W,03:10PM,04:00,SPORTS,
+10660,PE,101,AR4,Archery,0.0,Casey,M-W,04:10PM,05:00,SPORTS,
+10664,PE,101,BEL,Bellydance,0.0,Casey,T,06:10PM,08:00,SPORTS,DANCE
+10662,PE,101,BRB,Ballroom Dance-Beginning,0.0,Casey,W,06:10PM,08:00,SPORTS,GYMII
+10663,PE,101,BRI,Ballroom Dance-Intermediate,0.0,Casey,W,08:10PM,10:00,SPORTS,DANCE
+10665,PE,101,CAN,Canoeing,0.0,Casey,W,04:10PM,06:30,SPORTS,
+20470,ART,382,S,Intermed Sculp & MultimediaII,1.0,Ondrizek,T-Th,01:10PM,04:00,ART,SCULP
+10680,PE,101,DEF,Self Defense,0.0,Casey,Th,07:10PM,09:30,SPORTS,MAT
+10666,PE,101,FEN,Fencing,0.0,Casey,M-Th,06:40PM,08:30,SPORTS,GYMII
+10667,PE,101,FLK,Folkdance,0.0,Casey,Th,07:40PM,10:00,SPORTS,DANCE
+10668,PE,101,GLF,Golf,0.0,Casey,T-Th,02:10PM,03:00,SPORTS,
+10698,PE,101,HAT,Yoga-Hatha,0.0,Casey,T-Th,05:10PM,06:00,SPORTS,DANCE
+10671,PE,101,JDO,Judo,0.0,Casey,M-W,03:40PM,05:30,SPORTS,MAT
+10670,PE,101,JGL,Juggling,0.0,Casey,W,07:10PM,09:00,SPORTS,GYMI
+10669,PE,101,JIT,Jitterbug,0.0,Casey,M,06:10PM,08:00,WINCH,
+10697,PE,101,KUN,Yoga-Kundilini,0.0,Casey,M-W,04:40PM,06:00,SPORTS,DANCE
+10672,PE,101,KYI,Kayaking-Intermediate,0.0,Casey,W,06:10PM,09:00,SPORTS,
+20464,ART,425,S,"Leonardo, Raphael,Michelangel",1.0,David,T-Th,01:10PM,02:30,LIB,41
+10673,PE,101,LIF,Lifeguard Training,0.0,Casey,M,06:10PM,09:00,SPORTS,
+10699,PE,101,REL,Yoga-Relaxaion,0.0,Casey,T-Th,06:10PM,07:00,SPORTS,MAT
+10674,PE,101,ROC,Rock Climbing,0.0,Casey,Th,04:10PM,07:00,VOLLUM,120
+10675,PE,101,RUG,Rugby-Men and Women,0.0,Casey,T-W-Th,04:10PM,06:00,SPORTS,
+10750,PE,101,RWB,Rowing-Beginning,0.0,Casey,M-W-F,03:10PM,06:00,SPORTS,
+10751,PE,101,RWI,Rowing-Intermediate,0.0,Casey,M-W-F,05:00AM,07:50,SPORTS,
+10683,PE,101,SFT,Softball,0.0,Casey,M,04:10PM,06:00,SPORTS,
+10684,PE,101,SQB,Squash-Beginning,0.0,Casey,T-Th,03:10PM,04:00,SPORTS,
+10685,PE,101,SQI,Squash-Intermediate,0.0,Casey,T-Th,04:10PM,05:00,SPORTS,
+10678,PE,101,SR2,Sailing,0.0,Casey,Th,02:10PM,05:00,SPORTS,
+10594,BIOL,101,F,Intro Biology Lect and Lab,1.0,Shampay,T-Th,09:00AM,10:20,VOLLUM,VLH
+10676,PE,101,ST2,Sailing,0.0,Casey,T,02:10PM,05:00,SPORTS,
+10677,PE,101,SW2,Sailing,0.0,Casey,W,02:10PM,05:00,SPORTS,
+10689,PE,101,TCB,Tai Chi-Beginning,0.0,Casey,M-W,03:10PM,04:00,SPORTS,GYMI
+10690,PE,101,TCI,Tai Chi-Intermediate,0.0,Casey,M-W,04:10PM,05:30,SPORTS,GYMI
+10693,PE,101,TNA,Tennis-Advanced,0.0,Casey,T-Th,05:10PM,06:00,SPORTS,
+10691,PE,101,TNB,Tennis-Beginning,0.0,Casey,T-Th,03:10PM,04:00,SPORTS,
+10692,PE,101,TNI,Tennis-Intermediate,0.0,Casey,T-Th,04:10PM,05:00,SPORTS,
+10694,PE,101,ULT,Ultimate Frisbee,0.0,Casey,T-Th,04:10PM,06:00,SPORTS,
+10696,PE,101,WWR,White Water Rafting,0.0,Casey,T,04:10PM,06:00,SPORTS,
+10701,PE,102,AE6,Aerobics,0.0,Casey,M-W,06:10PM,07:00,SPORTS,DANCE
+10596,BIOL,101,FT3,Intro Biology Lect and Lab,0.0,Shampay,T,01:10PM,05:00,BIOL,103
+10703,PE,102,AE7,Aerobics,0.0,Casey,M-W,07:10PM,08:00,SPORTS,DANCE
+10704,PE,102,AFD,African Dance,0.0,Casey,T-Th,04:10PM,05:30,SPORTS,
+10705,PE,102,AIK,Aikido,0.0,Casey,M-W,07:10PM,09:00,SPORTS,MAT
+10707,PE,102,BAD,Badminton,0.0,Casey,T-Th,12:00PM,12:50,SPORTS,GYMI
+10709,PE,102,BBC,Basketball-Coed,0.0,Casey,T-Th,04:10PM,06:00,SPORTS,GYMI
+10706,PE,102,BCN,Backcountry Navigation,0.0,Casey,W,04:10PM,06:00,VOLLUM,
+10708,PE,102,BD1,Badminton,0.0,Casey,T-Th,01:10PM,02:00,SPORTS,GYMI
+10713,PE,102,BEL,Bellydance,0.0,Casey,T,06:10PM,08:00,SPORTS,DANCE
+10714,PE,102,BOW,Bowling,0.0,Casey,T,04:10PM,06:00,SPORTS,
+10711,PE,102,BRB,Ballroom Dance-Beginning,0.0,Casey,W,06:10PM,08:00,SPORTS,GYMII
+10599,BIOL,101,FT7,Intro Biology Lect and Lab,0.0,Shampay,T,01:10PM,05:00,BIOL,107
+10712,PE,102,BRI,Ballroom Dance-Intermediate,0.0,Casey,W,08:10PM,10:00,SPORTS,GYMII
+10727,PE,102,DEF,Self Defense,0.0,Casey,Th,07:10PM,09:30,SPORTS,MAT
+10715,PE,102,FEN,Fencing,0.0,Casey,M-Th,06:40PM,08:30,SPORTS,GYMII
+10716,PE,102,FLK,Folkdancing,0.0,Casey,Th,07:40PM,10:00,SPORTS,DANCE
+10717,PE,102,HAP,Hiking Around Portland,0.0,Casey,T,04:10PM,07:00,VOLLUM,120
+10740,PE,102,HAT,Yoga-Hatha,0.0,Casey,T-Th,05:10PM,06:00,SPORTS,DANCE
+10721,PE,102,JGL,Juggling,0.0,Casey,W,07:10PM,09:00,SPORTS,GYMI
+10720,PE,102,JIT,Jitterbug,0.0,Casey,M,06:10PM,08:00,WINCH,
+10722,PE,102,JUD,Judo,0.0,Casey,M-W,03:40PM,05:40,SPORTS,MAT
+10739,PE,102,KUN,Yoga-Kundlini,0.0,Casey,M-W,04:40PM,06:00,SPORTS,DANCE
+10581,ANTH,211,F05,Introduction to Anthropology,1.0,Brightman,M-W,06:10PM,07:30,ELIOT,317
+10600,BIOL,101,FW3,Intro Biology Lect and Lab,0.0,Shampay,W,01:10PM,05:00,BIOL,103
+10723,PE,102,LIF,Lifeguard Training,0.0,Casey,M,06:10PM,09:00,SPORTS,
+10781,PE,102,MOD,Modern Dance,0.0,Casey,F,04:10PM,06:00,SPORTS,GYMII
+10741,PE,102,REL,Yoga-Relaxation,0.0,Casey,T-Th,06:10PM,07:00,SPORTS,MAT
+10725,PE,102,ROC,Rock Climbing,0.0,Casey,Th,04:10PM,07:00,VOLLUM,120
+10724,PE,102,RQB,Raquetball-Beginning,0.0,Casey,T-Th,02:10PM,03:00,SPORTS,
+10726,PE,102,RUG,Rugby-Men and Women,0.0,Casey,T-W-Th,04:10PM,06:00,SPORTS,
+10730,PE,102,SQB,Squash-beginning,0.0,Casey,T-Th,03:10PM,04:00,SPORTS,
+10731,PE,102,SQI,Squash-Intermediate,0.0,Casey,T-Th,04:10PM,05:00,SPORTS,
+10735,PE,102,TCB,Tai Chi-Beginning,0.0,Casey,M-W,03:10PM,04:00,SPORTS,GYMI
+10736,PE,102,TCI,Tai Chi-Intermediate,0.0,Casey,M-W,04:10PM,05:30,SPORTS,GYMI
+10601,BIOL,101,FW7,Intro Biology Lect and Lab,0.0,Shampay,W,01:10PM,05:00,BIOL,107
+10737,PE,102,ULT,Ultimate Frisbee,0.0,Casey,T-Th,04:10PM,06:00,SPORTS,
+10421,PHIL,200,F01,Introduction to Philosophy,1.0,Hinchliff,T-Th,10:30AM,11:50,VOLLUM,120
+10422,PHIL,200,F02,Introduction to Philosophy,1.0,Latham,T-Th,10:30AM,11:50,PSYCH,103
+10423,PHIL,200,F03,Introduction to Philosophy,1.0,Reeve,T-Th,10:30AM,11:50,WINCH,CPHT
+20417,PHIL,201,S,Logic,1.0,Taschek,T-Th,01:10PM,02:30,PSYCH,105
+10424,PHIL,301,F,Ancient Philosophy,1.0,Reeve,T-Th,02:40PM,04:00,PSYCH,105
+20418,PHIL,308,S,Post-Kantian Continental Phil,1.0,Peck,T-Th,10:30AM,11:50,VOLLUM,118
+20419,PHIL,310,S,Metaphysics,1.0,Hinchliff,T-Th,10:30AM,11:50,VOLLUM,116
+10425,PHIL,311,F,Epistemology,1.0,Taschek,T-Th,10:30AM,11:50,PHYSIC,121
+10767,PHIL,312,F,Ethics,1.0,Arkonovich,M-W-F,01:10PM,02:00,VOLLUM,126
+10602,BIOL,101,FR3,Intro Biology Lect and Lab,0.0,Shampay,Th,01:10PM,05:00,BIOL,103
+10427,PHIL,317,F,Philosophy of Mind,1.0,Hinchliff,T-Th,02:40PM,04:00,VOLLUM,110
+20421,PHIL,410,S01,"Adv Topics:APrior,Nec,Anlytic",1.0,Hinchliff,T-Th,01:10PM,02:30,VOLLUM,118
+20422,PHIL,410,S02,Advanced Topics:Phil of Mind,1.0,Reeve,M-W,03:10PM,04:30,VOLLUM,118
+20423,PHIL,410,S03,Advanced Topics: Epistemology,1.0,Taschek,T-Th,02:40PM,04:00,ELIOT,405
+20670,PHIL,410,S04,Adv Topics: Ethics,1.0,Latham,M-W-F,01:10PM,02:00,VOLLUM,126
+10428,PHIL,415,F01,Major Figures:Existentialists,1.0,Peck,M-W-F,02:10PM,03:00,VOLLUM,134
+10429,PHIL,415,F02,Major Figures: Davidson,1.0,Taschek,M-W,03:10PM,04:30,VOLLUM,234
+20424,PHIL,415,S,Major Figures: Hume,1.0,Arkonovich,M-W-F,02:10PM,03:00,VOLLUM,134
+10075,PHYS,100,Y,General Physics I,1.0,Bonfim,M-W-F,10:00AM,10:50,VOLLUM,VLH
+10181,PHYS,100,Y01,General Physics I,0.0,Bonfim,T,10:30AM,11:50,PHYSIC,122
+10603,BIOL,101,FR7,Intro Biology Lect and Lab,0.0,Shampay,Th,01:10PM,05:00,BIOL,107
+10182,PHYS,100,Y02,General Physics I,0.0,Bonfim,T,01:10PM,02:30,PHYSIC,122
+10183,PHYS,100,Y03,General Physics I,0.0,Bonfim,W,01:10PM,02:30,PHYSIC,122
+10184,PHYS,100,Y04,General Physics I,0.0,Bonfim,W,02:40PM,04:00,PHYSIC,122
+10185,PHYS,100,Y05,General Physics I,0.0,Bonfim,Th,10:30AM,11:50,PHYSIC,122
+10186,PHYS,100,Y06,General Physics I,0.0,Bonfim,Th,01:10PM,02:30,PHYSIC,122
+10392,PHYS,100,Y07,General Physics I,0.0,Bonfim,Th,02:40PM,04:00,PHYSIC,122
+10187,PHYS,100,YL1,General Physics I,0.0,Bonfim,M,01:10PM,04:00,PHYSIC,129
+10188,PHYS,100,YL2,General Physics I,0.0,Bonfim,M,07:00PM,10:00,PHYSIC,129
+10189,PHYS,100,YL3,General Physics I,0.0,Bonfim,T,01:10PM,04:00,PHYSIC,129
+10190,PHYS,100,YL4,General Physics I,0.0,Bonfim,T,07:00PM,10:00,PHYSIC,129
+10604,BIOL,101,FF3,Intro Biology Lect and Lab,0.0,Shampay,F,01:10PM,05:00,BIOL,103
+10191,PHYS,100,YL5,General Physics I,0.0,Bonfim,W,01:10PM,04:00,PHYSIC,129
+10192,PHYS,100,YL6,General Physics I,0.0,Bonfim,W,07:00PM,10:00,PHYSIC,129
+10193,PHYS,100,YL7,General Physics I,0.0,Bonfim,Th,01:10PM,04:00,PHYSIC,129
+10194,PHYS,100,YL8,General Physics I,0.0,Bonfim,Th,07:00PM,10:00,PHYSIC,129
+20402,PHYS,101,S,Introduction to Physics,1.0,Reynolds,M-W-F,02:10PM,03:00,VOLLUM,VLH
+20403,PHYS,101,S01,Introduction to Physics,0.0,Reynolds,W,03:10PM,04:00,PHYSIC,123
+20404,PHYS,101,S02,Introduction to Physics,0.0,Reynolds,Th,02:10PM,03:00,PHYSIC,123
+20405,PHYS,101,S03,Introduction to Physics,0.0,Reynolds,Th,03:10PM,04:00,PHYSIC,123
+20406,PHYS,101,S04,Introduction to Physics,0.0,Reynolds,F,03:10PM,04:00,PHYSIC,123
+20407,PHYS,101,SL1,Introduction to Physics,0.0,Reynolds,M,03:10PM,05:00,PHYSIC,134
+10606,BIOL,101,FF7,Intro Biology Lect and Lab,0.0,Shampay,F,01:10PM,05:00,BIOL,107
+20409,PHYS,101,SL2,Introduction to Physics,0.0,Reynolds,T,01:10PM,03:00,PHYSIC,134
+20410,PHYS,101,SL3,Introduction to Physics,0.0,Reynolds,W,03:10PM,05:00,PHYSIC,134
+20658,PHYS,101,SL7,Introduction to Physics,0.0,Staff,W,07:10PM,09:00,PHYSIC,134
+20412,PHYS,101,SL4,Introduction to Physics,0.0,Reynolds,Th,09:00AM,10:50,PHYSIC,134
+20413,PHYS,101,SL5,Introduction to Physics,0.0,Reynolds,Th,01:10PM,03:00,PHYSIC,134
+20415,PHYS,101,SL6,Introduction to Physics,0.0,Reynolds,F,03:10PM,05:00,PHYSIC,134
+10076,PHYS,200,Y,General Physics II,1.0,Griffiths,M-W-F,10:00AM,10:50,PHYSIC,123
+10195,PHYS,200,YL1,General Physics II,0.0,Griffiths,T,01:10PM,04:00,PHYSIC,133
+10196,PHYS,200,YL2,General Physics II,0.0,Griffiths,W,01:10PM,04:00,PHYSIC,133
+10393,PHYS,200,YL3,General Physics II,0.0,Griffiths,Th,01:10PM,04:00,PHYSIC,133
+20579,BIOL,102,S,Intro Biology Lect and Lab,1.0,Black,T-Th,09:00AM,10:20,VOLLUM,VLH
+10399,PHYS,311,F,Classical Mechanics I,1.0,Reynolds,T-Th,09:00AM,10:20,PHYSIC,123
+10401,PHYS,321,F,Electrodynamics I,1.0,James,M-W-F,12:00PM,12:50,PHYSIC,240A
+20392,PHYS,322,S,Electrodynamics II,1.0,James,M-W-F,12:00PM,12:50,PHYSIC,123
+10702,PHYS,323,F,Optics,1.0,Mitchell,M-W-F,10:00AM,10:50,PHYSIC,121
+10402,PHYS,331,F,Advanced Laboratory I,0.5,Essick,M,03:10PM,04:00,PHYSIC,122
+10404,PHYS,331,FL1,Advanced Laboratory I,0.0,Essick,W,01:10PM,04:00,PHYSIC,
+10405,PHYS,331,FL2,Advanced Laboratory I,0.0,Essick,Th,01:10PM,04:00,PHYSIC,
+20394,PHYS,332,S,Advanced Laboratory II,0.5,Mitchell,M,03:10PM,04:00,PHYSIC,122
+20395,PHYS,332,SL1,Advanced Laboratory II,0.0,Mitchell,W,01:10PM,04:00,PHYSIC,
+20396,PHYS,332,SL2,Advanced Laboratory II,0.0,Mitchell,Th,01:10PM,04:00,PHYSIC,
+20583,BIOL,102,ST3,Intro Biology Lect and Lab,0.0,Black,T,01:10PM,05:00,BIOL,103
+20397,PHYS,342,S,Quantum Mechanics I,1.0,Wheeler,T-Th,09:00AM,10:20,PHYSIC,123
+10407,PHYS,351,F,Thermal Physics,1.0,Reynolds,M-W-F,11:00AM,11:50,PHYSIC,122
+20398,PHYS,362,S,Solid State Physics,1.0,Essick,M-W-F,11:00AM,11:50,PHYSIC,240A
+20399,PHYS,366,S,Elementary Particles,1.0,Griffiths,T-Th,10:30AM,11:50,PHYSIC,240A
+10409,PHYS,367,F,Scientific Computation,1.0,Crandall,T-Th,07:10PM,08:30,PHYSIC,123
+10411,PHYS,411,F,Classical Mechanics II,1.0,Wheeler,M-W-F,09:00AM,09:50,PHYSIC,122
+20400,PHYS,442,S,Quantum Mechanics II,1.0,Wheeler,M-W-F,09:00AM,09:50,PHYSIC,121
+10633,POL,211,F,Intro Political Analysis,1.0,Rejali,M-W-F,02:10PM,03:00,VOLLUM,VLH
+20613,POL,214,S,Empirical Political Theory,1.0,Gronke,T-Th,02:40PM,04:00,VOLLUM,110
+20612,POL,301,S,Classical PoliticalPhilosophy,1.0,Mandell,T-Th,01:10PM,02:30,ELIOT,123
+20584,BIOL,102,ST7,Intro Biology Lect and Lab,0.0,Black,T,01:10PM,05:00,BIOL,107
+10635,POL,303,F,Modern Political Philosophy,1.0,Steinberger,T-Th,02:40PM,04:00,ELIOT,405
+20611,POL,310,S,Comparative Politics,1.0,Andreas,T-Th,10:30AM,11:50,ELIOT,123
+10521,POL,311,F,Research Methods,1.0,Tudor,T-Th,02:40PM,04:00,ELIOT,126
+10636,POL,335,F,Democratic Theory,1.0,Mandell,T-Th,01:10PM,02:30,ELIOT,123
+10637,POL,340,F,Politics of Globalization,1.0,Andreas,T,06:30PM,09:30,ELIOT,123
+10769,POL,345,F,Environmental Politics,1.0,Teske,M-W,03:10PM,04:30,ELIOT,216
+20675,POL,351,S,Pol of Democratic Participatn,1.0,Teske,M,07:10PM,10:00,VOLLUM,134
+20618,POL,356,S,States and Illegal Markets,1.0,Andreas,W,07:00PM,10:00,ELIOT,123
+10634,POL,360,F,Approaches to Violence,1.0,Rejali,M-W,03:10PM,04:30,PSYCH,103
+20622,POL,379,S,Pol of Border and US-Mexico,1.0,Andreas,T-Th,02:40PM,04:00,ELIOT,
+20586,BIOL,102,SW3,Intro Biology Lect and Lab,0.0,Black,W,01:10PM,05:00,BIOL,103
+20609,POL,381,S,Con. Law and JudicialPolitics,1.0,Kapsch,M-W,03:10PM,04:30,VOLLUM,126
+20614,POL,383,S,Systems of Justice,1.0,Kapsch,T-Th,02:40PM,04:00,ELIOT,123
+10638,POL,385,F,International CriminalJustice,1.0,Rejali,T-Th,02:40PM,04:00,VOLLUM,118
+20615,POL,390,S,Machiavelli,1.0,Rejali,T-Th,01:10PM,02:30,ELIOT,121
+20616,POL,396,S,Political Philosophies ofWork,1.0,Rejali,M-W,03:10PM,04:30,ELIOT,405
+10398,PSY,121,F,Intro to Psychology I,1.0,Reisberg,T-Th,10:30AM,11:50,PSYCH,105
+10400,PSY,121,FL1,Intro to Psychology,0.0,Reisberg,T-Th,01:10PM,02:00,PSYCH,136
+10403,PSY,121,FL2,Intro to Psychology,0.0,Reisberg,T-Th,02:10PM,03:00,PSYCH,136
+10406,PSY,121,FL3,Intro to Psychology,0.0,Reisberg,W-F,01:10PM,02:00,PSYCH,136
+10408,PSY,121,FL4,Intro to Psychology,0.0,Reisberg,W-F,02:10PM,03:00,PSYCH,136
+10763,ANTH,211,F06,Introduction to Anthropology,1.0,Silverstein,T-Th,02:40PM,04:00,VOLLUM,120
+20587,BIOL,102,SW7,Intro Biology Lect and Lab,0.0,Black,W,01:10PM,05:00,BIOL,107
+20401,PSY,122,S,Intro to Psychology II,1.0,Neuringer,T-Th,10:30AM,11:50,PSYCH,105
+20408,PSY,122,SL1,Intro to Psychology II,0.0,Neuringer,T-Th,01:10PM,02:00,PSYCH,136
+20411,PSY,122,SL2,Intro to Psychology II,0.0,Neuringer,T-Th,02:10PM,03:00,PSYCH,136
+20414,PSY,122,SL3,Intro to Psychology II,0.0,Neuringer,W-F,01:10PM,02:00,PSYCH,136
+20416,PSY,122,SL4,Intro to Psychology II,0.0,Neuringer,W-F,02:10PM,03:00,PSYCH,136
+10413,PSY,322,F,Social Psychology,1.0,Oleson,M-W-F,01:10PM,02:00,PSYCH,108
+10753,PSY,324,F,Health Psychology,1.0,Herman,M-W-F,03:10PM,04:00,PSYCH,108
+20662,PSY,326,S,Social Development,1.0,Bulkley,M-W-F,10:00AM,10:50,PSYCH,103
+20663,PSY,327,S,Community Psychology,1.0,Herman,M-W-F,01:10PM,02:00,PSYCH,108
+10414,PSY,333,F,Psychobiology,1.0,Dickinson,M-W-F,12:00PM,12:50,PSYCH,105
+20588,BIOL,102,SR3,Intro Biology Lect and Lab,0.0,Black,Th,01:10PM,05:00,BIOL,103
+20426,PSY,333,S,Psychobiology,1.0,Rhodes,T-Th,10:30AM,11:50,PSYCH,136
+20428,PSY,336,S,Neuropsychology,1.0,Canseco-Gonzale,T-Th,09:00AM,10:20,PSYCH,108
+20429,PSY,338,S,Psychopharmacology,1.0,Dickinson,M-W-F,12:00PM,12:50,PSYCH,105
+20430,PSY,338,SL1,Psychopharmacology,0.0,Dickinson,W,06:40PM,07:30,PSYCH,108
+20431,PSY,338,SL2,Psychopharmacology,0.0,Dickinson,W,07:40PM,08:30,PSYCH,108
+10416,PSY,344,F,Thinking,1.0,Reisberg,M-W-F,11:00AM,11:50,PSYCH,108
+20432,PSY,348,S,Research Design & DataAnalysi,1.0,Oleson,M-W-F,11:00AM,11:50,PSYCH,108
+20433,PSY,348,SL1,Research Design & DataAnalysi,0.0,Oleson,M,03:10PM,04:00,PSYCH,136
+20434,PSY,348,SL2,Research Design & DataAnalysi,0.0,Oleson,T,04:10PM,05:00,PSYCH,136
+10754,PSY,351,F,Psychopathology,1.0,Herman,M-W-F,09:00AM,09:50,PSYCH,108
+20589,BIOL,102,SR7,Intro Biology Lect and Lab,0.0,Black,Th,01:10PM,05:00,BIOL,107
+10417,PSY,361,F,Human Development,1.0,Bulkley,T-Th,01:10PM,02:30,PSYCH,108
+20435,PSY,366,S,Cognitive Processes,1.0,Reisberg,T-Th,01:10PM,02:30,PSYCH,108
+20436,PSY,366,SL1,Cognitive Processes,0.0,Reisberg,M,10:00AM,10:50,PSYCH,136
+20437,PSY,366,SL2,Cognitive Processes,0.0,Reisberg,M,12:00PM,12:50,PSYCH,108
+20438,PSY,373,S,Learning,1.0,Neuringer,M-W-F,10:00AM,10:50,PSYCH,108
+20425,PSY,383,S,Music Perception,1.0,Reisberg,M-W-F,02:10PM,03:00,PSYCH,108
+10755,PSY,385,F,Cross-Cultural Psychology,1.0,Bulkley,M-W-F,02:10PM,03:00,PSYCH,108
+10418,PSY,393,F,Psycholinguistics,1.0,Canseco-Gonzale,M-W-F,10:00AM,10:50,PSYCH,108
+20440,PSY,396,S,Psych of Language Acquisition,1.0,Canseco-Gonzale,T-Th,02:40PM,04:00,PSYCH,108
+10420,PSY,401,F,Junior Seminar,1.0,Rhodes,M,06:30PM,09:00,PSYCH,108
+20590,BIOL,102,SF3,Intro Biology Lect and Lab,0.0,Black,F,01:10PM,05:00,BIOL,103
+20441,PSY,433,S,Psychobiology Research,1.0,Dickinson,T-Th,10:30AM,11:50,PSYCH,108
+20664,PSY,442,S,Clinical Psychology,1.0,Herman,M-W-F,09:00AM,09:50,PSYCH,108
+10759,REL,152,F,Introduction to Judaism,1.0,McCalla,M-W-F,11:00AM,11:50,ELIOT,314
+20521,REL,154,S,Intro to Religions of Asia,1.0,Brashier,M-W-F,10:00AM,10:50,PSYCH,105
+10523,REL,155,F,Introduction to Islam,1.0,Feener,M-W-F,11:00AM,11:50,PSYCH,103
+10524,REL,201,F,Theory & Method in RelStudies,1.0,Brashier,M-W-F,01:10PM,02:00,LIB,204
+10785,REL,201,F01,Theory &Methods in RelStudies,0.0,Brashier,M-W-F,10:00AM,10:50,VOLLUM,134
+10786,REL,201,F02,Theory &Methods in RelStudies,0.0,Brashier,M-W-F,01:10PM,02:00,VOLLUM,302
+10787,REL,201,F03,Theory &Methods in RelStudies,0.0,Brashier,M-W-F,02:10PM,03:00,VOLLUM,302
+20522,REL,301,S,History of Religion,1.0,McCalla,T-Th,02:40PM,04:00,VOLLUM,120
+20591,BIOL,102,SF7,Intro Biology Lect and Lab,0.0,Black,F,01:10PM,05:00,BIOL,107
+10525,REL,313,F,Chinese Mahayana Texts,1.0,Brashier,T-Th,10:30AM,11:50,ELIOT,405
+20523,REL,363,S,Missing Persons World ofIslam,1.0,Feener,M-W-F,11:00AM,11:50,VOLLUM,234
+10760,REL,366,F,Romanticism and Religion,1.0,McCalla,M-W,06:10PM,07:30,ELIOT,405
+10527,REL,384,F,Spcl Top Ancient Christianity,1.0,Foat,M-W-F,10:00AM,10:50,ELIOT,419
+20666,REL,399,S,Junior Seminar,1.0,Foat,T-Th,01:10PM,02:30,PHYSIC,121
+10197,RUSS,120,Y,First Year Russian,1.0,,,,,,Lencek          M-T-W-Th-F12:00     VOLLUM  126
+10799,RUSS,120,Y02,First Year Russian,1.0,Lencek,M-W-F,11:00AM,11:50,VOLLUM,120
+10799,RUSS,120,Y02,First Year Russian,1.0,Lencek,T-Th,11:00AM,11:50,VOLLUM,234
+10198,RUSS,220,Y,Second Year Russian,1.0,,,,,,Bershtein       M-T-W-Th-F12:00     VOLLUM  309
+10537,RUSS,266,F,Russian Short Fiction,1.0,Lencek,T-Th,01:10PM,02:30,VOLLUM,126
+20593,BIOL,332,S,Vascular Plant Diversity,1.0,Raubeson,M-W-F,10:00AM,10:50,PHYSIC,240A
+10536,RUSS,300,F,Advanced Russian,1.0,Bershtein,T-Th,10:30AM,11:50,ELIOT,123
+20534,RUSS,355,S,20th Century Russian Poetry,1.0,Lencek,T-Th,01:10PM,02:30,VOLLUM,134
+20530,RUSS,373,S,Mod Russ Lit:Chekov toPresent,1.0,Bershtein,T-Th,02:40PM,04:00,VOLLUM,126
+10539,RUSS,379,F,The Myth of St. Petersburg,1.0,Bershtein,T-Th,02:40PM,04:00,PSYCH,103
+20535,RUSS,404,S,Russ Lit: Gogol & Dostoevsky,1.0,Lencek,T-Th,09:00AM,10:20,VOLLUM,118
+20532,RUSS,408,S,Russ Decadent/SymbolistCultur,1.0,Bershtein,M-W,03:10PM,04:30,VOLLUM,302
+10541,RUSS,413,F,20th C Russian CriticalTheory,1.0,Lencek,T-Th,09:00AM,10:20,VOLLUM,126
+10474,SOC,211,F,Introduction to Sociology,0.0,Tudor,M,02:10PM,03:00,PSYCH,105
+10475,SOC,211,F01,Introduction to Sociology,0.0,Hrycak,W-F,10:00AM,10:50,VOLLUM,228
+10476,SOC,211,F02,Introduction to Sociology,0.0,Hrycak,W-F,11:00AM,11:50,VOLLUM,228
+20594,BIOL,332,SL1,Vascular Plant Diversity,0.0,Raubeson,T,01:10PM,05:00,BIOL,207
+10477,SOC,211,F03,Introduction to Sociology,0.0,Schneiberg,W-F,12:00PM,12:50,VOLLUM,228
+10478,SOC,211,F04,Introduction to Sociology,0.0,Schneiberg,W-F,01:10PM,02:00,VOLLUM,228
+10479,SOC,211,F05,Introduction to Sociology,0.0,Tudor,W-F,02:10PM,03:00,VOLLUM,228
+10480,SOC,211,F06,Introduction to Sociology,0.0,Tudor,W-F,03:10PM,04:00,VOLLUM,228
+20684,SOC,244,S01,Race and Ethnicity,1.0,Schneiberg,T-Th,09:00AM,10:20,VOLLUM,302
+20685,SOC,244,S02,Race and Ethnicity,1.0,Schneiberg,T-Th,10:30AM,11:50,ELIOT,419
+20653,SOC,283,S01,Sociology of Religion,1.0,Tudor,M-W-F,01:10PM,02:00,ELIOT,126
+20654,SOC,283,S02,Sociology of Religion,1.0,Tudor,M-W-F,03:10PM,04:00,ELIOT,126
+10520,SOC,311,F,Research Methods,1.0,Tudor,T-Th,02:40PM,04:00,ELIOT,126
+20646,SOC,321,S,American Capitalism,1.0,Schneiberg,T-Th,02:40PM,04:00,ELIOT,126
+20595,BIOL,332,SL2,Vascular Plant Diversity,0.0,Raubeson,Th,01:10PM,05:00,BIOL,207
+10522,SOC,363,F,Sociology of Culture,1.0,Hrycak,M-W,03:10PM,04:30,VOLLUM,302
+10199,SPAN,110,Y01,First Year Spanish,1.0,Drumm,M-T-W-F,11:00AM,11:50,VOLLUM,110
+10200,SPAN,110,Y02,First Year Spanish,1.0,Moret,M-T-W-F,12:00PM,12:50,VOLLUM,110
+10201,SPAN,110,Y03,First Year Spanish,1.0,Schulz,M-T-W-F,12:00PM,12:50,VOLLUM,116
+10202,SPAN,210,Y01,Second Year Spanish,1.0,Fischer,M-T-W-F,10:00AM,10:50,VOLLUM,110
+10203,SPAN,210,Y02,Second Year Spanish,1.0,Fischer,M-T-W-F,12:00PM,12:50,PHYSIC,121
+10378,SPAN,210,Y03,Second Year Spanish,1.0,Moret,M-T-W-F,01:10PM,02:00,VOLLUM,116
+10491,SPAN,321,F01,Theory & Practice HispanicLit,1.0,Moret,M-W-F,10:00AM,10:50,ELIOT,416
+10492,SPAN,321,F02,Theory & Practice HispanicLit,1.0,Schulz,M-W-F,11:00AM,11:50,ELIOT,121
+20492,SPAN,322,S,Spanish Short Story,1.0,Alonso,M-W-F,10:00AM,10:50,VOLLUM,118
+10610,BIOL,342,F,Animal Behav. & Behav.Ecology,1.0,Yezerinac,T-Th,09:00AM,10:20,PHYSIC,240A
+10494,SPAN,375,F,Modern Peninsular Drama,1.0,Drumm,T-Th,02:40PM,04:00,PSYCH,108
+20491,SPAN,395,S,Mod Spanish American Drama,1.0,Larisch,M-W-F,10:00AM,10:50,VOLLUM,228
+20683,SPAN,413,S,Penin Lit: Dogma & Disbelief,1.0,Garcia-Bryce,T,07:10PM,10:00,VOLLUM,134
+10493,SPAN,442,F01,Spl Tops Span Amer Lit:Borges,1.0,Fischer,M-W,03:10PM,04:30,LIB,203
+10770,SPAN,442,F02,The City in Span Amer Lit,1.0,Schulz,T-Th,10:30AM,11:50,LIB,203
+20490,SPAN,442,S,Lit Responses to Dictatorship,1.0,Fischer,M-W,03:10PM,04:30,ELIOT,419
+10528,THEA,110,F,Introduction to Theatre,1.0,Worley,M-W,03:10PM,04:30,THEATR,
+10530,THEA,205,F01,Masks & Make-up Design,0.5,Carr,T-Th,02:40PM,04:00,THEATR,
+10531,THEA,205,F02,Design for the Theatre: Sets,0.5,Muller,M-W-F,01:10PM,02:00,THEATR,
+20525,THEA,206,S01,Costume History & Design,0.5,Carr,T-Th,02:40PM,04:00,THEATR,
+10611,BIOL,342,FL1,Animal Behav. & Behav.Ecology,0.0,Yezerinac,Th,01:10PM,05:00,BIOL,211
+20526,THEA,206,S02,Design for Theatre: Lights,0.5,Muller,M-W-F,01:10PM,02:00,THEATR,
+10532,THEA,210,F,Acting Laboratory,0.5,Worley,T-Th,10:30AM,11:50,THEATR,
+10533,THEA,250,F,Plays and Playhouses,1.0,Clinton,T-Th,01:10PM,02:30,THEATR,
+20527,THEA,270,S,Intercultr ExperimentsTheatre,1.0,Worley,T-Th,01:10PM,02:30,THEATR,
+10534,THEA,275,F,Playwriting,1.0,Clinton,W,06:10PM,09:00,THEATR,
+20528,THEA,310,S,Techniques of Acting,1.0,Worley,T-Th,10:30AM,11:50,THEATR,
+10535,THEA,331,F,Directing I,1.0,Clinton,T-Th,04:10PM,05:30,THEATR,
+20529,THEA,334,S,Special Problems in Directing,1.0,Clinton,T-Th,04:10PM,05:30,THEATR,
+10744,HIST,556,F,Topics in FrenchEnlightenment,0.5,Kierstead,W,07:40PM,09:00,VOLLUM,234
+10745,HUM,510,F,Greek Humanities,0.5,King,T,07:40PM,09:00,VOLLUM,302
+10482,ANTH,311,F,General Linguistics,1.0,Haviland,T-Th,09:00AM,10:20,VOLLUM,116
+10612,BIOL,342,FL2,Animal Behav. & Behav.Ecology,0.0,Yezerinac,F,01:10PM,05:00,BIOL,211
+20649,LBST,579,S,ColonizingAfrica:Conrad&Congo,0.5,Lowe,W,05:40PM,07:00,ELIOT,317
+20650,LIT,560,S,Don Quixote & Narr. Theory,0.5,Drumm,W,07:40PM,09:00,VOLLUM,309
+10746,MATH,555,F,Ornamental Art,0.5,Wieting,W,05:40PM,07:00,VOLLUM,120
+20651,THEA,570,S,Experiments Intercult Theatre,0.5,Worley,T,07:10PM,08:30,ELIOT,126
+10613,BIOL,351,F,Developmental Biology,1.0,Black,T-Th,10:30AM,11:50,PHYSIC,240A
+10614,BIOL,351,FL1,Developmental Biology,0.0,Black,T,01:10PM,05:00,BIOL,207
+10615,BIOL,351,FL2,Developmental Biology,0.0,Black,W,01:10PM,05:00,BIOL,207
+20597,BIOL,356,S,Genetics and Gene Regulation,1.0,Shampay,M-W-F,11:00AM,11:50,PSYCH,105
+20599,BIOL,356,SL1,Genetics and Gene Regulation,0.0,Shampay,W,01:10PM,05:00,BIOL,21
+20600,BIOL,356,SL2,Genetics and Gene Regulation,0.0,Shampay,F,01:10PM,05:00,BIOL,21
+10771,BIOL,358,F,Microbiology,1.0,Mellies,M-W-F,10:00AM,10:50,PHYSIC,240A
+10772,BIOL,358,FL1,Microbiology,0.0,Mellies,T,01:10PM,05:00,BIOL,217
+10773,BIOL,358,FL2,Microbiology,0.0,Mellies,Th,01:10PM,05:00,BIOL,217
+10485,ANTH,313,F,Language in Society,1.0,Haviland,T,06:10PM,09:00,ELIOT,419
+20603,BIOL,358,S,Microbiology,1.0,,,,,,Mellies         RESCHEDULED TO OTHER SEMESTER
+20604,BIOL,358,SL1,Microbiology,0.0,,,,,,Mellies         RESCHEDULED TO OTHER SEMESTER
+20605,BIOL,358,SL2,Microbiology,0.0,,,,,,Mellies         RESCHEDULED TO OTHER SEMESTER
+10616,BIOL,361,F,Genetics and MolecularBiology,1.0,Russell,M-W-F,11:00AM,11:50,PSYCH,105
+10617,BIOL,361,FL1,Genetics and MolecularBiology,0.0,Russell,T,01:30PM,05:00,BIOL,21
+10618,BIOL,361,FL2,Genetics and MolecularBiology,0.0,Russell,W,01:30PM,05:00,BIOL,21
+10619,BIOL,361,FL3,Genetics and MolecularBiology,0.0,Russell,Th,01:30PM,05:00,BIOL,21
+20606,BIOL,366,S,Population Bio:Ecolgy&Evolutn,1.0,Kaplan,T-Th,09:00AM,10:20,PHYSIC,240A
+20608,BIOL,366,SL1,Population Bio:Ecolgy&Evolutn,0.0,Kaplan,T,02:40PM,05:00,BIOL,211
+20610,BIOL,366,SL2,Population Bio:Ecolgy&Evolutn,0.0,Kaplan,Th,01:30PM,04:00,BIOL,211
+10768,ANTH,339,F,Ethnic & Nation France & NAfr,1.0,Silverstein,T-Th,06:10PM,07:30,VOLLUM,118
+10410,BIOL,367,F,Scientific Computation,1.0,Crandall,T-Th,07:10PM,08:30,PHYSIC,123
+20617,BIOL,372,S,Cellular Biology,1.0,McClellan,T-Th,10:30AM,11:50,PHYSIC,123
+20620,BIOL,372,SL1,Cellular Biology,0.0,McClellan,W,01:10PM,05:00,BIOL,7
+20621,BIOL,372,SL2,Cellular Biology,0.0,McClellan,Th,01:10PM,05:00,BIOL,7
+10620,BIOL,381,F,Animal Physiology,1.0,Arch,T-Th,10:30AM,11:50,ELIOT,216
+10622,BIOL,381,FL1,Animal Physiology,0.0,Arch,T,01:30PM,05:00,BIOL,7
+10623,BIOL,381,FL2,Animal Physiology,0.0,Arch,Th,01:30PM,05:00,BIOL,7
+10776,BIOL,388,F,Evolutionary Biology,1.0,Raubeson,M-W-F,09:00AM,09:50,PHYSIC,240A
+10778,BIOL,388,FL1,Evolutionary Biology,0.0,Raubeson,W,01:10PM,05:00,PHYSIC,134
+10779,BIOL,388,FL2,Evolutionary Biology,0.0,Raubeson,F,01:10PM,05:00,PHYSIC,134

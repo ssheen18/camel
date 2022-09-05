@@ -1,0 +1,457 @@
+house_id,street_address,city,state,zipcode
+55397269,1150 Williamson St APT 204,Madison,WI,53703
+448478,5410 Connecticut Ave NW APT 517,Washington,DC,20015
+43691309,1771 Cord Grass Ln,Fleming Island,FL,32003
+55397043,315 N Ingersoll St,Madison,WI,53703
+15151214,1012 Alabama St,San Francisco,CA,94110
+104460216,333 W Mifflin St UNIT 1157,Madison,WI,53703
+245677620,2665 W Maypole Ave,Chicago,IL,60612
+89921434,1015 S Western Ave APT 4,Chicago,IL,60612
+439323,4425 Harrison St NW,Washington,DC,20015
+20690565,4104 Van Horne Ave,Los Angeles,CA,90032
+3874726,812 S Oakley Blvd,Chicago,IL,60612
+295357473,7404-10 Daytona St,Lemon Grove,CA,91945
+27323931,2203 Roundrock Dr,Carrollton,TX,75007
+29333056,8106 Chalk Knoll Dr,Austin,TX,78735
+43708313,178 Riverwood Dr,Fleming Island,FL,32003
+7512091,3332 W Granada Rd,Phoenix,AZ,85009
+121073218,1752 W Maypole Ave APT 202,Chicago,IL,60612
+102959965,309 W Washington Ave UNIT 515,Madison,WI,53703
+26819039,9702 Glengreen Dr,Dallas,TX,75217
+15072751,1998 Broadway APT 902,San Francisco,CA,94109
+26818496,1626 Bending Oaks Trl,Dallas,TX,75217
+36730425,11642 Cygnet Dr,Waldorf,MD,20601
+60136219,5813 Medicine Creek Dr,Austin,TX,78735
+19607297,3354 Londonderry Pl,Santa Clara,CA,95050
+2077554927,2311 Southbrook Dr,Fleming Island,FL,32003
+7515311,16 S 22nd Ave,Phoenix,AZ,85009
+29331251,8045 Chalk Knoll Dr,Austin,TX,78735
+17112435,1686 Larwood Rd,Lemon Grove,CA,91945
+20788262,1205 N Orange Grove Ave,West Hollywood,CA,90046
+81944512,331 W Wilson St,Madison,WI,53703
+449003,5431 Connecticut Ave NW APT 204,Washington,DC,20015
+101377273,9864 Leland Ave UNIT 414,Schiller Park,IL,60176
+83813569,3600 Verano Dr,Austin,TX,78735
+15078068,1288 Mcallister St APT 302,San Francisco,CA,94115
+82785788,566 S Van Ness Ave APT 12,San Francisco,CA,94110
+110721756,185 N 85th St,Milwaukee,WI,53226
+64778753,2007 Shallow Stream Cv,Austin,TX,78735
+19600868,550 Los Olivos Dr,Santa Clara,CA,95050
+15080658,2574 Green St,San Francisco,CA,94123
+7514179,2822 W Polk St,Phoenix,AZ,85009
+15077575,601 Van Ness Ave APT 51,San Francisco,CA,94102
+7515266,2418 W Madison St,Phoenix,AZ,85009
+19579447,1411 Jackson St,Santa Clara,CA,95050
+20690599,4106 Portola Ave,Los Angeles,CA,90032
+2119576321,2656 Schult Pl,Waldorf,MD,20601
+61618491,5315 Connecticut Ave NW APT 108,Washington,DC,20015
+110721151,10929 W Wisconsin Ave,Milwaukee,WI,53226
+110711045,2636 N 96th St,Milwaukee,WI,53226
+89913137,2320 W Adams St UNIT 23,Chicago,IL,60612
+20795967,1233 N Laurel Ave APT 104,West Hollywood,CA,90046
+62629095,2194 Blue Heron Cove Dr,Fleming Island,FL,32003
+63790467,3575 Grove St UNIT 245,Lemon Grove,CA,91945
+26994444,14404 Cyprus Point Dr,Farmers Branch,TX,75234
+26943888,2707 Heather Glen Ct,Carrollton,TX,75006
+19608428,173 Saratoga Ave,Santa Clara,CA,95050
+104456605,333 W Mifflin St UNIT 5030,Madison,WI,53703
+20788517,951 N Gardner St UNIT 7,West Hollywood,CA,90046
+122064192,870 Chestnut St,San Francisco,CA,94133
+153249692,875 Madison St,Santa Clara,CA,95050
+89237737,451 Kansas St UNIT 468,San Francisco,CA,94107
+54535555,2409 W Flournoy St #B,Chicago,IL,60612
+26907572,10302 Brockton Dr,Dallas,TX,75217
+108871045,2553 N 93rd St,Milwaukee,WI,53226
+40472965,185 N 91st Pl,Milwaukee,WI,53226
+65557381,4600 River Rd APT C5,Schiller Park,IL,60176
+110749564,2625 N Harding Blvd,Milwaukee,WI,53226
+20643510,2915 Warwick Ave,Los Angeles,CA,90032
+87717960,2861 W Warren Blvd #1,Chicago,IL,60612
+20797557,8121 Gould Ave,Los Angeles,CA,90046
+125234157,1100 W Trinity Mills Rd APT 1017,Carrollton,TX,75006
+20800583,8700 Hollywood Hills Rd,Los Angeles,CA,90046
+70753128,1855 Copper Stone Dr APT F,Fleming Island,FL,32003
+26794313,2027 Joan Dr,Dallas,TX,75217
+36743778,4525 Clayton Rd,Waldorf,MD,20601
+84640400,2020 Cypress Bluff Ct,Fleming Island,FL,32003
+104454639,333 W Mifflin St UNIT 1057,Madison,WI,53703
+19580018,880 N Winchester Blvd APT 204,Santa Clara,CA,95050
+19594284,1424 Maryann Dr,Santa Clara,CA,95050
+96794859,8424 W Clarke St,Milwaukee,WI,53226
+29333050,8224 Chalk Knoll Dr,Austin,TX,78735
+43695222,1667 Highland View Ct,Fleming Island,FL,32003
+19556933,977 Warburton Ave APT 104,Santa Clara,CA,95050
+19557393,1700 Civic Center Dr APT 203,Santa Clara,CA,95050
+7505448,3605 W Latham St,Phoenix,AZ,85009
+246025291,2134 Hawkeye Pl,Fleming Island,FL,32003
+284859871,609 N 29th Ave,Phoenix,AZ,85009
+70465543,2158 W Grand Ave UNIT 505,Chicago,IL,60612
+26951537,2626 Via Los Altos,Carrollton,TX,75006
+7519505,2035 W Virginia Ave,Phoenix,AZ,85009
+448457,5410 Connecticut Ave NW APT 415,Washington,DC,20015
+29334463,8309 Club Ridge Dr,Austin,TX,78735
+29331269,8408 Hickory Creek Dr,Austin,TX,78735
+29334477,8207 Scenic Ridge Cv,Austin,TX,78735
+459564,2749 Unicorn Ln NW,Washington,DC,20015
+95632851,1220 N Orange Grove Ave APT 12,West Hollywood,CA,90046
+20788058,953 N Edinburgh Ave,Los Angeles,CA,90046
+3592202,4107 Ruby St,Schiller Park,IL,60176
+121066995,2220 W Maypole Ave UNIT 301,Chicago,IL,60612
+81921171,137 E Wilson St UNIT 413,Madison,WI,53703
+87724167,2145 W Warren Blvd #3,Chicago,IL,60612
+29333052,2300 Portofino Ridge Dr,Austin,TX,78735
+19594537,1142 Maryann Dr,Santa Clara,CA,95050
+448535,5410 Connecticut Ave NW APT 817,Washington,DC,20015
+2078389959,7919 Yellow Thistle Trl #8,Austin,TX,78735
+306645920,8417 Valerio Ln,Austin,TX,78735
+26860844,801 Wixom Ln,Dallas,TX,75217
+61962938,1629 W Warren Blvd APT 3,Chicago,IL,60612
+20797583,8270 Kirkwood Dr,Los Angeles,CA,90046
+19607696,221 Tyler Ave,Santa Clara,CA,95050
+158778443,2331 W Warren Blvd,Chicago,IL,60612
+27290268,3461 Lark Meadow Way,Dallas,TX,75287
+458486,3112 Legation St NW,Washington,DC,20015
+36744362,12817 Leman Ln,Waldorf,MD,20601
+55396371,453 N Baldwin St,Madison,WI,53703
+27263280,2902 Palisades Dr,Carrollton,TX,75007
+55397047,1106 E Johnson St,Madison,WI,53703
+15181623,1129 Douglass St,San Francisco,CA,94131
+17112626,1481 San Altos Pl,Lemon Grove,CA,91945
+19599402,2495 Ramke Pl,Santa Clara,CA,95050
+7506397,3512 W Maricopa St,Phoenix,AZ,85009
+2077871631,9445 W Kelvin Ln #2992,Schiller Park,IL,60176
+20802252,2263 Apollo Dr,Los Angeles,CA,90046
+26817089,740 Sunburst Dr,Dallas,TX,75217
+20802736,8056 Mulholland Dr,Los Angeles,CA,90046
+20690665,4400 Portola Ave,Los Angeles,CA,90032
+125235199,1100 W Trinity Mills Rd APT 2024,Carrollton,TX,75006
+19599061,644 Scott Blvd,Santa Clara,CA,95050
+110717469,116 N 86th St,Milwaukee,WI,53226
+3591619,9844 Montrose Ave,Schiller Park,IL,60176
+61122245,125 N Hamilton St UNIT 506,Madison,WI,53703
+26816793,8908 Briley Rd,Dallas,TX,75217
+83239335,625 E Mifflin St UNIT 307,Madison,WI,53703
+17044002,8235 Adams St,Lemon Grove,CA,91945
+36721173,2388 Ironwood Dr,Waldorf,MD,20601
+61122536,360 W Washington Ave UNIT 1214,Madison,WI,53703
+27263190,1611 Kingspoint Dr,Carrollton,TX,75007
+110714834,2411 N 96th St,Milwaukee,WI,53226
+7515762,1916 W Tonto St,Phoenix,AZ,85009
+110745460,2552 N 94th St,Milwaukee,WI,53226
+111710774,233 Franklin St APT 303,San Francisco,CA,94102
+43693622,1800 Waterbury Ln,Fleming Island,FL,32003
+89028797,5006 Williams Pl,Los Angeles,CA,90032
+96794753,2445 N 113th St,Milwaukee,WI,53226
+20641954,3126 Chadwick Dr,Los Angeles,CA,90032
+7500794,2317 W Yuma St,Phoenix,AZ,85009
+26798388,7923 Olusta Dr,Dallas,TX,75217
+17017506,7452 Brunei Ct,Lemon Grove,CA,91945
+110701630,1815 N 116th St,Wauwatosa,WI,53226
+64969813,140 S Van Ness Ave UNIT 529,San Francisco,CA,94103
+442860,5300 43rd St NW APT 201,Washington,DC,20015
+89923337,2826 W Harrison St #3,Chicago,IL,60612
+99356274,9864 Leland Ave UNIT 402,Schiller Park,IL,60176
+55420773,1349 Jenifer St,Madison,WI,53703
+110755705,2517 N 96th St,Milwaukee,WI,53226
+19557451,1700 Civic Center Dr APT 513,Santa Clara,CA,95050
+20784175,849 N Alta Vista Blvd,Los Angeles,CA,90046
+43700869,6023 Antigua Ct,Fleming Island,FL,32003
+80823358,9355 Irving Park Rd APT 116,Schiller Park,IL,60176
+3592461,3756 Scott St,Schiller Park,IL,60176
+36729707,11690 Cygnet Dr,Waldorf,MD,20601
+3591197,4610 River Rd APT 3B,Schiller Park,IL,60176
+80778341,2148 Autumn Cove Cir,Fleming Island,FL,32003
+26936483,14589 Princeton Ct,Addison,TX,75001
+2077565351,3721 N Ruby St #209S,Schiller Park,IL,60176
+19580903,850 Bellomy St APT 12,Santa Clara,CA,95050
+29329522,2305 Barton Creek Blvd UNIT 24,Austin,TX,78735
+7512973,4144 W Sheridan St,Phoenix,AZ,85009
+84642661,2200 Marsh Hawk Ln UNIT 416,Fleming Island,FL,32003
+63790404,3555 Grove St UNIT 134,Lemon Grove,CA,91945
+60977467,359 N 21st Ave,Phoenix,AZ,85009
+20794415,1601 N Fuller Ave APT 604,Los Angeles,CA,90046
+17115104,8455 Blossom Hill Dr,Lemon Grove,CA,91945
+442861,5300 43rd St NW APT 202,Washington,DC,20015
+110724472,8709 Jackson Park Blvd,Milwaukee,WI,53226
+20795290,1525 N Hayworth Ave APT 101,Los Angeles,CA,90046
+101240330,4927 Michigan Ave,Schiller Park,IL,60176
+26802135,8742 Wadlington Ave,Dallas,TX,75217
+26800911,1406 Holcomb Rd,Dallas,TX,75217
+99356271,9864 Leland Ave UNIT 318,Schiller Park,IL,60176
+43693023,1959 Lakeshore Dr N,Fleming Island,FL,32003
+60347400,2120 Vine Ln,Dallas,TX,75217
+2077681491,7273 W Hazel Ct,Los Angeles,CA,90046
+82295911,4301 Military Rd NW APT 105,Washington,DC,20015
+89977213,2449 W Superior St,Chicago,IL,60612
+20795082,1716 Courtney Ave,Los Angeles,CA,90046
+20690529,3965 Guardia Ave,Los Angeles,CA,90032
+43692923,2323 Lakeshore Dr N,Fleming Island,FL,32003
+29334576,2225 Warbler Way,Austin,TX,78735
+17044038,2969 Washington St,Lemon Grove,CA,91945
+246025806,2097 Hawkeye Pl,Fleming Island,FL,32003
+53153596,88 King St UNIT 822,San Francisco,CA,94107
+104458538,333 W Mifflin St UNIT 8080,Madison,WI,53703
+19599072,546 Saratoga Ave,Santa Clara,CA,95050
+20801358,8400 Edwin Dr,Los Angeles,CA,90046
+82950285,2380 Homestead Rd UNIT 3103,Santa Clara,CA,95050
+40472907,421 N 91st St,Milwaukee,WI,53226
+36725918,2072 Tanglewood Dr,Waldorf,MD,20601
+7505371,3530 W Roosevelt St,Phoenix,AZ,85009
+452861,6500 Utah Ave NW,Washington,DC,20015
+20642095,4938 Gambier St,Los Angeles,CA,90032
+55144589,1608 San Francisco St,Carrollton,TX,75007
+2077641307,1041 N Spaulding Ave #204,Los Angeles,CA,90046
+83124292,7800 Southwest Pkwy UNIT 1611,Austin,TX,78735
+43691351,1776 Cord Grass Ln,Fleming Island,FL,32003
+7511689,4019 W Almeria Rd,Phoenix,AZ,85009
+82300060,4301 Military Rd NW APT 611,Washington,DC,20015
+36726977,2418 Shade Oak Ct,Waldorf,MD,20601
+2078363717,(Undisclosed Address),Austin,TX,78735
+3591973,4041 Denley Ave,Schiller Park,IL,60176
+26994346,14352 Valley Hi Cir,Farmers Branch,TX,75234
+20802121,7851 Electra Dr,Los Angeles,CA,90046
+110709652,2107 N 119th St,Wauwatosa,WI,53226
+29336613,8912 Chalk Knoll Dr,Austin,TX,78735
+3593209,3880 Emerson Dr,Schiller Park,IL,60176
+2091594414,1345 Havenhurst Dr #4,West Hollywood,CA,90046
+81991571,2319 N 39th Ave,Phoenix,AZ,85009
+27338350,18703 Rembrandt Ter,Dallas,TX,75287
+53737274,2359 Harbor Lake Dr,Fleming Island,FL,32003
+26802279,8903 Slay St,Dallas,TX,75217
+17016580,7563 Pacific Ave,Lemon Grove,CA,91945
+60200173,10154 Hartford Ct APT 2A,Schiller Park,IL,60176
+69669981,6231 Trinity Creek Dr,Dallas,TX,75217
+26816620,120 N Masters Dr,Dallas,TX,75217
+20793195,7250 Franklin Ave UNIT 715,Los Angeles,CA,90046
+70465537,2158 W Grand Ave UNIT 406,Chicago,IL,60612
+20643834,2321 Highbury Ave APT 56,Los Angeles,CA,90032
+110750322,12040 W Walnut Rd,Milwaukee,WI,53226
+55406002,503 W Doty St,Madison,WI,53703
+7511108,3329 W Cypress St,Phoenix,AZ,85009
+50903650,1453 Franklin St,Santa Clara,CA,95050
+20691214,4471 Richard Dr,Los Angeles,CA,90032
+15143256,1839 15th St APT 155,San Francisco,CA,94103
+251031652,8200 Southwest Pkwy UNIT 303,Austin,TX,78735
+55398332,221 N Pinckney St,Madison,WI,53703
+110700901,2353 N 115th St,Milwaukee,WI,53226
+70747509,2420 Green Glade Ct,Fleming Island,FL,32003
+20642448,5339 Oakland St,Los Angeles,CA,90032
+63703850,2349 W Harrison St APT 1,Chicago,IL,60612
+19557711,2201 Monroe St APT 702,Santa Clara,CA,95050
+458775,2732 Mckinley St NW,Washington,DC,20015
+118189181,2644 Pinewood Dr,Waldorf,MD,20601
+27323556,2115 Rose Hill Rd,Carrollton,TX,75007
+110704145,2466 N 86th St,Milwaukee,WI,53226
+61122517,360 W Washington Ave UNIT 1110,Madison,WI,53703
+71481806,123 W Washington Ave UNIT 805,Madison,WI,53703
+27329279,2033 Rose Hill Rd,Carrollton,TX,75007
+20793210,7250 Franklin Ave UNIT 814,Los Angeles,CA,90046
+2104378637,1100 W Trinity Mills Rd,Carrollton,TX,75006
+3591765,4546 25th Ave,Schiller Park,IL,60176
+19600792,2494 Golf Links Cir,Santa Clara,CA,95050
+3860868,2003 W Ohio St,Chicago,IL,60612
+17043835,3240 Sweetwater Rd,Lemon Grove,CA,91945
+241585966,2655 Bush St APT 206,San Francisco,CA,94115
+55398319,21 W Gilman St,Madison,WI,53703
+15160498,56 Macedonia St,San Francisco,CA,94110
+36741277,4614 Harwich Dr,Waldorf,MD,20601
+15084939,2145 Turk Blvd,San Francisco,CA,94115
+53737326,1679 Rustling Dr,Fleming Island,FL,32003
+7511296,2211 N 37th Ave,Phoenix,AZ,85009
+104452024,333 W Mifflin St UNIT 4180,Madison,WI,53703
+63012913,614 W Doty St APT 305,Madison,WI,53703
+81928071,311 N Hancock St UNIT 225,Madison,WI,53703
+173560724,11720 W Dearbourn Ave,Milwaukee,WI,53226
+20639953,4751 Klamath Pl,Los Angeles,CA,90032
+43701149,1471 Kathleen Way,Fleming Island,FL,32003
+36731431,2372 Hazelwood Ct,Waldorf,MD,20601
+92355228,3021 W Fillmore St,Phoenix,AZ,85009
+110749091,1950 N 122nd St,Milwaukee,WI,53226
+110747725,9204 Jackson Park Blvd,Milwaukee,WI,53226
+110709853,12116 W Potter Rd,Milwaukee,WI,53226
+20795689,1400 N Hayworth Ave APT 21,West Hollywood,CA,90046
+62847505,15150 Pawleys Pl,Waldorf,MD,20601
+70474031,116 S Bell Ave APT 1,Chicago,IL,60612
+26946434,2531 Guerrero Dr,Carrollton,TX,75006
+26906776,812 Woodrock Dr,Dallas,TX,75217
+26802262,8818 Slay St,Dallas,TX,75217
+19557511,1690 Civic Center Dr APT 601,Santa Clara,CA,95050
+122064249,144 Diamond St,San Francisco,CA,94114
+17017652,2619 Nida Pl,Lemon Grove,CA,91945
+2077681488,7277 W Hazel Ct,Los Angeles,CA,90046
+110722988,2638 N 85th St,Milwaukee,WI,53226
+36718840,12065 Pierce Rd,Waldorf,MD,20601
+153249613,1657 Santa Clara St,Santa Clara,CA,95050
+84001081,9463 Sandyland Blvd,Dallas,TX,75217
+65562967,519 S Maplewood Ave APT 4N,Chicago,IL,60612
+110717248,2264 N 104th St,Milwaukee,WI,53226
+241585552,1340 Union St #A,San Francisco,CA,94109
+125257061,1100 W Trinity Mills Rd APT 2018,Carrollton,TX,75006
+110718999,2521 N 113th St,Milwaukee,WI,53226
+79843055,201 Sansome St UNIT 501,San Francisco,CA,94104
+17016010,6955 San Miguel Ave,Lemon Grove,CA,91945
+448548,5410 Connecticut Ave NW APT 911,Washington,DC,20015
+17016789,8043 Roy St,Lemon Grove,CA,91945
+7514658,3216 W Jefferson St,Phoenix,AZ,85009
+2078089792,4600 N River Rd #A3,Schiller Park,IL,60176
+20639002,4797 Huntington Dr N,Los Angeles,CA,90032
+7519355,2218 W Cambridge Ave,Phoenix,AZ,85009
+19580714,429 California St,Santa Clara,CA,95050
+453141,5540 32nd St NW,Washington,DC,20015
+20797716,8309 Yucca Trl,Los Angeles,CA,90046
+20794223,1633 N Curson Ave,Los Angeles,CA,90046
+110729370,1253 N 85th St,Milwaukee,WI,53226
+27324149,2209 Trinity Springs Dr,Carrollton,TX,75007
+63012888,615 W Main St APT 406,Madison,WI,53703
+55397006,211 N Ingersoll St,Madison,WI,53703
+158776765,2334 W Ohio St,Chicago,IL,60612
+17010299,3632 Olive St,Lemon Grove,CA,91945
+104454096,333 W Mifflin St UNIT 4040,Madison,WI,53703
+81968055,2337 W Maricopa St,Phoenix,AZ,85009
+2077819232,10122 Hartford Ct APT GB,Schiller Park,IL,60176
+15086469,1250 Page St APT 3,San Francisco,CA,94117
+111435637,1580 San Altos Pl,Lemon Grove,CA,91945
+27325725,2955 Scott Mill Rd,Carrollton,TX,75007
+2077915350,7931 Yellow Thistle Trl #14,Austin,TX,78735
+66134507,1365 Holmes Landing Dr,Fleming Island,FL,32003
+7515343,2025 W Jefferson St,Phoenix,AZ,85009
+15069492,631 Ofarrell St APT 1003,San Francisco,CA,94109
+26802339,617 Odeneal St,Dallas,TX,75217
+2078664523,(Undisclosed Address),Austin,TX,78735
+113950920,2455 W Ohio St UNIT 13E,Chicago,IL,60612
+69669976,1417 Mission Hills Ln,Dallas,TX,75217
+449292,5229 Connecticut Ave NW UNIT 1009,Washington,DC,20015
+70447588,9436 Kelvin Ln APT 3234,Schiller Park,IL,60176
+60529017,11166 Sewickley St,Waldorf,MD,20601
+27324765,1520 Sugar Creek Dr,Carrollton,TX,75007
+19581408,470 N Winchester Blvd APT 404,Santa Clara,CA,95050
+26819446,10435 Springhaven Dr,Dallas,TX,75217
+20796184,1255 N Harper Ave APT 3,West Hollywood,CA,90046
+104453117,333 W Mifflin St UNIT 3130,Madison,WI,53703
+3591199,4612 River Rd APT 1D,Schiller Park,IL,60176
+3591833,4200 Wehrman Ave,Schiller Park,IL,60176
+89148047,4317 Raynol St,Los Angeles,CA,90032
+19579826,1270 Washington St,Santa Clara,CA,95050
+70336895,2305 Swirling Wind Cv,Austin,TX,78735
+92352811,2730 N 20th Dr,Phoenix,AZ,85009
+7515356,2004 W Madison St,Phoenix,AZ,85009
+26906412,904 Brae Loch Dr,Dallas,TX,75217
+26947300,1603 Sutters Mill Dr,Carrollton,TX,75007
+36731224,2945 Cassidy Pl,Waldorf,MD,20601
+26817292,9803 Silver Meadow Dr,Dallas,TX,75217
+306141859,1691 Seton Family Walk,Fleming Island,FL,32003
+20784322,748 N Detroit St,Los Angeles,CA,90046
+58297288,7849 Escala Dr,Austin,TX,78735
+7515443,3420 W Hadley St,Phoenix,AZ,85009
+20785955,714 N Spaulding Ave,Los Angeles,CA,90046
+82294487,4301 Military Rd NW APT 412,Washington,DC,20015
+55421174,1227 Rutledge St,Madison,WI,53703
+27326048,3210 Cutler Pl,Carrollton,TX,75007
+70747556,2587 Country Side Dr,Fleming Island,FL,32003
+7514205,2802 W Melvin St,Phoenix,AZ,85009
+65546308,9852 Lawrence Ct APT 3S,Schiller Park,IL,60176
+110737102,2016 N 116th St,Milwaukee,WI,53226
+69302229,1451 Main St APT 4,Santa Clara,CA,95050
+60261285,10113 Hartford Ct APT 3A,Schiller Park,IL,60176
+29333062,8101 Chalk Knoll Dr,Austin,TX,78735
+26794863,1347 Templecliff Dr,Dallas,TX,75217
+19556691,2090 Main St,Santa Clara,CA,95050
+27327034,2712 Mill Trce,Carrollton,TX,75007
+26795771,1603 Houghton Rd,Dallas,TX,75217
+36721864,3383 Ryon Ct,Waldorf,MD,20601
+43695007,1678 Blackhawk Ct,Fleming Island,FL,32003
+71488699,503 N 40th Ave,Phoenix,AZ,85009
+15072610,2295 Vallejo St APT 309,San Francisco,CA,94123
+29333077,2908 Maravillas Loop,Austin,TX,78735
+29323270,3856 Sendero Dr,Austin,TX,78735
+29333063,2401 Portofino Ridge Dr,Austin,TX,78735
+95060776,715 N 117th St,Milwaukee,WI,53226
+3591114,4609 Rose St,Schiller Park,IL,60176
+15131932,53 Panorama Dr,San Francisco,CA,94131
+63509948,3555 Grove St UNIT 130,Lemon Grove,CA,91945
+26949149,1003 Terrace Trl,Carrollton,TX,75006
+29475480,3823 Gaines Ct,Austin,TX,78735
+68978645,4455 Van Horne Ave,Los Angeles,CA,90032
+2136248651,9447 Kelvin Ln APT 2993,Schiller Park,IL,60176
+121067648,2231 W Maypole Ave UNIT 102,Chicago,IL,60612
+89667847,5231 Remstoy Dr,Los Angeles,CA,90032
+246025934,2067 Hawkeye Pl,Fleming Island,FL,32003
+7512449,2537 N 40th Ave,Phoenix,AZ,85009
+55397049,1114 E Johnson St,Madison,WI,53703
+458477,3105 Military Rd NW,Washington,DC,20015
+448664,5406 Connecticut Ave NW APT 401,Washington,DC,20015
+110738232,1082 N 123rd St,Milwaukee,WI,53226
+125230936,1100 W Trinity Mills Rd APT 2043,Carrollton,TX,75006
+3593067,9940 Eden Dr,Schiller Park,IL,60176
+26947748,2022 Clubview Dr,Carrollton,TX,75006
+87691710,1645 W Ogden Ave UNIT 608,Chicago,IL,60612
+27327976,1502 Bellflower Dr,Carrollton,TX,75007
+63698345,2020 W Grand Ave APT E,Chicago,IL,60612
+2078005094,9433 Kelvin Ln APT 3125,Schiller Park,IL,60176
+26818503,1660 Bending Oaks Trl,Dallas,TX,75217
+113979252,1217 S 29th Ave,Phoenix,AZ,85009
+65544482,9514 Lawrence Ave APT 2604,Schiller Park,IL,60176
+125313917,1100 W Trinity Mills Rd APT 2015,Carrollton,TX,75006
+40472968,165 N 91st Pl,Milwaukee,WI,53226
+26946279,2100 Via Del Plata,Carrollton,TX,75006
+26994303,14714 Tanglewood Dr,Farmers Branch,TX,75234
+7505336,1334 N 36th Dr,Phoenix,AZ,85009
+2079567485,8200 SW Pkwy W #103,Austin,TX,78735
+43669888,1598 Claude Rd,Fleming Island,FL,32003
+55405981,505 W Doty St,Madison,WI,53703
+110753479,2458 N 114th St,Milwaukee,WI,53226
+15080532,2760 Lyon St,San Francisco,CA,94123
+247164329,4343 Harrison St NW #7,Washington,DC,20015
+20641726,3000 Budau Ave,Los Angeles,CA,90032
+2126801952,8817 Mountain Shadows Cv APT A,Austin,TX,78735
+55406095,533 W Main St APT 201,Madison,WI,53703
+36730417,2463 Tuckahoe Ct,Waldorf,MD,20601
+36743599,6215 Douglas Cir,Waldorf,MD,20601
+110707602,531 N 109th St,Milwaukee,WI,53226
+63692490,10025 Irving Park Rd APT 1D,Schiller Park,IL,60176
+62847238,11412 Plenty Gates Ct,Waldorf,MD,20601
+29331303,3303 Hickory Creek Cv,Austin,TX,78735
+19600870,554 Los Olivos Dr,Santa Clara,CA,95050
+29334535,1817 Chalk Rock Cv,Austin,TX,78735
+60270629,2342 W Harrison St APT 2,Chicago,IL,60612
+20794916,7831 Hillside Ave,Los Angeles,CA,90046
+2121238192,6425 Soter Pkwy,Austin,TX,78735
+54906867,8254 Lincoln St,Lemon Grove,CA,91945
+26799818,8728 Milverton Dr,Dallas,TX,75217
+2077913807,7922 Yellow Thistle Trl #40,Austin,TX,78735
+299125344,2935 Lockwood Dr,Carrollton,TX,75007
+448700,5406 Connecticut Ave NW APT 807,Washington,DC,20015
+26944325,1606 Random Rd,Carrollton,TX,75006
+61325138,2152 Grove St,San Francisco,CA,94117
+26995971,3010 Joanna Dr,Farmers Branch,TX,75234
+19556721,1987 Monroe St,Santa Clara,CA,95050
+3580631,4847 Michigan Ave,Schiller Park,IL,60176
+110751900,303 N 113th St,Milwaukee,WI,53226
+40473124,231 N 92nd St,Milwaukee,WI,53226
+53735967,1543 Roseberry Ct,Fleming Island,FL,32003
+20688535,3836 Oak Hill Ave,Los Angeles,CA,90032
+2077987889,11210 W Gilbert Ave UNIT E,Milwaukee,WI,53226
+110701338,11004 W Michigan St,Milwaukee,WI,53226
+17044483,2521 Washington St,Lemon Grove,CA,91945
+27330607,2415 Harbinger Ln,Dallas,TX,75287
+20794256,1636 N Curson Ave,Los Angeles,CA,90046
+125231582,1100 W Trinity Mills Rd APT 2026,Carrollton,TX,75006
+19579887,1161 Monroe St,Santa Clara,CA,95050
+20801682,8515 Ridpath Dr,Los Angeles,CA,90046
+7515527,915 S 33rd Ave,Phoenix,AZ,85009
+60270617,2141 W Gladys Ave #3,Chicago,IL,60612
+63703823,2351 W Congress Pkwy APT 1,Chicago,IL,60612
+20788332,7505 Hampton Ave APT 1,West Hollywood,CA,90046
+61122203,201 N Blair St APT 106,Madison,WI,53703
+82291316,4301 Military Rd NW APT 112,Washington,DC,20015
+94702669,1797 Hillebrant Pl,Santa Clara,CA,95050
+62007666,4624 River Rd APT 1C,Schiller Park,IL,60176
+7510715,3528 W Encanto Blvd,Phoenix,AZ,85009
+2093019920,5 N Oakley Blvd #301,Chicago,IL,60612
+110755026,2425 N 90th St,Milwaukee,WI,53226
+26802165,8739 Wadlington Ave,Dallas,TX,75217
+36744633,13972 Mount Eagle Ln,Waldorf,MD,20601
+43710140,4966 Harvey Grant Rd,Fleming Island,FL,32003
+72652295,7320 Hawthorn Ave APT 419,Los Angeles,CA,90046
+49911608,2151 W Ohio St #1,Chicago,IL,60612
+96031440,335 Berry St UNIT 402,San Francisco,CA,94158

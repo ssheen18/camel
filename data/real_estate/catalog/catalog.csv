@@ -1,0 +1,452 @@
+Dataset,Column,Label,Reference,Domain,Sample
+homeseekers.csv,house_description,description_21,,,"['This 2 level detached single family home built in 1999 has 4\r\nbedroom(s), 3 bath(s) , 3 car garage and approximately 2463 square\r\nfeet of living area. Rooms include dining room, family room, living\r\nroom, bonus room, master bedroom. Features include fireplace, air\r\nconditioning.', 'This 1 level attached single family home built in 1925 has 3\r\nbedroom(s), 1 bath(s) , 2 car detached garage and approximately 768\r\nsquare feet of living area. Rooms include living room.', 'New carpet! Just painted inside and out!! New dishwasher!! New floor\r\nin kitchen and entry foyer!! New sliding glass doors!! Storage shed.\r\nConvenient to everything', 'Very nice home, four bedroom, 1.5 bathroom, large living room, 2 car\r\nattached garage. Property will get new paint in & out. New gate in\r\nfront.', 'This single family home built in 1986 has 3 bedroom(s), 2 bath(s) , 2\r\ncar garage. Rooms include master bedroom. Features include private\r\npool, patio, fireplace, skylights.']"
+homeseekers.csv,agent_name,agent_name_19,,PersonName,"['Barbara Murray', 'Helen Jolley', 'Robin Dibuono', 'Al Christner', 'Kimberly Bemis']"
+homeseekers.csv,office,agent_phone_office,,PhoneNumber,"['305-758-5600', '305-354-7355', '301-949-2100', '602-264-0605', '516-427-9100']"
+homeseekers.csv,firm_name,firm_name_107,,,"['West Usa Realty West Usa Realty', 'Majestic Propertie\r\nLic. Real Estate Broker', 'William E. Wood & Associates', 'RE/MAX Excalibur Realty\r\nRE/MAX Excalibur Realty', 'West Usa Realty']"
+homeseekers.csv,phone,firm_phone_109,,PhoneNumber,"['202-232-0950', '602-954-6888', '305-672-1300', '757-490-7300', '602-866-0990']"
+homeseekers.csv,list_price,price_15,,,"['$101,500', '$450,000', '$78,900', '$140,000', '$378,900']"
+homeseekers.csv,location,house_address_3,,Address,"['Washington, DC 20036', 'Washington, DC 20017', '1925 Washington Av #20', '900 16 St #305', 'Intracoastal, Water front']"
+homeseekers.csv,mls,mls_34,,,"['P159046', '9922150', '1464971', 'P162324', '9931236']"
+homeseekers.csv,status,status_33,,,"['Active', 'Active', 'Active', 'Active', 'Active']"
+homeseekers.csv,bedrooms,beds_19,,,"[2.0, 2.0, 3.0, 3.0, 4.0]"
+homeseekers.csv,baths,baths_11,,,"['2', '3', '2', '1', '2']"
+homeseekers.csv,levels,number_of_stories_15,,,"['1', '2', '2', '1', '1']"
+homeseekers.csv,type,home_style_7,,,"['Townhouse', 'Townhouse', 'Townhouse/Condo', 'Condominium', 'Single Family']"
+homeseekers.csv,square_feet,sqft_28,,,"['2342 (approx)', '2099 (approx)', '450 (approx)', '2115 (approx)', '4000 (approx)']"
+homeseekers.csv,year_built,year_built_14,,,"[1912.0, 1999.0, 1989.0, 1977.0, 1935.0]"
+homeseekers.csv,cooling,cooling_58,,,"['Air Conditioning', 'Air Conditioning, Heat Pump', 'Air Conditioning, Electric', 'Air Conditioning, Central', 'Air Conditioning, Zoned']"
+homeseekers.csv,heating,heating_57,,,"['Central', 'Forced Air, Natural Gas', 'Forced Air', 'Central', 'Central, Electric']"
+homeseekers.csv,fireplace,fireplace_27,,,"['Yes', 'No', 'Family Room, Living Room, Master Bedroom', 'Yes', 'Family Room']"
+homeseekers.csv,patio,patio_50,,,"['Covered', 'Deck, Open Porch', 'Yes', 'Covered', 'Covered']"
+homeseekers.csv,pool,swimming_pool_49,,,"['In-ground', 'Yes', 'Yes', 'No', 'Community Pool']"
+homeseekers.csv,rooms,rooms_29,,,"['Master Bedroom', 'Family Room, Master Bedroom', 'Family Room, Master Bedroom', 'Master Bedroom', 'Dining Room, Family Room']"
+homeseekers.csv,spa,spa_51,,,"['No', 'Yes', 'No', 'Yes', 'No']"
+homeseekers.csv,residential_listing_-_additional_features,highlights_21,,,"['Home Warranty', 'Elevator', 'Foyer, Walk-In Closet(s)', 'Elevator', 'Attic, Attic Fan, Cable TV, Ceiling Fan(s), Fenced, Foyer, Pantry']"
+homeseekers.csv,direct,agent_phone_direct,,PhoneNumber,"['305-631-8866', '520-918-5739', '858-457-4687', '520-906-2157', '303-980-7870']"
+homeseekers.csv,fax,firm_fax_110,,PhoneNumber,"['520-296-7639', '323-254-4783', '520-797-4221', '520-296-6093', '305-551-4965']"
+homeseekers.csv,garage,garage_53,,,"[3.0, 2.0, 1.0, 2.0, 2.0]"
+homeseekers.csv,lot_size,lot_size_25,,,"['165X264', '65 X 120', '233 X 150 X 150', 'X', '160 X 320']"
+homeseekers.csv,view,views_83,,,"['Mountain View', 'Mountain View', 'Mountain View', 'Water View', 'City Lights View, Mountain View']"
+homeseekers.csv,neighborhood,neighborhood_name_88,,,"['Hampton On Washington Av', 'Nine Island Avenue Condo', 'Miami Shores Condo', 'Versailles Hotel Condo', 'Blue Diamond']"
+homeseekers.csv,style,architectural_style_12,,,"['Townhouse', 'Contemporary', 'Ranch', 'Colonial', 'Hi Rise']"
+homeseekers.csv,email,agent_email_121,,Email,"['BillJones@SellingTucson.com', 'BERGI4@AOL.COM', 'Eleanor@EleanorBalaban.com', 'thomascorcoran@realtor.com', 'Rob@roblamb.com']"
+homeseekers.csv,residential_listing_-_feature_details,,,,[]
+nky.csv,house_location,house_address_3,,Address,"['4285 LEMON NORTHCUT', '721 GARRARD', '2560 KEEFER', '11 CRANBERRY', '401 WEXFORD']"
+nky.csv,price,price_15,,,"['$29,500', '$184,921', '$200,000', '$100,000', '$174,900']"
+nky.csv,rooms,number_of_rooms_30,,,"[6, 4, 6, 8, 5]"
+nky.csv,bedrooms,beds_19,,,"[4, 3, 2, 4, 1]"
+nky.csv,baths,baths_11,,,"['1-0', '3-0', '2-1', '1-0', '1-0']"
+nky.csv,levels,number_of_stories_15,,,"['1 Story', '2 Story', '1 Story', '1 Story', '1 Story']"
+nky.csv,basement,basement_26,,,"['Part', 'Full', 'Full', 'Full', 'Crawl']"
+nky.csv,garage,garage_53,,,"['2 Cars (Attached,Front)', '2 Cars (Builtin,Front)', '2 Cars (Builtin)', 'None', '2 Cars (Attached)']"
+nky.csv,suburb,suburb,,,"['CRITTENDEN', 'ERLANGER', 'TAYLOR MILL', 'TAYLOR MILL', 'ALEXANDRIA']"
+nky.csv,school_dist,school_94,,,"['GRANT', 'KENTON', 'BOONE CO', 'WALTON VERO', 'KENTON']"
+nky.csv,mls,mls_34,,,"[250234.0, 247348.0, 246487.0, 249246.0, 250136.0]"
+nky.csv,house_type,home_style_7,,,"['Single Family', 'Single Family', 'Single Family', 'Single Family', 'Single Family']"
+nky.csv,firm,firm_name_107,,,"['HUFF REALTY', 'T.H.-1 REALTY L.L.C.', 'HUFF REALTY', 'RE/MAX RESULTS', 'CENTURY 21 WHITEHORSE REALTY']"
+nky.csv,firm_phone,firm_phone_109,,PhoneNumber,"['(606) 525-6777', '(606) 341-9000', '(606) 341-9000', '(606) 781-5100', '(606) 525-7900']"
+nky.csv,agent,agent_name_19,,PersonName,"['LAURA SANDERS', 'MATTHEW TITTLE', 'JOHN VINCE', 'JENNIFER ONEY', 'GERRI JONES']"
+nky.csv,agent_phone,agent_phone_117,,PhoneNumber,"['(606) 341-7400', '(606) 578-4200', '(606) 372-6000', '(606) 525-7900', '(606) 525-7900']"
+nky.csv,house_description,description_21,,,"[""BETTER THAN NEW-1ST FLOOR MBR-EXTENDED 2 STORY GREAT ROOM. BEAUTIFUL\r\nMAPLE HARDWOOD FLR & CABINETS. $4000-LANDSCAPING $5000-DECK\r\n$4000-CUSTOM BLINDS. SIDE ENTRY GARAGE.LOCATED IN KY'S #1 COMMUNITY\r\nW/POOL/TENNIS/WALKING TRAILS"", ""WHAT A DEAL! THIS COZY COTTAGE IS A GREAT STARTER HOME WITH SPACIOUS\r\nROOMS AND OFF STREET PARKING. IT'S NOT GOING TO LAST! COME SEE IT NOW!"", 'MOST CONVENIENT LOCATION WALK TO DOWNTOWN CINCY/LG MASTER/LR-DR COMBO/\r\nBALCONY OVERLOOKS POOL/ALL APPLIANCES STAY/SECURE ENTRY/1C UNDERGROUND\r\nPARKING/FURNITURE ALSO FOR SALE.', '* 2 BR 2 STORY LOCATED IN W. COVINGTON * FULL BASEMENT * DECK OFF BACK\r\n* * NEEDS A LITTLE TLC * GREAT INVESTMENT * MUST SEE *', 'BRAND NEW 3 BR/2.5 BA HOME IN ONE OF THE GRANT COUNTIES NEWEST\r\nDEVELOPMENTS THIS HOME OFFERS LOTS OF LIVING SPACE FOR THE GROWING\r\nFAMILY WITH THE FINISHED FAMILY ROOM ON THELOWER LEVEL! CALL JIM\r\nSIMPSON AT 606-824-4308!']"
+nky.csv,construction,construction_materials_21,,,"['Brick', 'Vinyl', 'Brick', 'Wood,Vinyl', 'Brick']"
+nky.csv,heating,heating_57,,,"['Gas,Forced Air', 'Electric,Forced Air', 'Hot Water', 'Gas,Forced Air', 'Gas,Forced Air']"
+nky.csv,cooling,cooling_58,,,"['Central Air', 'Central Air', 'Central Air', 'None', 'None']"
+nky.csv,fireplace,fireplace_27,,,"['None', 'None', 'None', 'None', 'None']"
+nky.csv,gas,gas_59,,,"['None', 'None', 'Natural', 'Natural', 'Natural']"
+nky.csv,water,water_61,,,"['Public', 'Public', 'Public', 'Public', 'Cistern']"
+nky.csv,sewer,sewer_60,,,"['Septic', 'Public', 'Public', 'Public', 'Public']"
+nky.csv,lot_dimensions,lot_dimensions_77,,,"['IRREGULAR', 'IRREG LOT', '20x90', '50x250', '00']"
+nky.csv,condo_level,which_floor_69,,,"['3', '0', '1', '2', '2']"
+nky.csv,hoa_fee,hoa_fees_27,,,"[0, 0, 0, 0, 0]"
+nky.csv,semiannual_taxes,tax_semiannual,,,"['$00000', '$.', '$.', '$0', '$00']"
+nky.csv,bath_1_dimension,,,,"['FULL', 'FULL', 'FULL', 'FULL', 'FULL']"
+nky.csv,bath_1_level,,,,"['2', '2', '1', '1', '2']"
+nky.csv,bath_2_dimension,,,,"['FULL', 'FULL', 'FULL', 'FULL', 'FULL']"
+nky.csv,bath_2_level,,,,"['1', '2', '1', '1', '2']"
+nky.csv,bedroom_2_dimension,,,,"['14 X 12', '12 X 12', '10 X 9', '12 X 11', '15 X 12']"
+nky.csv,bedroom_2_level,,,,"['2', '2', '1', 'X', '2']"
+nky.csv,bedroom_3_dimension,,,,"['10 X 10', '16 X 8', '11 X 9', '12 X 12', '10 X 9']"
+nky.csv,bedroom_3_level,,,,"['1', '1', '1', 'L', '2']"
+nky.csv,dining_dimension,,,,"['10 X 12', '11 X 10', '12 X 11', '17 X 10', '13 X 11']"
+nky.csv,dining_level,,,,"['1', '1', '1', '1', '1']"
+nky.csv,family_dimension,,,,"['14 X 10', '16 X 15', '18 X 19', '19 X 13', '18 X 13']"
+nky.csv,family_level,,,,"['1', 'L', 'L', '1', '1']"
+nky.csv,kitchen_dimension,,,,"['11 X 10', '11 X 15', '11 X 8', '9 X 8', '14 X 12']"
+nky.csv,kitchen_level,,,,"['2', '1', '1', '1', '1']"
+nky.csv,laundry_dimension,,,,"['4 X 8', '10 X 6', '10 X 4', '8 X 11', '10 X 13']"
+nky.csv,laundry_level,,,,"['1', '1', '1', 'L', '1']"
+nky.csv,living_dimension,,,,"['15 X 16', '15 X 14', '11 X 12', '14 X 15', '23 X 18']"
+nky.csv,living_level,,,,"['1', '1', '1', '1', '1']"
+nky.csv,master_dimension,,,,"['17 X 10', '13 X 12', '10 X 7', '12 X 14', '14 X 12']"
+nky.csv,master_level,,,,"['2', '2', '1', '1', '1']"
+nky.csv,directions,directions_24,,,"['US 42S TO THE DOWNS @ HICKS PIKE (ON LEFT IMMED\r\nPAST RYLE HS) TO L BRIDLE PATH', 'RTE 17 PAST HANDS PIKE TO LEFT ON GRIBBLE DR, IN\r\nFOWLERS RIDGE', 'MADISON TO E 26TH', 'DECOURSEY TO E. 29TH BEHIND SHELL GAS STATION', 'BUTTERMILK R ON WESTERN RESERVE R ON ENID L ON\r\nJEFFERSON']"
+nky.csv,breakfast_dimension,,,,"['12 X 8', '9 X 11', '12 X 11', '11 X 9', '14 X 11']"
+nky.csv,breakfast_level,,,,"['1', '1', '1', '1', '1']"
+nky.csv,bath_3_dimension,,,,"['PART', 'FULL', 'FULL', 'FULL', 'PART']"
+nky.csv,bath_3_level,,,,"['L', '2', '1', '1', 'L']"
+nky.csv,study_dimension,,,,"['21 X 13', '11 X 8', '28 X 27', '13 X 11', '11 X 9']"
+nky.csv,study_level,,,,"['2', '1', '1', '1', 'L']"
+nky.csv,bedroom_4_dimension,,,,"['12 X 9', '14 X 14', '13 X 9', '18 X 13', '13 X 13']"
+nky.csv,bedroom_4_level,,,,"['2', '2', '2', '1', '2']"
+nky.csv,bedroom_5_dimension,,,,"['13 X 14', '10 X 14', '14 X 7', '11 X 11', '15 X 19']"
+nky.csv,bedroom_5_level,,,,"['2', '2', '2', '2', '3']"
+nky.csv,bath_4_dimension,,,,"['PART', 'PART', 'FULL', 'FULL', 'PART']"
+nky.csv,bath_4_level,,,,"['1', 'B', '1', 'L', '0']"
+nky.csv,recreation_room_dimension,,,,"['20 X 24', '8 X 6', '16 X 13', '15 X 18', '32 X 11']"
+nky.csv,recreation_room_level,,,,"['L', '1', 'L', '2', 'L']"
+texas.csv,firm_information_name,firm_name_107,,OrgName,"['CENTURY 21 Jim Duncan, Inc.', 'Century 21 Manor', 'CENTURY 21 A-One Realty', 'CENTURY 21 1st Choice', 'Wimberley Land Company']"
+texas.csv,firm_information_location,firm_address_108,,Address,"['124 W. McLeroy Blvd. Fort Worth, TX 76179', '704 Second Street Marble Falls, TX 78654', '611 Highway 67 Glen Rose, TX 76043', '902 Coronado Blvd. Universal City, TX 78148', '157 S. Manse Giddings, TX 78942']"
+texas.csv,firm_information_office,firm_phone_office,,PhoneNumber,"['(254)542-1800', '(254)897-2416', '(956)425-3333', '(409)588-1177', '(361)853-2121']"
+texas.csv,firm_information_toll_free,firm_phone_toll_free,,PhoneNumber,"['(800)395-2663', '(888)627-2121', '(800)275-1609', '(888)886-7806', '(800)726-4956']"
+texas.csv,firm_information_fax,firm_fax_110,,PhoneNumber,"['(512)834-2234', '(361)853-9095', '(817)558-8199', '(210)658-2025', '(830)693-4494']"
+texas.csv,firm_information_email,firm_email_112,,Email,"['bojac@mailexcite.com', 'javcom@javcom.com', 'info@hsbay.com', 'teamwheat@aol.com', 'office@remax-hot-aus-tx.com']"
+texas.csv,agent_information_name,agent_name_19,,PersonName,"['Ginny Vann', 'John Pruitt', 'Peggy Jones', 'Cindi Darragh', 'Page Herring Findley']"
+texas.csv,agent_information_office,agent_phone_office,,PhoneNumber,"['(800)300-8763', '(915)247-5782', '(800)300-8763', '(713)686-6090', '(830)598-2553']"
+texas.csv,agent_information_fax,agent_fax_120,,PhoneNumber,"['(512)847-3547', '(512)448-0467', '(817)232-1199', '(281)444-0717', '(512)446-4273']"
+texas.csv,agent_information_email,agent_email_121,,Email,"['cece@totalaccess.net', 'jeanine@realtyworldaustin.com', 'michele@hsbay.com', 'eprowell@century21jduncan.com', 'C21HgnTX@aol.com']"
+texas.csv,type,home_style_main,,,"['Residential', 'Residential', 'Residential', 'Residential', 'Residential']"
+texas.csv,id,listing_id_1,,,"[20943, 19568, 21387, 21193, 15768]"
+texas.csv,mls,mls_34,,,"['14837', '9095488', '46699', '05-057-98', '9117267']"
+texas.csv,house_location,house_address_3,,Address,"['6105 Jessica\r\nCorpus Christi, TEXAS 78414', '100 Algarita\r\nSan Marcos, TEXAS 78666', '146A Shore Acres\r\nLaguna Park, TEXAS 76634', '104 Summerwood Cove\r\nSan Marcos, TEXAS 78666', '137 Commanche Ridge\r\nSmithville, TEXAS']"
+texas.csv,county,county_8,,,"['Galveston', 'Hays', 'Bastrop', 'Williamson', 'Caldwell']"
+texas.csv,price,price_15,,,"['$63,900', '$88,500', '$76,500', '$202,900', '$379,000']"
+texas.csv,bedrooms,beds_19,,,"[3.0, 3.0, 3.0, 3.0, 3.0]"
+texas.csv,full_baths,baths_full,,,"[2.0, 2.0, 2.0, 3.0, 1.0]"
+texas.csv,living_rooms,living_room_32,,,"[2.0, 1.0, 2.0, 1.0, 1.0]"
+texas.csv,dining_rooms,dining_room_33,,,"[2.0, 1.0, 2.0, 1.0, 2.0]"
+texas.csv,garage_spaces,garage_53,,,"[2.0, 2.0, 2.0, 2.0, 2.0]"
+texas.csv,house_description,description_21,,,"['Great Lake Lot For Your Perfect Weekend Getaway!! A steal at $6,000.00!', 'LIGHT AND BRIGHT FEE SIMPLE HOME SHOWS BEAUTIFULY. LARGE ROOMS, BUILT INS, HIGH CEILINGS, NICE MASTER BATH. THREE PATIOS, ATRIUM, HOT UTB. BE SURE TO SEE LOVELY SWIMMING POOL AREA AND GROUNDS. NOTE LOW MAINTENANCE FEE IN THIS DESIRABLE PRIVATE SUBDIVISION.', 'End of Street--Nice size lot, Ceramic Tile in spacious den, kitchen, baths and downstairs hallway, Master is down, 3 bedrooms up, Roof is approx. 4 yrs. new. Home has siding for easy care, large backyard, nice fireplace.', 'Immaculate 3 bedroom, 2 bath brock home located on a corner lot in quiet, newer subdivision.  Home features a nice large kitchen, extra large utility room, split bedroom arrangement, fireplace, wooden blinds, 10 foot ceilings and many more features too numerous to mention.  Extra clean, ready to move right in!  Convenient to schools, shopping and I-20 access.  Call today to see this lovely home.', 'Prestigious Morse Valley.  Tile entry way.  Kitchen connects to both eating areas.  Large kitchen to cook in with plenty of cabinets, huge walk in pantry & built in desk.  Master bedroom is downstairs with a garden tub, separate shower and huge walk in closet. Upstairs loft makes a great family room. Plenty of room for everyone. $1.00 move in.']"
+texas.csv,school_district,school_94,,,"['Round Rock', 'Arlington I S D', 'Hico', 'Gisd', 'Giddings']"
+texas.csv,master_bedroom,master_bedroom_41,,,"['Downstairs', 'Upstairs', 'Downstairs', 'Downstairs', 'Downstairs']"
+texas.csv,carport_spaces,carport_54,,,"[1.0, 2.0, 2.0, 2.0, 2.0]"
+texas.csv,electricity,electricity_62,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,water_coop,,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,septic_tank,,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,highlights,highlights_21,,,"['FACES EAST, VIEW OF MAIN LAKE, IN GOOD CONDITION, OWNER MOTIVATED', 'IN PARK AREA, LOTS OF PINES, FULLY FENCED, QUALITY HOME', 'Financing Available, Wooded Lots, View', 'Majectic Log Home, Exceptional Pool Area, Incredible Hill Country Views, Guest Home', 'Near three Lockhart Schools, Recently renovated']"
+texas.csv,firm_information_voice_mail,firm_voice_mail_111,,PhoneNumber,"['(512)448-5962', '(512)303-4441', '(512)448-5962', '(512)303-4441', '(512)303-4441']"
+texas.csv,agent_information_mobile,agent_cell_phone_118,,PhoneNumber,"['(254)602-2222', '(713)824-0228', '(361)946-0753', '(512)422-2792', '(512)496-0432']"
+texas.csv,sub-division,subdivision_94,,,"['Circle D', 'Walden', 'Cottonwood', 'Oakridge', 'Horseshoe Bay']"
+texas.csv,financing_options_item,financing_options_99,,,"['Conventional', 'Conventional', 'Conventional', 'Conventional', 'Conventional']"
+texas.csv,approx_size_sqft,sqft_28,,,"[903.0, 1402.0, 2500.0, 1641.0, 1148.0]"
+texas.csv,stories,number_of_stories_15,,,"[2.0, 1.0, 1.0, 2.0, 1.0]"
+texas.csv,approx_acres,acres_25,,,"[4.46, 1.0, 0.62, 40.0, 0.2]"
+texas.csv,year_built,year_built_14,,,"[1998.0, 1995.0, 1998.0, 1986.0, 1985.0]"
+texas.csv,fire_places,fireplace_27,,,"[1.0, 1.0, 1.0, 1.0, 1.0]"
+texas.csv,pool,swimming_pool_49,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,hot_tub,,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,financing_options,,,,"['Conventional, VA Loan, FHA Loan', 'Conventional, VA Loan, FHA Loan, Texas Vet', 'Conventional, FHA Loan', 'Conventional, VA Loan, FHA Loan, Texas Vet', 'Conventional, Owner Financed']"
+texas.csv,approx_lot_size,lot_size_25,,,"['121X193', '108x141', '50X125', '90x110', '7705']"
+texas.csv,city_water,water_61,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,city_sewer,sewer_60,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,agent_information_voice_mail,,,PhoneNumber,"['(956)565-9242', '(512)757-0707', '(281)444-0551 26', '(361)853-6777 137', '(409)588-1177 223']"
+texas.csv,well,,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,new_home,new_home_16,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,half_baths,baths_half,,,"[1.0, 1.0, 1.0, 1.0, 1.0]"
+texas.csv,move-in_date,availability_18,,,"['9/8/99', '1/21/99', '11/30/99', '4/22/99', '7/21/99']"
+texas.csv,waterfront,waterfront_lot_80,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,restrictions,,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,resort_property,,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,to_be_built,,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,golf_course,golf_course_91,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+texas.csv,highlights_item,highlights_21,,,"['Walk to Country Club & the POOL!', 'UNDER CONTRACT', '1 YEAR HOME WARRANTY', 'Extra Clean', 'UPDATED WITH EXTRA STORAGE']"
+texas.csv,handicapped_equipped,,,,"['Yes', 'Yes', 'Yes', 'Yes', 'Yes']"
+windermere.csv,price,price_15,,,"['$159,000', '$135,500', '$244,000', '$335,000', '$99,999']"
+windermere.csv,mls_id_number,mls_34,,,"['364880', '145580', '135651', '163382', '164043']"
+windermere.csv,address,house_address_3,,Address,"['124 Kathleen Terace', '2590 Bunker Hill Rd', '388 Hudspeth Ln.', '3626 SW 10TH AVE', '168 Pine Street']"
+windermere.csv,city,locality_3,,,"['PORTLAND', 'SHERWOOD', 'Salem', 'ROSEBURG', 'Salem']"
+windermere.csv,st,region_4,,,"['OR', 'OR', 'OR', 'OR', 'OR']"
+windermere.csv,bedrooms,beds_19,,,"[4.0, 4.0, 3.0, 3.0, 3.0]"
+windermere.csv,bathrooms,baths_11,,,"[3.0, 3.0, 2.5, 1.0, 1.0]"
+windermere.csv,sqft,sqft_28,,,"['1238', '1460', '2322', '4556', '1383']"
+windermere.csv,year_built,year_built_14,,,"[1959.0, 1996.0, 2000.0, 1910.0, 1950.0]"
+windermere.csv,heat,heating_57,,,"['Gas Forced Air', 'Gas Forced Air', 'Electric Forced Air', 'Not Listed', 'Gas Forced Air']"
+windermere.csv,ac,,,,"['Not Listed', 'yes', 'Not Listed', 'Not Listed', 'Not Listed']"
+windermere.csv,waterfront,waterfront_lot_80,,,"['No', 'No', 'No', 'No', 'No']"
+windermere.csv,views,views_83,,,"['No', 'No', 'No', 'Yes', 'Yes']"
+windermere.csv,roof,roof_48,,,"['COMP', 'SHAKE', 'Comp Shingle', 'COMP', 'COMP']"
+windermere.csv,garage,garage_53,,,"['Parking for 0 Car(s)', 'Parking for 2 Car(s)', 'Attached', 'Parking for 1 Car(s)', 'Parking for 0 Car(s)']"
+windermere.csv,lot_size,lot_size_25,,,"['0.23        Acres', '0.11        Acres', '0.00        SQFT', '0.00        SQFT', '2.90        Acres']"
+windermere.csv,lot_description,lot_features_74,,,"['96X100', '5611SF', '82X110 APPROX.', '10000', '6,144']"
+windermere.csv,fireplace,fireplace_27,,,"['2', '1', '1', '1', '0']"
+windermere.csv,taxes,tax_9,,,"['$1,615', '$0', '$979', '$0', '$0']"
+windermere.csv,features,,,,"[""OVER 165' OF RIVER, MANY UPGRADES IN HOME, OVER 1500 s.f. DECKING, GREAT FISHING WATER, SECLUDED"", 'Convenient yet secluded, Modern, spacious home, Large pasture suited for horses, Meadows, trees, mountain views, 10 minutes to Sandpoint', '3.64 Acres, 2-Story Home, Shop, RV Parking, Only 20 Minutes to Town', 'Double Attached Garage, Patio, Landscaped, Room For RV, Fenced Yard', 'Nicely updated, Beautiful yard, Single car garage']"
+windermere.csv,elementary,elementary_school_95,,,"['ROCK CREEK', 'HUCREST', 'SMITH', 'SWEET BRIAR ELE', 'TROUTDALE']"
+windermere.csv,middle_school,middle_school_96,,,"['FREMONT', 'CHECKING', 'OTT', 'JACKSON', 'JACKSON']"
+windermere.csv,high_school,high_school_97,,,"['ROSEBURG', 'PORTLAND', 'PARKROSE', 'ROOSEVELT', 'ROOSEVELT']"
+windermere.csv,comments,description_comments,,,"['If you love the country but want to be close to the city this is thehome for you!top quality construction throughout.House cannot be seenfrom the road,please make appt to see-private drive.', 'Great starter home, close to schools, golf & shopping.  Huge yard with mature trees.  Built in shelving in livingroom.  New water heater. R.V. parking, garden space , dog run and fully fenced.', '1 of 2 units, exellent location for home business, amenities toonumerous to mention in home. A/c, 1/2 bath, hardwood floors, and bonusroom are custom options and will increase price.', 'Grades. Exterior siding is complimented w/shaker town/brick. Thetrim detail is absolutely fabulous w/bead board wainscoatting, mouldingsthat are exceptional upstairs and down. This is a must-see!', ""50's charm in englewood! on one level huge master suite with wall incloset & access to large covered deck. Spacious living room with gasfireplace. Formal andinformal dining-oak cabnetry price includes all app""]"
+windermere.csv,agent_name,agent_name_19,,PersonName,"['Skeet Shepherd', 'Virginia James', 'Bruce Peeples', 'Carl Brenden', 'Barbara Calkum']"
+windermere.csv,firm_name,firm_name_107,,OrgName,"['Windermere Pacific West Properties, Inc.', 'Windermere/Torrance Real Estate', 'Windermere Real Estate/Caldwell', ""Windermere/Coeur d'Alene, Inc."", 'Windermere/Cronin & Caplan Realty Group, Inc.']"
+windermere.csv,firm_location,firm_address_108,,Address,"['519 S Columbia River Hwy.\r\nSt. Helens, OR', '137 Thain Road\r\nLewiston, ID', '1411 NE Broadway\r\nPortland, OR', '1607 NE 41 Ave.\r\nPortland, OR', '2900 Cleveland Blvd.\r\nCaldwell, ID']"
+windermere.csv,office_phone,firm_phone_office,,PhoneNumber,"['503-284-7755', '503/694-1011 or 800-335-3446', '503/694-1011 or 800-335-3446', '503-391-1350', '503-391-1350']"
+windermere.csv,fax,agent_fax_120,,PhoneNumber,"['541-878-2699', '503/694-1021', '208-265-6328', '503-220-5788', '503- 226-6227']"
+windermere.csv,e-mail,agent_email_121,,Email,"['vondas@windermere.com', 'pjones@lewiston.com', 'nwirving@windermere.com', 'salem@windermere.com', 'salem@windermere.com']"
+windermere.csv,cell_phone,agent_cell_phone_118,,PhoneNumber,"['(208)791-5663', '208-791-3082', '503-201-7465', '541/521-3861', '780-4124']"
+windermere.csv,floors,flooring_17,,,"['Hardwood Floors,', 'Wall to Wall Carpet,', 'Wall to Wall Carpet,', 'Wall to Wall Carpet,', 'Wall to Wall Carpet,']"
+windermere.csv,interior,interior_features_25,,,"['Not Listed', 'Not Listed', 'Not Listed', 'Not Listed', 'Gas Fireplace, Security System']"
+windermere.csv,exterior,exterior_features_47,,,"['Deck, RV-Park,', 'Not Listed', 'Fendced, RV Area', 'Not Listed', 'Deck, Garden, Patio, Porch, RV-Park,']"
+windermere.csv,site,utilities_56,,,"['Water: PUBLIC Sewer: PUBLIC', 'Water: PUBLIC Sewer: PUBLIC', 'Water: PUBLIC Sewer: PUBLIC', 'Water: PUBLIC Sewer: CONECTD', 'Water: PUBLIC Sewer: PUBLIC']"
+windermere.csv,pager,agent_pager_119,,PhoneNumber,"['541/710-4536', '208-769-8043', '208-299-6371', '(503)243-0311', '370-1922']"
+windermere.csv,item,highlights_21,,,"['View 3 mountains', 'Close to Deschutes River']"
+windermere.csv,for_more_information_contact,,,Email,"['randimax@windermere.com, randimax@windermere.com', 'coverts@nehalemtel.net, coverts@nehalemtel.net', 'bande@windermere.com, bande@windermere.com', 'becki@saltzman.net, fross@hevanet.com', 'lorettar@gte.net, windermere@cdarealty.com']"
+yahoo.csv,house_location,locality_city_state,,,"['Chaska, Minnesota', 'Tucker, Georgia', 'Beech Grove, Indiana', 'Atlanta, Georgia', 'Bowie, Maryland']"
+yahoo.csv,description,description_21,,,"['Classic Druid Hills 1917 Neel Reid design. Tudor\r\nrevival, 8 bedrooms, 7 bathrooms, 5 fireplaces.', 'This one-of-a-kind 3 BR/2 BA Ranch offers 3 living\r\nspaces and is in pristine condition.', ""WOW Room-a-plenty in this very large\r\ncolonial. 2 bedrooms, full bath, living room, and an eat-in kitchen\r\ndown. Upstairs you'll find 3 bedrooms, full bath,and another full\r\neat-in kitchen. Add a full basement, walk-up attic, 2 car garage, and\r\na fenced in yard and an unbelievable price of only 79,900."", 'Old fashion charm - updates galore - hardwood floors -\r\nhigh ceiling with fans - 2 lots - trees.', 'Fantastic 5 bedroom executive home is prime location!']"
+yahoo.csv,home_features,interior_features_25,,,"['Air Conditioning - Alarm - Cable/Satellite TV -', 'Cable/Satellite TV - Carpeted Floors - Fireplace -', 'Alarm - Balcony - Cable/Satellite TV - Carpeted Floors', 'Air Conditioning - Cable/Satellite TV - Carpeted', 'Air Conditioning - Alarm - Carpeted Floors -']"
+yahoo.csv,date_posted,date_posted_125,,,"['01/16/00', '01/16/00', '01/16/00', '01/16/00', '01/16/00']"
+yahoo.csv,price,price_15,,,"['$ 57,000.00', '$ 129,900.00', '$ 204,900.00', '$ 289,500.00', '$ 59,900.00']"
+yahoo.csv,beds,beds_19,,,"[3, 5, 5, 4, 4]"
+yahoo.csv,baths,baths_11,,,"[2.0, 2.0, 2.0, 2.0, 2.0]"
+yahoo.csv,category,home_style_7,,,"['Single Family Home', 'Single Family Home', 'Single Family Home', 'Single Family Home', 'Condo']"
+yahoo.csv,classification,home_classification,,,"['Resale Homes by Agency/Brokerage', 'Resale Homes by Agency/Brokerage', 'Resale Homes by Agency/Brokerage', 'Resale Homes by Agency/Brokerage', 'Resale Homes by Agency/Brokerage']"
+yahoo.csv,agency-brokerage,firm_name_107,,,"['RE/MAX Dynamic Associates', 'RE/MAX Advisors West', 'RE/MAX Greater Atlanta - Affiliates of Roswell', 'RE/MAX Greater Atlanta - Cobb County Office', 'RE/MAX Professional Realty']"
+yahoo.csv,sq._footage,sqft_28,,,"['2,670.00', '1,200.00', '2,348.00', '1,625.00', '1,762.00']"
+yahoo.csv,lotsize,lot_size_25,,,"['9,080.00 Square Feet', '50,100.00', '77.00 Standard Size', '50,142.00', '78,123.00']"
+yahoo.csv,age,age_13,,,"['6 years', '7 years', '3 years', '19 years', '5 years']"
+yahoo.csv,garage,garage_53,,,"['Autodoor2-garagedrvunder', '3-garagekitlevelattached', '2-garageattacheddrvunder', '2-garageattachedkitlevel', '2']"
+yahoo.csv,school,school_94,,,"['Pritch', ""O'Fallon"", 'Grove', 'VERIFY', 'Chattahoochee']"
+yahoo.csv,contact,agent_name_19,,PersonName,"['A. Mark Spain', 'Linda Liu', 'Barbara Sowers', 'Kevin Weachter', 'Jeff Watson']"
+yahoo.csv,email,agent_email_121,,Email,"['LIVESAYW.greater@msmx.com-stock.com', 'BILLROTHERMEL.rmxaolpa@msmx.com-stock.com', 'WHITNEYWISNASKY.rmxprfil@msmx.com-stock.com', 'SCOTTLOKEY.rmxpromd@msmx.com-stock.com', 'KANES.greater@msmx.com-stock.com']"
+yahoo.csv,phone_evening,agent_phone_evening,,PhoneNumber,"['(440) 277-4430', '(417) 437-2726', '(440) 277-4430', '(760) 942-4230', '(440) 277-4430']"
+yahoo.csv,location,agent_address_116,,Address,"['824 Johnnie Dodds Blvd\r\nMount Pleasant, SC  29464', '1585 Holcomb Bridge Road\r\nRoswell, GA  30076', '5163 Roswell Road\r\nAtlanta, GA  30342', '1460 Miner Street\r\nDes Plaines, IL  60016', '1585 Holcomb Bridge Road\r\nRoswell, GA  30076']"
+yahoo.csv,other_ads,related_ads_129,,,"['Listings from drchevy57', 'Listings from dorfma', 'Listings from hinalleli', 'Listings from hinalleli', 'Listings from hinalleli']"
+yahoo.csv,ad_id,ad_id_124,,,"['387124615aaeb2334c7d6237721c3c5e', '4f4ad4b76ede6bf9a20f34be41479acb', 'd820cb2eb697bd1201c4e596c18f2f5b', '6debb224244f9fd945388ad039f91bb2', '43530284318bbb78e754ff7adda7e5e7']"
+yahoo.csv,phone,agent_phone_117,,PhoneNumber,"['(404) 690-4637', '(770) 565-6380', '(843) 763-4635', '(770) 844-5507', '(618) 530-3200']"
+yahoo.csv,fax,agent_fax_120,,PhoneNumber,"['(770) 442-1823', '(770) 551-9451', '(770) 578-0596', '(919) 676-9766', '(770) 578-0596']"
+yahoo.csv,construction_status,construction_status_20,,,"['Complete', 'Complete', 'Complete', 'Complete', 'Complete']"
+yahoo.csv,mls,mls_34,,,"['67504', '344395', '990951', '2000771', '347447']"
+yahoo.csv,architectural_style,architectural_style_12,,,"['Ranch, Traditional', '1.5 Story', 'Traditional European', 'Ranch', 'Town Home']"
+yahoo.csv,stories,number_of_stories_15,,,[]
+yahoo.csv,neighborhood,neighborhood_name_88,,,"['West Whitelans', 'Lancaster Twp', 'Hempfield', 'Manheim Twp', 'East Bradford']"
+yahoo.csv,community_features,neighborhood_features_89,,,"['Controlled Access - Courtyard - Golf Course -', 'Bike Paths - Boating - Golf Course -', 'Bike Paths - Boating - Golf Course -', 'Boating -', 'Controlled Access - Courtyard - Golf Course -']"
+yahoo.csv,phone_day,agent_phone_day,,PhoneNumber,"['(760) 942-4230', '(417) 626-7400', '(417) 626-7400', '(760) 942-4230']"
+yahoo.csv,available,availability_18,,,"['January 15 2000', 'January 1 1999', 'January 1 1999', 'January 15 1999']"
+Realtor_address.csv,property_id,listing_id_1,,,[]
+Realtor_address.csv,streetAddress,house_address_3,,,[]
+Realtor_address.csv,address_locality,locality_3,,,[]
+Realtor_address.csv,address_region,region_4,,,[]
+Realtor_address.csv,latitude,latitude_1,,,[]
+Realtor_address.csv,longitude,longitude_1,,,[]
+Realtor_address.csv,postal_code,postal_code_5,,,[]
+Realtor_mortgage.csv,principal_interest,principal_interest_26,,,[]
+Realtor_mortgage.csv,property_tax_section,tax_9,,,[]
+Realtor_mortgage.csv,home_insurance,,,,[]
+Realtor_mortgage.csv,hoa,hoa_fees_27,,,[]
+Realtor_mortgage.csv,property_id,listing_id_1,,,[]
+Realtor_offer.csv,validFrom,,,,[]
+Realtor_offer.csv,price,price_15,,,[]
+Realtor_offer.csv,price_currency,,,,[]
+Realtor_offer.csv,url,,,,[]
+Realtor_offer.csv,agent_id,agent_id_6,,,[]
+Realtor_offer.csv,property_id,listing_id_1,,,[]
+Realtor_property_overview.csv,price_per_sqft,price_per_sq_ft_16,,,[]
+Realtor_property_overview.csv,property_type,home_style_7,,,[]
+Realtor_property_overview.csv,property_year,year_built_14,,,[]
+Realtor_property_overview.csv,home_style,home_style_year,,,[]
+Realtor_property_overview.csv,description,description_21,,,[]
+Realtor_property_overview.csv,beds,beds_19,,,[]
+Realtor_property_overview.csv,bath,baths_11,,,[]
+Realtor_property_overview.csv,sqft,sqft_28,,,[]
+Realtor_property_overview.csv,lotsize,lot_size_25,,,[]
+Realtor_property_overview.csv,property_id,listing_id_1,,,[]
+Realtor_RealEstateAgent.csv,branding_agent_name,agent_name_19,,,[]
+Realtor_RealEstateAgent.csv,branding_office_name,firm_name_107,,,[]
+Realtor_RealEstateAgent.csv,agent_id,agent_id_6,,,[]
+Realtor_RealEstateAgent.csv,property_id,listing_id_1,,,[]
+ReMax_address.csv,listing_id,listing_id_1,,,[]
+ReMax_address.csv,address,house_address_3,,,[]
+ReMax_address.csv,location,locality_city_state,,,[]
+ReMax_Area_And_Schools.csv,listing_id,listing_id_1,,,[]
+ReMax_Area_And_Schools.csv,City,locality_3,,,[]
+ReMax_Area_And_Schools.csv,County_Or_Parish,county_8,,,[]
+ReMax_Area_And_Schools.csv,Elementary_School,elementary_school_95,,,[]
+ReMax_Area_And_Schools.csv,High_School,high_school_97,,,[]
+ReMax_Area_And_Schools.csv,High_School_District,school_94,,,[]
+ReMax_Area_And_Schools.csv,Middle_Or_Junior_School,middle_school_96,,,[]
+ReMax_Area_And_Schools.csv,Subdivision_Name,subdivision_94,,,[]
+ReMax_Building_And_Construction.csv,listing_id,listing_id_1,,,[]
+ReMax_Building_And_Construction.csv,Building_Name,,,,[]
+ReMax_Building_And_Construction.csv,Property_Sub_Type,home_style_7,,,[]
+ReMax_Building_And_Construction.csv,Property_Type,home_style_main,,,[]
+ReMax_Building_And_Construction.csv,Year_Built,year_built_14,,,[]
+ReMax_Exterior_And_Lot.csv,listing_id,listing_id_1,,,[]
+ReMax_Exterior_And_Lot.csv,Lot_Size_Acres,lot_size_25,,,[]
+ReMax_Exterior_And_Lot.csv,Lot_Size_Square_Feet,lot_size_25,,,[]
+ReMax_Exterior_And_Lot.csv,Lot_Size_Units,lot_size_25,,,[]
+ReMax_Exterior_And_Lot.csv,Parking_Total,parking_23,,,[]
+ReMax_financial_info.csv,listing_id,listing_id_1,,,[]
+ReMax_financial_info.csv,Tax_Annual_Amount,tax_annual,,,[]
+ReMax_financial_info.csv,Tax_Year,,,,[]
+ReMax_financial_info.csv,Association_Fee,hoa_fees_27,,,[]
+ReMax_interior.csv,listing_id,listing_id_1,,,[]
+ReMax_interior.csv,Appliances,appliances_18,,,[]
+ReMax_interior.csv,Bedrooms_Total,beds_19,,,[]
+ReMax_interior.csv,Bathrooms_Total,baths_11,,,[]
+ReMax_interior.csv,Bathrooms_Full,baths_full,,,[]
+ReMax_interior.csv,Bathrooms_Half,baths_half,,,[]
+ReMax_interior.csv,Living_Area,living_area_12,,,[]
+ReMax_interior.csv,Flooring,flooring_17,,,[]
+ReMax_interior.csv,Bathrooms_Three_Quarter,baths_three_quarter,,,[]
+ReMax_listing_agent.csv,listing_id,listing_id_1,,,[]
+ReMax_listing_agent.csv,listed_by,agent_name_19,,,[]
+ReMax_listing_detail_stats.csv,listing_id,listing_id_1,,,[]
+ReMax_listing_detail_stats.csv,listing_detail,description_details,,,[]
+ReMax_listing_detail_stats.csv,price,price_15,,,[]
+ReMax_listing_detail_stats.csv,bedrooms,beds_19,,,[]
+ReMax_listing_detail_stats.csv,total_baths,baths_11,,,[]
+ReMax_listing_detail_stats.csv,full_baths,baths_full,,,[]
+ReMax_listing_detail_stats.csv,square_feet,sqft_28,,,[]
+ReMax_listing_detail_stats.csv,acres,acres_25,,,[]
+ReMax_listing_detail_stats.csv,year_built,year_built_14,,,[]
+ReMax_listing_detail_stats.csv,status,status_33,,,[]
+ReMax_listing_detail_stats.csv,MLS,mls_34,,,[]
+zillow_address.csv,house_id,listing_id_1,,,[]
+zillow_address.csv,street_address,house_address_3,,,[]
+zillow_address.csv,city,locality_3,,,[]
+zillow_address.csv,state,region_4,,,[]
+zillow_address.csv,zipcode,postal_code_5,,,[]
+zillow_agent_house_listing.csv,house_id,listing_id_1,,,[]
+zillow_agent_house_listing.csv,agent_id,agent_id_6,,,[]
+zillow_construction_details.csv,house_id,listing_id_1,,,[]
+zillow_construction_details.csv,home_type,home_style_7,,,[]
+zillow_construction_details.csv,roof_material,roof_48,,,[]
+zillow_construction_details.csv,new_construction,,,,[]
+zillow_construction_details.csv,major_remodel_year,,,,[]
+zillow_hoa_and_financial_details.csv,house_id,listing_id_1,,,[]
+zillow_hoa_and_financial_details.csv,tax_assessed_value,tax_9,,,[]
+zillow_hoa_and_financial_details.csv,annual_tax_amount,tax_annual,,,[]
+zillow_home_facts.csv,house_id,listing_id_1,,,[]
+zillow_home_facts.csv,beds,beds_19,,,[]
+zillow_home_facts.csv,baths,baths_11,,,[]
+zillow_home_facts.csv,living_area,living_area_12,,,[]
+zillow_home_facts.csv,house_type,home_style_7,,,[]
+zillow_home_facts.csv,year_built,year_built_14,,,[]
+zillow_home_facts.csv,heating,heating_57,,,[]
+zillow_home_facts.csv,cooling,cooling_58,,,[]
+zillow_home_facts.csv,parking,parking_23,,,[]
+zillow_home_facts.csv,price,price_15,,,[]
+zillow_home_facts.csv,price_per_sqft,price_per_sq_ft_16,,,[]
+zillow_interior_details.csv,house_id,listing_id_1,,,[]
+zillow_interior_details.csv,full_bathrooms,baths_full,,,[]
+zillow_interior_details.csv,half_bathrooms,baths_half,,,[]
+zillow_interior_details.csv,basement,basement_26,,,[]
+zillow_interior_details.csv,flooring,flooring_17,,,[]
+zillow_interior_details.csv,appliances,appliances_18,,,[]
+zillow_interior_details.csv,total_interior_livable_area,living_area_12,,,[]
+zillow_interior_details.csv,fireplace,fireplace_27,,,[]
+zillow_listing_agents.csv,agent_id,agent_id_6,,,[]
+zillow_listing_agents.csv,agent_name,agent_name_19,,,[]
+zillow_listing_agents.csv,phone_number,agent_phone_117,,,[]
+zillow_listing_agents.csv,agent_license_number,Agent_license_20,,,[]
+zillow_listing_agents.csv,posting_group_name,firm_name_107,,,[]
+zillow_listing_agents.csv,posting_website_link_text,firm_web_text,,,[]
+zillow_metadata_details.csv,house_id,listing_id_1,,,[]
+zillow_metadata_details.csv,mls_id,mls_34,,,[]
+zillow_overview.csv,house_id,listing_id_1,,,[]
+zillow_overview.csv,overview,description_21,,,[]
+zillow_property_details.csv,house_id,listing_id_1,,,[]
+zillow_property_details.csv,parking_features,parking_23,,,[]
+zillow_property_details.csv,garage_spaces,garage_53,,,[]
+zillow_property_details.csv,total_spaces,,,,[]
+zillow_property_details.csv,covered_spaces,,,,[]
+zillow_property_details.csv,stories,number_of_stories_15,,,[]
+zillow_property_details.csv,exterior_features,exterior_features_47,,,[]
+zillow_property_details.csv,on_waterfront,waterfront_lot_80,,,[]
+zillow_property_details.csv,lot_size,lot_size_25,,,[]
+zillow_property_details.csv,parcel_number,,,,[]
+zillow_utility_and_energy_details.csv,house_id,listing_id_1,,,[]
+zillow_utility_and_energy_details.csv,sun_score,,,,[]
+zillow_utility_and_energy_details.csv,rent_control,,,,[]
+redfin_address.csv,listing_id,listing_id_1,,,[]
+redfin_address.csv,street_address,house_address_3,,,[]
+redfin_address.csv,locality,locality_3,,,[]
+redfin_address.csv,region,region_4,,,[]
+redfin_address.csv,postal_code,postal_code_5,,,[]
+redfin_agents.csv,agent_id,agent_id_6,,,[]
+redfin_agents.csv,agent_name,agent_name_19,,,[]
+redfin_agents.csv,agent_license,Agent_license_20,,,[]
+redfin_agents.csv,agent_org,firm_name_107,,,[]
+redfin_home_facts.csv,listing_id,listing_id_1,,,[]
+redfin_home_facts.csv,property_type,home_style_sub_main,,,[]
+redfin_home_facts.csv,hoa_dues,hoa_fees_27,,,[]
+redfin_home_facts.csv,style,architectural_style_12,,,[]
+redfin_home_facts.csv,year_built,year_built_14,,,[]
+redfin_home_facts.csv,community,neighborhood_name_88,,,[]
+redfin_home_facts.csv,MLS#,mls_34,,,[]
+redfin_listed_by.csv,agent_id,agent_id_6,,,[]
+redfin_listed_by.csv,listing_id,listing_id_1,,,[]
+redfin_listed_by.csv,status,status_33,,,[]
+redfin_main_stats.csv,listing_id,listing_id_1,,,[]
+redfin_main_stats.csv,price,price_15,,,[]
+redfin_main_stats.csv,beds,beds_19,,,[]
+redfin_main_stats.csv,baths,baths_11,,,[]
+redfin_main_stats.csv,area,living_area_12,,,[]
+redfin_main_stats.csv,cost_per_squre_feet,price_per_sq_ft_16,,,[]
+redfin_price_insights.csv,listing_id,listing_id_1,,,[]
+redfin_price_insights.csv,listing_price,price_15,,,[]
+redfin_price_insights.csv,est._mo._payment,principal_interest_26,,,[]
+redfin_price_insights.csv,redfin_estimate,price_estimate,,,[]
+redfin_price_insights.csv,price_per_Sq_ft,price_per_sq_ft_16,,,[]
+redfin_public_facts.csv,listing_id,listing_id_1,,,[]
+redfin_public_facts.csv,beds,beds_19,,,[]
+redfin_public_facts.csv,baths,baths_11,,,[]
+redfin_public_facts.csv,finished_sq_ft,sqft_finished,,,[]
+redfin_public_facts.csv,unfinished_sq_ft,sqft_unfinished,,,[]
+redfin_public_facts.csv,total_sq.ft,sqft_28,,,[]
+redfin_public_facts.csv,stories,number_of_stories_15,,,[]
+redfin_public_facts.csv,lot_size,lot_size_25,,,[]
+redfin_public_facts.csv,style,home_style_sub_main,,,[]
+redfin_public_facts.csv,year_built,year_built_14,,,[]
+redfin_public_facts.csv,year_renovated,remodel_8,,,[]
+redfin_public_facts.csv,county,county_8,,,[]
+redfin_public_facts.csv,APN,,,,[]
+person1.csv,BusinessEntityID,agent_id_6,,,"[163, 158, 21, 27, 267]"
+person1.csv,Title,title,,,"['Mr.', 'Mr.', 'Ms.', 'Mr.', 'Ms.']"
+person1.csv,FirstName,first_name,,FirstName,"['Lori', 'Anibal', 'Ranjit', 'Roberto', 'Bob']"
+person1.csv,MiddleName,middle_name,,,"['M', 'G', 'K', 'M', 'B']"
+person1.csv,LastName,last_name,,LastName,"['Sam', 'Hartwig', 'Campbell', 'Sacksteder', 'Uddin']"
+person1.csv,Suffix,name_suffix,,,"['Jr.', 'III']"
+person1.csv,JobTitle,job_title,,,"['Production Supervisor - WC60', 'Production Technician - WC50', 'Stocker', 'Production Technician - WC40', 'Production Technician - WC40']"
+person1.csv,PhoneNumber,agent_phone_117,,PhoneNumber,"['810-555-0178', '166-555-0156', '688-555-0192', '476-555-0119', '751-555-0134']"
+person1.csv,PhoneNumberType,phone_number_type,,,"['Cell', 'Cell', 'Cell', 'Cell', 'Work']"
+person1.csv,EmailAddress,agent_email_121,,Email,"['margie0@adventure-works.com', 'zainal0@adventure-works.com', 'john4@adventure-works.com', 'kevin1@adventure-works.com', 'sariya0@adventure-works.com']"
+person1.csv,EmailPromotion,email_promotion,,,"[1, 0, 0, 0, 0]"
+person1.csv,AddressLine1,address_line_1,,Address,"['77 Birchwood', '5009 Orange Street', '8411 Mt. Orange Place', '1748 Bird Drive', '3333 Madhatter Circle']"
+person1.csv,AddressLine2,address_line_2,,,"['Unit A', '# 2', '# 14', '# 4', '# 207']"
+person1.csv,City,locality_31,,City,"['Edmonds', 'Seattle', 'Bothell', 'Bothell', 'Bothell']"
+person1.csv,StateProvinceName,region_41,,State,"['Washington', 'Washington', 'Michigan', 'Victoria', 'Washington']"
+person1.csv,PostalCode,postal_code_51,,Zip,"['98052', '98104', '98104', '98011', '98019']"
+person1.csv,CountryRegionName,country,,Country,"['United States', 'United States', 'United States', 'United States', 'United States']"
+person1.csv,AdditionalContactInfo,,,,[]
+person2.csv,sales_rep_id,agent_id_6,,,"[288, 284, 282, 279, 274]"
+person2.csv,title,title,,,"['Mr.', 'Mr.']"
+person2.csv,fname,first_name,,FirstName,"['Linda', 'Amy', 'José', 'Ranjit', 'Rachel']"
+person2.csv,mname,middle_name,,,"['B', 'Edvaldo', 'R', 'A', 'O']"
+person2.csv,lname,last_name,,LastName,"['Vargas', 'Alberts', 'Tsoflias', 'Carson', 'Saraiva']"
+person2.csv,suffix,name_suffix,,,[]
+person2.csv,job_title,job_title,,,"['Sales Representative', 'Sales Representative', 'Sales Representative', 'Sales Representative', 'Sales Representative']"
+person2.csv,phone_num,agent_phone_117,,PhoneNumber,"['340-555-0193', '1 (11) 500 555-0140', '1 (11) 500 555-0145', '740-555-0182', '883-555-0116']"
+person2.csv,phone_num_type,phone_number_type,,,"['Work', 'Cell', 'Work', 'Cell', 'Cell']"
+person2.csv,email,agent_email_121,,Email,"['pamela0@adventure-works.com', 'jillian0@adventure-works.com', 'ranjit0@adventure-works.com', 'jae0@adventure-works.com', 'syed0@adventure-works.com']"
+person2.csv,email_promo,email_promotion,,,"[1, 0, 1, 0, 0]"
+person2.csv,addr_line1,address_line_1,,Address,"['8291 Crossbow Way', '9100 Sheppard Avenue North', '636 Vine Hill Way', '80 Sunview Terrace', 'Downshire Way']"
+person2.csv,addr_line2,address_line_2,,,[]
+person2.csv,city,locality_31,,City,"['Detroit', 'Melbourne', 'Nevada', 'Duluth', 'Memphis']"
+person2.csv,state_prov,region_41,,State,"['Oregon', 'California', 'Alberta', 'Gironde', 'Tennessee']"
+person2.csv,postal_code,postal_code_51,,Zip,"['38103', '14111', '3000', '98052', '33000']"
+person2.csv,country,country,,Country,"['Australia', 'United States', 'United States', 'Canada', 'United States']"
+person2.csv,territory,territory_name,,,"['France', 'Southwest', 'Southwest', 'United Kingdom', 'Central']"
+person2.csv,territory_grp,territory_group,,,"['North America', 'Pacific', 'North America', 'North America', 'Europe']"
+person2.csv,sales_quota,sales_quota,,,"[250000.0, 250000.0, 300000.0, 250000.0, 250000.0]"
+person2.csv,sales_ytd_amt,ytd_sales,,,"[4116871.228, 2315185.611, 1453719.465, 519905.93200000003, 1576562.197]"
+person2.csv,sales_lyear_amt,last_year_sales,,,"[1927059.178, 2278548.978, 1307949.7920000001, 1620276.8969999999, 2396539.76]"
+person3.csv,id,agent_id_6,,,"[1600, 1648, 1558, 1698, 1594]"
+person3.csv,Name,firm_name_107,,OrgName,"['Circuit Cycles', 'Greenwood Athletic Company', 'Compete, Inc.', ""Hill's Bicycle Service"", 'Professional Athletic Consultants']"
+person3.csv,cntct_type,,,,"['Sales Agent', 'Sales Manager', 'Sales Agent', 'Sales Agent', 'Sales Agent']"
+person3.csv,title,title,,,"['Ms.', 'Ms.', 'Mr.', 'Mr.', 'Mr.']"
+person3.csv,f_name,first_name,,FirstName,"['Leota', 'Greg', 'Carole', 'Thomas', 'Enoch']"
+person3.csv,m_name,middle_name,,,"['J.', 'J.', 'B.', 'E.', 'M.']"
+person3.csv,l_name,last_name,,LastName,"['Reams', 'Olguin', 'Oviatt', 'Zwilling', 'Rizzi']"
+person3.csv,suffix,name_suffix,,,"['Sr.', 'Jr.', 'Jr.', 'Jr.']"
+person3.csv,tel_num,agent_phone_117,,PhoneNumber,"['221-555-0100', '459-555-0100', '816-555-0100', '757-555-0100', '533-555-0100']"
+person3.csv,type_of_tel_num,phone_number_type,,,"['Work', 'Work', 'Work', 'Cell', 'Cell']"
+person3.csv,electronic_mail_addr,agent_email_121,,Email,"['dan2@adventure-works.com', 'jan2@adventure-works.com', 'cynthia1@adventure-works.com', 'shyamalan0@adventure-works.com', 'marie0@adventure-works.com']"
+person3.csv,promo_2_email_ok,email_promotion,,,"[0, 0, 1, 1, 1]"

@@ -1,0 +1,457 @@
+house_id,beds,baths,living_area,house_type,year_built,heating,cooling,parking,price,price_per_sqft
+55397269,1,1,"1,001",Condo,1999,Forced air,Central,1 space,"$239,000",$239
+448478,1,1,867,Condo,1957,Forced air,"Central, Wall",No Data,"$284,000",$328
+43691309,3,2,"1,910",Single Family,1993,"Forced air, Electric",Central,2 spaces,"$280,000",$147
+55397043,4,2,"1,957",Single Family,1908,"Forced air, Gas, Wood / Pellet",Central,1 space,"$447,000",$228
+15151214,2,2,930,Single Family,1900,Forced air,No Data,1 space,"$899,000",$967
+104460216,1,1,801,Condo,2007,Heat pump,Central,No Data,"$259,900",$324
+245677620,3,3,"1,578",Single Family,2020,"Forced air, Gas",Central,2 spaces,"$439,900",$279
+89921434,2,2,"1,200",Condo,2006,"Forced air, Gas",Central,1 space,"$249,000",$208
+439323,6,5,"4,099",Single Family,1927,"Forced air, Other",Central,3 spaces,"$1,799,000",$439
+20690565,2,1,576,Single Family,1920,Wall,None,No Data,"$285,000",$495
+3874726,4,4,"1,480",Multiple Occupancy,1880,"Forced air, Gas",Central,1 space,"$674,900",$456
+295357473,3,2,"1,369",Multiple Occupancy,1955,No Data,No Data,No Data,"$500,000",$365
+27323931,4,2,"1,963",Single Family,1980,"Forced air, Gas",Central,2 spaces,"$289,000",$147
+29333056,7,11,"13,886",Single Family,1999,"Forced air, Electric, Gas",Central,3 spaces,"$7,800,000",$562
+43708313,3,2,"2,320",Single Family,1990,"Forced air, Heat pump, Electric",Central,2 spaces,"$430,000",$185
+7512091,3,1.75,"1,130",Single Family,1951,"Other, Gas","Evaporative, Other",No Data,"$240,000",$212
+121073218,3,2,"1,948",Condo,2006,Gas,Central,4 spaces,"$319,000",$164
+102959965,2,1,"1,123",Condo,2008,Forced air,Central,No Data,"$367,000",$327
+26819039,4,3,"2,500",Single Family,1972,Forced air,Central,1 space,"$229,900",$92
+15072751,1,1,700,Condo,1964,No Data,No Data,No Data,"$899,000","$1,284"
+26818496,4,2,"1,472",Single Family,1971,Forced air,Central,1 space,"$189,000",$128
+36730425,4,3,"2,064",Single Family,1994,"Forced air, Gas",Central,2 spaces,"$420,000",$203
+60136219,3,3,"3,051",Single Family,2002,"Forced air, Electric, Gas",Central,2 spaces,"$695,000",$228
+19607297,3,2,"1,511",Single Family,1955,"Forced air, Gas",Central,2 spaces,"$1,475,000",$976
+2077554927,4,3,"2,137",Single Family,2000,Forced air,Central,2 spaces,"$339,900",$159
+7515311,3,2,"1,180",Single Family,1916,"Other, Gas",Refrigerator,4 spaces,"$224,900",$191
+29331251,5,8,"12,550",Single Family,2003,Forced air,Central,3 spaces,"$5,290,000",$422
+17112435,3,2,"1,323",Single Family,1958,"Forced air, Gas","Central, Solar",4 spaces,"Zestimate®: $527,639",
+20788262,5,4,"2,789",Multi Family,1920,Gas,None,3 spaces,"$1,995,000",$715
+81944512,2,4,"1,840",Condo,2006,Forced air,Central,No Data,"$580,000",$315
+449003,2,1,988,Condo,1956,Forced air,Central,1 space,"$440,000",$445
+101377273,2,2,"1,330",Condo,2008,Gas,Central,No Data,"$219,900",$165
+83813569,5,7,"7,293",Single Family,2015,Forced air,Central,4 spaces,"$3,695,000",$507
+15078068,2,2,"1,276",Condo,1987,Baseboard,No Data,1 space,"$1,499,000","$1,175"
+82785788,1,1,491,Condo,2007,Forced air,Wall,"On street, Attached Garage","$629,000","$1,281"
+110721756,2,2,"1,792",Single Family,1950,"Forced air, Oil",Central,2 spaces,"$275,000",$153
+64778753,4,4,"3,704",Single Family,2005,"Forced air, Electric, Gas",Central,3 spaces,"$1,350,000",$364
+19600868,2,2,"1,700",Townhouse,1981,"Other, Electric",None,2 spaces,"$1,250,000",$735
+15080658,4,6,"6,685",Single Family,1906,No Data,No Data,Attached Garage,"$19,500,000","$2,917"
+7514179,4,3,"1,594",Multiple Occupancy,1930,"Wall, Electric",Other,No Data,"$269,000",$169
+15077575,2,2,"1,037",Condo,1982,No Data,No Data,No Data,"$929,000",$896
+7515266,--,--,"1,430",Multiple Occupancy,1965,"Wall, Electric","Central, Other",No Data,"$199,000",$139
+19579447,2,1,"1,040",Single Family,1920,"None, Forced air",Central,1 space,"$1,099,000","$1,057"
+20690599,5,4,"2,544",Single Family,1928,"Wall, Electric, Gas",Central,2 spaces,"$999,000",$393
+2119576321,4,2,"1,664",Single Family,2000,"Forced air, Heat pump",Central,2 spaces,"$65,000",$39
+61618491,2,2,945,Condo,1955,Forced air,"Central, Wall",No Data,"$450,000",$476
+110721151,4,1,"1,778",Single Family,1955,"Forced air, Gas",Central,1 space,"$229,900",$129
+110711045,3,2,"1,848",Single Family,1949,"Forced air, Gas",Central,2 spaces,"$355,000",$192
+89913137,2,3,"1,800",Townhouse,2005,"Forced air, Gas",Central,2 spaces,"$337,900",$188
+20795967,2,2,"1,017",Condo,1960,Forced air,Central,1 space,"$799,000",$786
+62629095,4,2,"2,307",Single Family,2003,Forced air,Central,2 spaces,"$294,500",$128
+63790467,1,1,767,Condo,2005,Forced air,Central,1 space,"$259,999",$339
+26994444,3,2,"1,926",Single Family,1965,"Forced air, Gas",Central,2 spaces,"$459,000",$238
+26943888,3,2,"1,806",Single Family,1979,Forced air,Central,2 spaces,"$270,000",$150
+19608428,3,3,"1,855",Townhouse,1981,"Forced air, Gas",Central,2 spaces,"$1,199,000",$646
+104456605,2,2,"1,264",Condo,2007,"Forced air, Heat pump",Central,1 space,"$350,000",$277
+20788517,1,1,696,Condo,1962,Other,Wall,No Data,"$495,000",$711
+122064192,2,2,"1,179",Condo,1904,Forced air,Central,1 space,"$1,595,000","$1,353"
+153249692,--,--,"2,468",Multiple Occupancy,1951,"Forced air, Gas",None,3 spaces,"$1,695,000",$687
+89237737,2,2,"1,037",Condo,2007,No Data,No Data,No Data,"$1,249,000","$1,204"
+54535555,2,2,"1,600",Condo,1999,"Forced air, Gas",Central,2 spaces,"$244,900",$153
+26907572,3,2,"1,362",Single Family,1983,Forced air,Central,1 space,"$165,000",$121
+108871045,3,2,"1,750",Single Family,1942,"Forced air, Gas",Central,2 spaces,"$369,900",$211
+40472965,3,1,864,Single Family,1951,"Forced air, Gas",Central,1 space,"$169,900",$197
+65557381,2,1,"1,100",Condo,1961,Gas,Wall,1 space,"$129,500",$118
+110749564,3,2,"2,461",Single Family,1938,"Forced air, Gas",Central,2 spaces,"$749,900",$305
+20643510,5,4,"1,950",Multiple Occupancy,1946,Wall,Wall,8 spaces,"$899,000",$461
+87717960,4,3,"2,600",Condo,1890,"Forced air, Gas",Central,1 space,"$265,000",$102
+20797557,3,3,"1,729",Single Family,1960,Forced air,Central,2 spaces,"$2,100,000","$1,215"
+125234157,2,2,"1,350",Condo,2012,Forced air,Central,2 spaces,"$249,000",$184
+20800583,3,3,"1,587",Single Family,1954,"None, Forced air",Central,2 spaces,"$2,499,000","$1,575"
+70753128,2,2,"1,385",Townhouse,2005,"Forced air, Heat pump",Central,2 spaces,"$199,999",$144
+26794313,3,1,"1,352",Single Family,1953,Other,Central,No Data,"$159,700",$118
+36743778,4,3,"3,390",Single Family,2009,Heat pump,Central,5 spaces,"$849,900",$251
+84640400,4,3,"2,923",Single Family,2007,"Forced air, Electric",Central,3 spaces,"$345,000",$118
+104454639,1,1,801,Condo,2007,Heat pump,Central,1 space,"$239,000",$298
+19580018,1,1,931,Condo,1985,"None, Forced air",Wall,1 space,"$649,000",$697
+19594284,3,3,"1,310",Single Family,1959,Forced air,No Data,2 spaces,"$1,149,000",$877
+96794859,3,2,"1,924",Single Family,1950,"Forced air, Wall, Electric, Gas",Central,2 spaces,"$289,000",$150
+29333050,5,5,"6,796",Single Family,2001,"Forced air, Electric, Gas",Central,3 spaces,"$2,395,000",$352
+43695222,4,3,"2,091",Single Family,1997,Forced air,Central,6 spaces,"$289,900",$139
+19556933,2,2,876,Condo,1987,"Forced air, Gas",Central,1 space,"$669,800",$765
+19557393,1,1,653,Condo,1972,"Forced air, Gas",Wall,1 space,"$500,000",$766
+7505448,3,2,"1,500",Single Family,1946,Other,Evaporative,4 spaces,"$139,900",$93
+246025291,4,3,"2,500",Single Family,2020,"Forced air, Heat pump",Central,2 spaces,"$329,990",$132
+284859871,3,1,"1,303",Single Family,1950,Electric,No Data,1 space,"$199,000",$153
+70465543,1,1,--,Condo,2003,"Forced air, Gas",Central,1 space,"$284,900",
+26951537,3,3,"1,555",Single Family,1977,"Forced air, Gas",Other,2 spaces,"$245,000",$158
+7519505,3,1,"1,140",Single Family,1952,Heat pump,"Central, Refrigeration",3 spaces,"$299,900",$263
+448457,1,1,659,Condo,1957,Forced air,Central,No Data,"$273,500",$415
+29334463,4,4,"5,381",Single Family,1994,"Forced air, Gas",Central,4 spaces,"$1,695,000",$315
+29331269,5,6,"5,577",Single Family,1987,Forced air,Central,5 spaces,"$1,850,000",$332
+29334477,4,5,"4,434",Single Family,2001,Forced air,Central,2 spaces,"$1,295,000",$292
+459564,3,4,"3,120",Single Family,1979,Forced air,Central,2 spaces,"$1,095,000",$351
+95632851,2,3,"2,110",Townhouse,2009,Forced air,Central,2 spaces,"$1,390,000",$659
+20788058,4,3,"2,853",Single Family,1923,Forced air,Central,3 spaces,"$2,125,000",$745
+3592202,3,1,"1,100",Single Family,1956,"Other, Gas",Central,2 spaces,"$295,000",$268
+121066995,2,2,"1,191",Condo,2005,"Forced air, Gas",Central,1 space,"$225,500",$189
+81921171,2,2,"1,577",Condo,2005,Forced air,Central,No Data,"$595,000",$377
+87724167,2,2,--,Condo,2005,"Forced air, Gas",Central,1 space,"$275,000",
+29333052,7,9,"9,579",Single Family,2002,"Other, Gas",Central,No Data,"$5,500,000",$574
+19594537,4,2,"1,810",Single Family,1954,"Forced air, Gas",Central,1 space,"$1,699,946",$939
+448535,1,1,855,Condo,1957,"Forced air, Gas",Central,1 space,"$310,000",$363
+2078389959,4,4,"2,462",Single Family,2019,"Forced air, Heat pump",Central,2 spaces,"$749,800",$305
+306645920,4,5,"4,961",Single Family,2020,Forced air,Central,5 spaces,"$3,350,000",$675
+26860844,3,1,"1,120",Single Family,1955,Gas,Wall,No Data,"$119,000",$106
+61962938,3,3,"1,633",Condo,2002,"Forced air, Gas",Central,1 space,"$439,900",$269
+20797583,1,1,710,Single Family,1921,"Wall, Gas",None,1 space,"$870,000","$1,225"
+19607696,3,2,"1,554",Single Family,1949,"Forced air, Gas",None,1 space,"$1,399,000",$900
+158778443,3,3,"2,547",Single Family,1865,"Forced air, Gas",Central,2 spaces,"$375,000",$147
+27290268,3,2,"2,010",Single Family,1994,"Forced air, Gas",Central,2 spaces,"$285,000",$142
+458486,2,6,950,Apartment,1932,Forced air,Other,No Data,"$1,751,965",
+36744362,3,1,"1,344",Single Family,1981,"Heat pump, Electric",Central,No Data,"$275,000",$205
+55396371,4,3,"2,008",Single Family,1920,Forced air,Central,1 space,"$599,900",$299
+27263280,3,2,"1,720",Single Family,1985,Forced air,Central,2 spaces,"$289,900",$169
+55397047,3,2,975,Single Family,1955,Radiant,None,No Data,"$209,900",$215
+15181623,4,3,"2,468",Single Family,1937,No Data,No Data,Attached Garage,"$2,750,000","$1,114"
+17112626,3,2,"1,225",Single Family,1960,Forced air,No Data,4 spaces,"$569,900",$465
+19599402,3,2,"1,654",Single Family,1957,"Forced air, Gas",Central,1 space,"$1,598,889",$967
+7506397,4,2.5,"1,858",Single Family,2020,Forced air,Evaporative,4 spaces,"$278,000",$150
+2077871631,2,1,--,Condo,No Data,"Forced air, Gas",No Data,2 spaces,"$129,000",
+20802252,3,3,"2,720",Single Family,1974,Forced air,Central,2 spaces,"$2,200,000",$809
+26817089,4,2,"1,164",Single Family,1970,"Forced air, Electric",Central,1 space,"$189,900",$163
+20802736,3,3,"3,400",Single Family,1953,Forced air,Central,2 spaces,"$10,500",$3
+20690665,2,3,"1,200",Single Family,1929,Wall,Wall,5 spaces,"$765,000",$638
+125235199,3,2,"1,295",Condo,2012,Forced air,Central,2 spaces,"$250,000",$193
+19599061,2,1,"1,019",Single Family,1947,"Forced air, Electric, Gas",None,2 spaces,"$899,900",$883
+110717469,3,2,"1,872",Single Family,1948,"Forced air, Gas",Central,2 spaces,"$374,900",$200
+3591619,3,1,"1,000",Single Family,1958,"Forced air, Gas",Central,2 spaces,"$225,425",
+61122245,1,2,"1,559",Condo,2002,Forced air,Central,No Data,"$485,000",$311
+26816793,2,1,761,Single Family,1954,"Forced air, Gas",Other,2 spaces,"$125,000",$164
+83239335,2,2,"1,047",Condo,2008,Forced air,Central,1 space,"$349,900",$334
+17044002,3,2,"1,296",Single Family,1987,"Forced air, Gas",Wall,6 spaces,"$554,900",$428
+36721173,5,2,"1,668",Single Family,1979,"Heat pump, Electric",Central,No Data,"$329,000",$197
+61122536,2,1,995,Condo,2003,Forced air,Central,No Data,"$299,900",$301
+27263190,3,3,"1,804",Single Family,1986,Forced air,Central,2 spaces,"$259,000",$144
+110714834,3,3,"1,915",Single Family,1936,"Forced air, Gas",Central,2 spaces,"$434,900",$227
+7515762,2,1,930,Single Family,1945,Gas,Evaporative,3 spaces,"$149,900",$161
+110745460,3,2,"1,928",Single Family,1942,"Forced air, Gas",Central,2 spaces,"$439,900",$228
+111710774,2,2,"1,345",Condo,2010,Forced air,Central,Attached Garage,"$1,655,000","$1,230"
+43693622,4,3,"3,070",Single Family,1992,"Forced air, Heat pump, Electric",Central,2 spaces,"$459,000",$150
+89028797,2,1,760,Single Family,1948,"Forced air, Gas",Central,2 spaces,"$575,000",$757
+96794753,3,2,"1,524",Single Family,1942,"Forced air, Gas",No Data,2 spaces,"$224,900",$148
+20641954,2,1,974,Single Family,1955,Wall,Wall,1 space,"$647,000",$664
+7500794,5,2,"1,626",Single Family,1946,Other,Other,2 spaces,"$200,000",$123
+26798388,4,2,"1,811",Single Family,2020,Forced air,Refrigeration,1 space,"$215,000",$119
+17017506,3,2,"1,550",Single Family,1975,"Forced air, Gas",Wall,5 spaces,"$499,900",$323
+110701630,3,3,"1,270",Single Family,1965,"Forced air, Gas",Central,2 spaces,"$259,900",$205
+64969813,2,2,"1,160",Condo,2002,No Data,No Data,No Data,"$949,000",$818
+442860,2,2,"1,480",Condo,1990,"Forced air, Electric",Central,2 spaces,"$695,900",$470
+89923337,3,2,"1,250",Condo,2007,"Forced air, Gas",Central,2 spaces,"$250,000",$200
+99356274,2,2,"1,605",Condo,2008,"Forced air, Gas",Central,2 spaces,"$242,900",$151
+55420773,4,2,"1,543",Single Family,1909,"Forced air, Gas",None,No Data,"$429,900",$279
+110755705,2,2,"1,901",Single Family,1931,"Radiant, Gas",No Data,1 space,"$279,900",$147
+19557451,1,1,653,Condo,1972,None,None,No Data,"$495,000",$758
+20784175,16,14,"8,100",Multi Family,2020,Forced air,Central,8 spaces,"$2,895,000",$357
+43700869,3,2,"2,182",Single Family,1986,Forced air,Central,2 spaces,"$294,900",$135
+80823358,2,2,"1,166",Condo,2005,"Forced air, Solar",Central,1 space,"$168,000",$144
+3592461,4,2,"1,475",Single Family,1956,Baseboard,No Data,2 spaces,"$270,000",$183
+36729707,4,3,"3,684",Single Family,1993,"Forced air, Gas",Central,2 spaces,"$450,000",$122
+3591197,2,1,750,Condo,1968,"Forced air, Gas",Central,1 space,"$114,000",$152
+80778341,6,4,"3,954",Single Family,2006,"Forced air, Electric, Gas",Central,3 spaces,"$495,000",$125
+26936483,3,2,"1,789",Single Family,1994,"Forced air, Gas",Central,2 spaces,"$365,000",$204
+2077565351,1,1,--,Condo,1969,"Baseboard, Gas",No Data,1 space,"$89,900",
+19580903,2,2,"1,165",Townhouse,1984,"Forced air, Gas",None,2 spaces,"$949,000",$815
+29329522,4,4,"3,772",Single Family,1997,Forced air,Central,2 spaces,"$1,700,000",$451
+7512973,4,1,"1,169",Single Family,1962,"Other, Electric",Refrigerator,2 spaces,"$245,000",$210
+84642661,2,2,"1,150",Condo,2007,Forced air,Central,No Data,"$139,000",$121
+63790404,1,1,767,Condo,2005,Forced air,Central,2 spaces,"$255,000",$332
+60977467,3,1.75,"1,092",Single Family,1926,"Electric, Gas",Refrigerator,5 spaces,"$275,000",$252
+20794415,3,4,"2,083",Condo,1985,Forced air,Central,2 spaces,"$1,495,000",$718
+17115104,3,2,"1,167",Single Family,1976,Forced air,No Data,4 spaces,"Zestimate®: $489,481",
+442861,2,2,"1,406",Condo,1990,"Forced air, Electric",Central,2 spaces,"$695,900",$495
+110724472,4,2,"2,217",Single Family,1928,"Radiant, Gas",Central,2 spaces,"$510,000",$230
+20795290,2,2,"1,191",Condo,1959,"Other, Gas",Central,1 space,"$779,500",$654
+101240330,3,4,"3,000",Single Family,2015,Gas,Central,2 spaces,"$449,000",$150
+26802135,3,2,998,Single Family,1954,"Forced air, Gas",Central,2 spaces,"$145,000",$145
+26800911,2,1,761,Single Family,1950,"Forced air, Gas",Other,2 spaces,"$137,000",$180
+99356271,2,1,"1,213",Condo,2008,"Forced air, Gas",Central,1 space,"$199,900",$165
+43693023,6,5,"5,298",Single Family,1999,"Forced air, Heat pump, Electric",Central,4 spaces,"$1,399,999",$264
+60347400,3,2,"1,216",Single Family,2002,Forced air,Central,2 spaces,"$169,900",$140
+2077681491,4,4,"2,111",Single Family,2020,Forced air,Central,2 spaces,"$1,599,000",$757
+82295911,--,1,562,Condo,2007,Forced air,Central,1 space,"$369,000",$657
+89977213,4,5,"3,000",Single Family,2010,Gas,Central,2 spaces,"$1,400,000",$467
+20795082,4,5,"3,806",Single Family,2019,Forced air,Central,2 spaces,"$3,550,000",$933
+20690529,3,3,"1,038",Single Family,1926,Wall,Wall,1 space,"$739,900",$713
+43692923,6,5,"3,270",Single Family,2001,"Forced air, Gas",Central,3 spaces,"$950,000",$291
+29334576,4,4,"4,691",Single Family,2001,Forced air,Central,2 spaces,"$1,295,000",$276
+17044038,3,3,"3,169",Single Family,1997,"Forced air, Gas",Central,10 spaces,"$889,900",$281
+246025806,3,4,"2,423",Single Family,2020,"Forced air, Heat pump",Central,2 spaces,"$315,000",$130
+53153596,4,2,"1,440",Condo,2000,Forced air,Central,No Data,"$2,199,000","$1,527"
+104458538,2,2,"1,678",Condo,2007,Forced air,Central,1 space,"$525,000",$313
+19599072,2,1,990,Single Family,1947,Other,No Data,1 space,"$899,000",$908
+20801358,3,3,"2,400",Single Family,1962,Forced air,Central,2 spaces,"$2,735,000","$1,140"
+82950285,1,1,624,Condo,2007,"Forced air, Electric",Wall,1 space,"$499,000",$800
+40472907,3,1,960,Single Family,1951,"Forced air, Gas",No Data,1 space,"$134,900",$141
+36725918,2,2,"1,120",Single Family,1988,"Heat pump, Electric",Central,No Data,"$225,000",$201
+7505371,2,1,500,Single Family,1946,Electric,Evaporative,4 spaces,"$190,000",$380
+452861,4,3,"1,855",Single Family,1936,"Other, Other",Central,4 spaces,"$895,000",$482
+20642095,2,1,"3,455",Multiple Occupancy,1920,Wall,No Data,4 spaces,"$1,000,000",$289
+55144589,3,2,"1,604",Single Family,1986,"None, Forced air",Central,2 spaces,"$260,000",$162
+2077641307,3,3,"1,600",Townhouse,2020,Forced air,Central,No Data,"$1,698,800","$1,062"
+83124292,2,3,"1,975",Condo,2008,"Forced air, Electric, Gas",Central,2 spaces,"$474,900",$240
+43691351,3,3,"2,060",Single Family,1989,"Forced air, Heat pump",Central,2 spaces,"$300,000",$146
+7511689,4,3,"1,361",Single Family,1946,"Other, Electric",Refrigerator,4 spaces,"$210,000",$154
+82300060,2,2,977,Condo,2007,Forced air,Central,2 spaces,"$724,500",$742
+36726977,3,3,"1,730",Single Family,1988,"Forced air, Electric, Gas",Central,2 spaces,"$349,900",$202
+2078363717,4,6,"4,214",Single Family,1999,"Forced air, Electric, Gas",Central,3 spaces,"$3,255,500",$773
+3591973,3,1,"1,158",Single Family,1961,Gas,Central,2 spaces,"$298,700",$258
+26994346,4,3,"2,264",Single Family,1968,Forced air,Central,2 spaces,"$575,000",$254
+20802121,4,4,"2,464",Single Family,1975,Forced air,Central,4 spaces,"$2,375,000",$964
+110709652,4,2,"2,035",Single Family,1957,"Forced air, Gas",Central,3 spaces,"$274,900",$135
+29336613,5,6,"10,730",Single Family,1999,Forced air,Central,3 spaces,"$1,785,000",$166
+3593209,3,3,"1,150",Single Family,1963,"Forced air, Gas",Central,2 spaces,"$259,000",$225
+2091594414,2,3,"1,763",Townhouse,2017,Forced air,Central,2 spaces,"$1,575,000",$893
+81991571,--,--,818,Multiple Occupancy,1969,Forced air,Central,1 space,"$775,000",$947
+27338350,3,2.1,"2,743",Single Family,1985,"Forced air, Gas",Central,2 spaces,"$395,000",$144
+53737274,5,4,"3,335",Single Family,2001,"Forced air, Electric",Central,2 spaces,"$429,900",$129
+26802279,3,1,"1,000",Single Family,1956,Gas,Wall,No Data,"$145,000",$145
+17016580,3,2,"1,100",Single Family,1931,Gas,No Data,3 spaces,"$467,900",$425
+60200173,2,1,950,Condo,1975,"Baseboard, Gas",Refrigerator,1 space,"$128,950",$136
+69669981,4,3,"2,920",Single Family,2005,Forced air,Central,2 spaces,"$238,000",$82
+26816620,2,1,758,Single Family,1956,Forced air,Other,1 space,"$125,000",$165
+20793195,2,2,996,Condo,1964,Forced air,Central,2 spaces,"$659,000",$662
+70465537,2,2,"1,100",Condo,2003,"Forced air, Gas",Central,1 space,"$359,900",$327
+20643834,2,2,813,Condo,1982,Other,Central,2 spaces,"$375,000",$461
+110750322,3,2,"2,276",Single Family,1955,"Forced air, Gas",Central,4 spaces,"$369,900",$163
+55406002,2,2,"1,416",Condo,1992,"Forced air, Gas",Central,1 space,"$357,000",$252
+7511108,3,2,"1,300",Single Family,1946,Other,Refrigeration,2 spaces,"$239,900",$185
+50903650,4,3,"2,500",Single Family,1999,Forced air,Central,2 spaces,"$1,585,000",$634
+20691214,2,1,822,Single Family,1938,Wall,Other,No Data,"$700,000",$852
+15143256,--,1,621,Condo,1983,Baseboard,No Data,No Data,"$649,000","$1,045"
+251031652,2,3,"2,188",Condo,2017,"Forced air, Electric, Gas",Central,2 spaces,"$639,000",$292
+55398332,5,5,"3,015",Multiple Occupancy,1889,"Other, Gas",None,No Data,"$525,000",$174
+110700901,4,5,"2,230",Single Family,1950,"Forced air, Gas",Central,2 spaces,"$289,900",$130
+70747509,4,3,"2,527",Single Family,2005,"Forced air, Electric",Central,3 spaces,"$415,000",$164
+20642448,6,3,"2,232",Multiple Occupancy,1959,Wall,Wall,No Data,"$1,549,000",$694
+63703850,2,2,"1,250",Condo,2001,"Forced air, Gas",Central,1 space,"$249,500",$200
+19557711,2,1,853,Condo,1978,Forced air,Central,No Data,"$650,000",$762
+458775,6,6,"8,035",Single Family,2020,Forced air,Central,2 spaces,"$2,799,000",$348
+118189181,3,2,"1,144",Single Family,2020,Heat pump,Central,1 space,"$359,500",$314
+27323556,3,2,"1,512",Single Family,1979,Forced air,Central,2 spaces,"$250,000",$165
+110704145,3,3,"1,092",Single Family,1950,"Forced air, Gas",Central,2 spaces,"$244,000",$223
+61122517,1,1,713,Condo,2003,Heat pump,Central,Attached Garage,"$239,900",$336
+71481806,1,2,"1,730",Condo,2004,Forced air,Central,1 space,"$549,900",$318
+27329279,3,2,"1,592",Single Family,1974,"Forced air, Heat pump",Central,No Data,"$285,000",$179
+20793210,2,2,"1,009",Condo,1964,"None, Forced air",Central,2 spaces,"$800,000",$793
+2104378637,2,2,"1,295",Condo,2013,Forced air,Other,2 spaces,"$235,000",$181
+3591765,4,2,"1,200",Single Family,1959,Gas,Central,7 spaces,"$261,068",
+19600792,3,2,"1,825",Condo,1979,"Forced air, Gas",Central,2 spaces,"$1,325,000",$726
+3860868,4,4,"3,000",Single Family,1892,"Forced air, Gas",Central,2 spaces,"$750,000",$250
+17043835,4,2,"1,540",Single Family,2013,Forced air,Central,9 spaces,"$545,000",$354
+241585966,2,2,"1,311",Condo,2017,Forced air,None,No Data,"$1,499,000","$1,143"
+55398319,3,3,"2,242",Multi Family,1904,Forced air,None,No Data,"$449,000",$200
+15160498,4,3.5,"1,879",Single Family,1959,Forced air,Central,Attached Garage,"$2,599,000","$1,383"
+36741277,4,3,"1,968",Single Family,1972,Forced air,Central,5 spaces,"$334,900",$170
+15084939,3,3.5,"2,120",Single Family,1953,Forced air,Central,No Data,"$1,995,000",$941
+53737326,3,2,"1,796",Single Family,1999,"Forced air, Electric",Central,2 spaces,"$269,900",$150
+7511296,3,1.75,"1,551",Single Family,1958,Other,Refrigeration,5 spaces,"$230,000",$148
+104452024,2,2,"1,819",Condo,2009,Forced air,Central,2 spaces,"$499,900",$275
+63012913,1,1,700,Condo,2004,Forced air,Central,No Data,"$220,000",$314
+81928071,1,1,722,Condo,1986,Forced air,Central,1 space,"$219,900",$305
+173560724,4,2,"1,343",Single Family,1963,"Forced air, Gas",Central,2 spaces,"$235,000",$175
+20639953,2,1,"1,120",Single Family,1950,"Wall, Electric",None,1 space,"$370,000",$330
+43701149,4,3,"3,754",Single Family,1991,"Forced air, Electric",Central,2 spaces,"$550,000",$147
+36731431,3,3,"1,349",Single Family,1995,Heat pump,No Data,No Data,"$260,000",$193
+92355228,--,--,"3,726",Multiple Occupancy,1985,"Wall, Electric",Central,No Data,"$1,050,000",$282
+110749091,3,2,"1,664",Single Family,1952,"Forced air, Gas",Central,2 spaces,"$314,900",$189
+110747725,4,2,"1,816",Single Family,1953,"Forced air, Gas",Central,2 spaces,"$324,900",$179
+110709853,3,3,"2,878",Single Family,2019,"Forced air, Gas",Central,3 spaces,"$799,900",$278
+20795689,1,1,693,Condo,1954,Forced air,Central,2 spaces,"$585,000",$844
+62847505,6,5,"5,476",Single Family,2005,Forced air,Central,3 spaces,"$730,000",$133
+70474031,3,3,"1,800",Condo,2002,"Forced air, Gas",Central,1 space,"$350,000",$194
+26946434,3,2,"2,122",Single Family,1978,"Forced air, Gas",Central,2 spaces,"$319,000",$150
+26906776,3,2,800,Single Family,1983,Forced air,Central,1 space,"$119,900",$150
+26802262,3,2,864,Single Family,1954,Forced air,Other,2 spaces,"$160,000",$185
+19557511,3,3,"1,424",Townhouse,1997,"Other, Electric",No Data,2 spaces,"$1,057,000",$742
+122064249,2,1,"1,042",Condo,1897,Forced air,Central,Carport,"$1,025,000",$984
+17017652,8,2,"1,435",Single Family,1955,No Data,Other,3 spaces,"$599,900",$418
+2077681488,4,4,"2,111",Single Family,2020,"Forced air, Gas",Central,2 spaces,"$1,599,000",$757
+110722988,4,3,"2,155",Single Family,1950,"Forced air, Gas",Central,2 spaces,"$369,000",$171
+36718840,4,2,"1,380",Single Family,1976,"Heat pump, Electric",Central,2 spaces,"$265,000",$192
+153249613,--,--,"2,248",Multiple Occupancy,1953,None,None,No Data,"$1,399,999",$623
+84001081,4,2,"1,507",Single Family,2007,Forced air,Central,4 spaces,"$212,000",$141
+65562967,3,2,"1,150",Condo,2003,"Forced air, Gas",Central,1 space,"$215,000",$187
+110717248,3,2,"1,336",Single Family,1953,"Forced air, Gas",Central,1 space,"$234,900",$176
+241585552,1,1,528,Condo,1951,No Data,No Data,No Data,"$775,000","$1,468"
+125257061,3,2,"1,295",Condo,2012,Forced air,Central,2 spaces,"$250,000",$193
+110718999,3,1,"1,586",Single Family,1950,"Forced air, Gas",Central,2 spaces,"$229,900",$145
+79843055,1,1,658,Condo,1909,"None, Forced air",Wall,1 space,"$829,000","$1,260"
+17016010,4,3,"1,710",Single Family,1997,Forced air,None,2 spaces,"$585,000",$342
+448548,1,1,825,Condo,1957,Heat pump,No Data,No Data,"$300,000",$364
+17016789,3,2,840,Single Family,1952,Forced air,Central,2 spaces,"$415,000",$494
+7514658,--,--,"2,520",Multi Family,1988,Wall,None,1 space,"$369,000",$146
+2078089792,1,1,--,Condo,1966,"Baseboard, Gas",No Data,1 space,"$93,300",
+20639002,1,1,661,Single Family,1947,Heat pump,Central,No Data,"$559,998",$847
+7519355,3,2,"1,438",Single Family,1954,"Other, Gas",Evaporative,6 spaces,"$340,000",$236
+19580714,4,3,"1,325",Single Family,1951,"Forced air, Gas",Central,1 space,"$1,425,000","$1,075"
+453141,4,3,"2,294",Single Family,1947,Forced air,Central,No Data,"$1,030,000",$449
+20797716,2,3,"2,355",Single Family,1977,"Forced air, Solar",Central,2 spaces,"$1,399,000",$594
+20794223,3,2,"1,682",Single Family,1916,Forced air,Central,Detached Garage,"$1,695,000","$1,008"
+110729370,3,3,"1,866",Single Family,1969,"Forced air, Gas",Central,2 spaces,"$289,900",$155
+27324149,3,2,"1,859",Single Family,1980,"Forced air, Gas",Central,1 space,"$289,999",$156
+63012888,1,2,897,Condo,2005,Forced air,Central,2 spaces,"$245,000",$273
+55397006,2,1,900,Single Family,1901,Forced air,None,No Data,"$290,000",$322
+158776765,5,4,"4,584",Single Family,2015,"Forced air, Gas",Central,2 spaces,"$1,450,000",$316
+17010299,3,1,"1,170",Single Family,1957,"Forced air, Gas",Wall,1 space,"$580,000",$496
+104454096,1,1,713,Condo,2007,Heat pump,Central,1 space,"$219,900",$308
+81968055,5,3,"1,956",Single Family,1950,"Other, Electric",Wall,2 spaces,"$279,000",$143
+2077819232,2,1,700,Condo,1968,Gas,No Data,1 space,"$129,900",$186
+15086469,2,1,824,Condo,1980,Forced air,Central,No Data,"$968,000","$1,175"
+111435637,4,3,"1,873",Single Family,1960,Electric,No Data,4 spaces,"$475,000",$254
+27325725,3,3,"1,724",Single Family,1972,"Forced air, Gas",Central,No Data,"$258,000",$150
+2077915350,4,4,"2,890",Single Family,No Data,"Forced air, Heat pump",Central,2 spaces,"$766,300",$265
+66134507,5,3,"3,361",Single Family,2004,"Forced air, Electric, Gas",Central,2 spaces,"$410,000",$122
+7515343,4,2,"1,289",Single Family,1961,Other,Other,4 spaces,"$248,000",$192
+15069492,--,1,520,Condo,1930,Forced air,Central,None,"$539,000","$1,037"
+26802339,3,2,"1,267",Single Family,1957,"Forced air, Gas",Central,1 space,"$139,900",$110
+2078664523,3,4,"5,528",Single Family,2003,"Forced air, Electric, Gas",Central,2 spaces,"$4,595,000",$831
+113950920,3,3,"2,400",Townhouse,2001,"Forced air, Gas",Central,2 spaces,"$564,900",$235
+69669976,4,4,"3,646",Single Family,2005,Other,Central,2 spaces,"$285,000",$78
+449292,3,3,"1,248",Multi Family,1924,Heat pump,Central,1 space,"$799,000",$640
+70447588,2,1,850,Condo,1965,"Forced air, Electric",Central,2 spaces,"$135,000",$159
+60529017,4,4,"2,636",Single Family,2002,"Forced air, Heat pump",Central,1 space,"$409,900",$156
+27324765,3,2,"1,939",Single Family,1983,"Forced air, Gas",Central,2 spaces,"$325,000",$168
+19581408,3,2,"1,284",Townhouse,1979,"Forced air, Gas",Central,1 space,"$699,888",$545
+26819446,3,2,"1,899",Single Family,1965,"Forced air, Gas",Central,3 spaces,"$185,000",$97
+20796184,--,1,426,Condo,1960,Wall,None,1 space,"$338,000",$793
+104453117,1,1,"1,011",Condo,2007,Heat pump,Central,No Data,"$314,900",$311
+3591199,2,1,750,Condo,1967,"Forced air, Gas",Central,1 space,"$119,900",$160
+3591833,3,3,"2,240",Single Family,1963,"Forced air, Gas",Central,2 spaces,"$275,000",$123
+89148047,4,4,"2,208",Single Family,2008,Other,Central,2 spaces,"$1,068,000",$484
+19579826,2,1,"1,077",Single Family,1881,"None, Forced air",None,1 space,"$899,950",$836
+70336895,5,5,"4,183",Single Family,2008,"Forced air, Electric, Gas",Central,3 spaces,"$1,295,000",$310
+92352811,4,3,"2,750",Single Family,1956,Other,Refrigeration,2 spaces,"$689,000",$251
+7515356,3,2,"1,759",Single Family,1925,"Forced air, Other",Evaporative,No Data,"$199,000",$113
+26906412,3,3,"1,841",Single Family,1989,Forced air,Central,2 spaces,"$210,000",$114
+26947300,4,3,"2,238",Single Family,1984,"Forced air, Gas",Central,2 spaces,"$359,000",$160
+36731224,3,4,"1,836",Townhouse,1995,"Forced air, Gas",Central,2 spaces,"$270,000",$147
+26817292,2,1,748,Single Family,1954,Forced air,Wall,1 space,"$125,000",$167
+306141859,4,3,"2,607",Single Family,2020,"Forced air, Heat pump",Central,3 spaces,"$522,900",$201
+20784322,5,6,"5,321",Single Family,2015,Forced air,Central,4 spaces,"$3,399,000",$639
+58297288,5,7,"10,396",Single Family,2002,Other,Central,5 spaces,"$8,500,000",$818
+7515443,4,2,"2,487",Single Family,1951,Other,Refrigeration,4 spaces,"$315,000",$127
+20785955,3,3,"1,973",Single Family,1923,Forced air,"Central, Wall",No Data,"$1,975,000","$1,001"
+82294487,2,2,"1,565",Condo,2007,"Forced air, Heat pump",Central,2 spaces,"$1,375,000",$879
+55421174,4,2,"2,028",Single Family,1915,Radiant,None,1 space,"$525,000",$259
+27326048,3,2,"1,764",Single Family,1983,"Forced air, Gas",Central,2 spaces,"$319,000",$181
+70747556,5,3,"3,438",Single Family,2005,"Forced air, Electric",Central,2 spaces,"$489,000",$142
+7514205,2,1,788,Single Family,1936,Other,Other,2 spaces,"$181,900",$231
+65546308,2,1,900,Condo,1984,"Baseboard, Gas",Central,2 spaces,"$149,900",$167
+110737102,3,2,"2,358",Single Family,1965,"Forced air, Gas",Central,1 space,"$259,900",$110
+69302229,2,2,924,Townhouse,1986,"Forced air, Gas",Central,2 spaces,"$849,000",$919
+60261285,2,1,950,Condo,1975,"Baseboard, Gas",Other,1 space,"$134,999",$142
+29333062,4,7,"6,840",Single Family,1999,Forced air,Central,3 spaces,"$2,600,000",$380
+26794863,3,2,"1,407",Single Family,1957,Forced air,Central,2 spaces,"$175,000",$124
+19556691,2,2,985,Single Family,1954,Other,None,1 space,"$1,099,000","$1,116"
+27327034,3,2,"1,567",Single Family,1984,Forced air,Central,6 spaces,"$280,000",$179
+26795771,4,1,"1,440",Single Family,1954,Forced air,Central,1 space,"$169,900",$118
+36721864,3,2,"1,232",Single Family,1981,Heat pump,Central,2 spaces,"$225,000",$183
+43695007,4,3,"2,248",Single Family,1996,Forced air,Central,2 spaces,"$310,000",$138
+71488699,3,2,"1,989",Single Family,1946,Other,Refrigeration,6 spaces,"$750,000",$377
+15072610,1,1,635,Condo,1975,Other,None,No Data,"$899,000","$1,416"
+29333077,5,5,"5,225",Single Family,1995,Other,Central,3 spaces,"$2,400,000",$459
+29323270,5,3,"3,185",Single Family,1997,"Forced air, Electric, Gas",Central,4 spaces,"$789,000",$248
+29333063,7,11,"16,722",Single Family,2002,"Forced air, Electric",Central,12 spaces,"$12,900,000",$771
+95060776,3,1,"1,782",Single Family,1947,"Forced air, Wall, Gas",Central,2 spaces,"$309,900",$174
+3591114,2,2,980,Single Family,1956,"Forced air, Gas",Central,1 space,"$234,900",$240
+15131932,4,2,"2,049",Single Family,1959,Forced air,No Data,Attached Garage,"$1,395,000",$681
+63509948,1,1,767,Condo,2005,Forced air,Central,1 space,"$255,000",$332
+26949149,4,3,"2,016",Single Family,1971,Forced air,Central,2 spaces,"$319,900",$159
+29475480,3,3,"2,165",Single Family,2000,Forced air,Central,2 spaces,"$625,000",$289
+68978645,4,4,"3,033",Single Family,2005,"Forced air, Gas",Central,10 spaces,"$1,200,000",$396
+2136248651,2,1,900,Condo,1970,Electric,No Data,2 spaces,"$119,900",$133
+121067648,1,1,"1,035",Condo,2006,"Forced air, Gas",Central,1 space,"$185,000",$179
+89667847,4,3,"2,272",Single Family,2008,Forced air,Central,2 spaces,"$1,249,000",$550
+246025934,3,2,"1,753",Single Family,2020,"Forced air, Heat pump, Electric",Central,2 spaces,"$287,990",$164
+7512449,4,3,"1,514",Single Family,1959,Other,Refrigeration,2 spaces,"$225,000",$149
+55397049,3,3,"2,286",Single Family,1894,Forced air,Central,2 spaces,"$489,900",$214
+458477,4,3,"2,116",Single Family,1932,Forced air,Central,1 space,"$969,000",$458
+448664,1,1,730,Condo,1963,Forced air,Central,No Data,"$292,000",$400
+110738232,3,4,"3,228",Single Family,1982,"Forced air, Gas",Central,3 spaces,"$474,900",$147
+125230936,1,1,745,Condo,2012,Forced air,Central,2 spaces,"$150,000",$201
+3593067,4,2,"1,040",Single Family,1962,Gas,Central,2 spaces,"$335,000",$322
+26947748,3,3,"1,546",Single Family,1973,"Forced air, Gas",Central,2 spaces,"$208,000",$135
+87691710,2,2,"1,200",Condo,2006,"Forced air, Gas",Central,2 spaces,"$364,900",$304
+27327976,4,2,"2,017",Single Family,1983,"Forced air, Gas",Central,2 spaces,"$340,000",$169
+63698345,3,3,--,Condo,2002,"Forced air, Gas",Central,2 spaces,"$499,900",
+2078005094,2,1,--,Condo,1985,Gas,No Data,2 spaces,"$119,500",
+26818503,3,2,"1,139",Single Family,1971,"Forced air, Gas",Central,2 spaces,"$150,000",$132
+113979252,--,--,594,Single Family,2012,Other,Refrigerator,No Data,"$630,000","$1,061"
+65544482,1,1,700,Condo,1970,Forced air,Central,1 space,"$139,000",$199
+125313917,3,2,"1,295",Condo,2012,Forced air,Central,4 spaces,"$250,000",$193
+40472968,4,2,"1,558",Single Family,1949,"Forced air, Gas",Central,1 space,"$210,000",$135
+26946279,3,3,"1,720",Single Family,1977,Forced air,Central,2 spaces,"$260,000",$151
+26994303,3,2,"1,821",Single Family,1965,"Forced air, Gas",Central,2 spaces,"$392,000",$215
+7505336,3,2,"1,321",Single Family,1955,"Other, Gas",Other,1 space,"$230,000",$174
+2079567485,3,3,"3,002",Condo,2015,"Forced air, Heat pump",Central,2 spaces,"$755,000",$251
+43669888,3,1,960,Single Family,1958,"None, Forced air",Central,2 spaces,"$285,000",$297
+55405981,1,1,736,Condo,1992,Forced air,Central,2 spaces,"$240,000",$326
+110753479,4,2,"1,528",Single Family,1941,"Forced air, Gas",Central,2 spaces,"$339,900",$222
+15080532,3,3.5,"3,061",Single Family,1967,Forced air,Central,2 spaces,"$5,795,000","$1,893"
+247164329,2,2,950,Condo,2016,Forced air,Central,No Data,"$695,000",$732
+20641726,3,2,"1,093",Single Family,1961,Wall,Central,2 spaces,"$700,000",$640
+2126801952,2,3,"1,288",Condo,2003,"Forced air, Electric, Propane / Butane",Central,1 space,"$300,000",$233
+55406095,2,2,"1,752",Condo,2001,Forced air,Central,No Data,"$539,000",$308
+36730417,4,2,"2,340",Single Family,1996,"Heat pump, Electric",No Data,2 spaces,"$409,000",$175
+36743599,4,2,"1,864",Single Family,1976,Forced air,Central,No Data,"$350,000",$188
+110707602,3,2,"1,811",Single Family,1959,"Forced air, Gas",Central,2 spaces,"$257,000",$142
+63692490,1,1,600,Condo,1964,Baseboard,Wall,2 spaces,"$87,000",$145
+62847238,4,3,"3,075",Single Family,2004,Heat pump,Central,2 spaces,"$469,999",$153
+29331303,6,8,"8,784",Single Family,1982,Forced air,Central,3 spaces,"$3,495,000",$398
+19600870,2,2,"1,700",Townhouse,1981,"Forced air, Gas",None,2 spaces,"$1,099,888",$647
+29334535,5,5,"4,516",Single Family,2001,"Forced air, Electric, Gas",Central,3 spaces,"$1,275,000",$282
+60270629,3,2,"1,775",Condo,1997,"Forced air, Gas",Central,1 space,"$269,900",$152
+20794916,3,4,"3,392",Single Family,1923,Forced air,Central,1 space,"$2,995,000",$883
+2121238192,5,8,"8,791",Single Family,2005,"Forced air, Electric, Gas",Central,4 spaces,"$3,799,000",$432
+54906867,4,2,"1,918",Single Family,1932,Forced air,Central,16 spaces,"$639,900",$334
+26799818,4,3,"1,296",Single Family,1961,"Forced air, Gas",Central,2 spaces,"$197,500",$152
+2077913807,3,4,"2,457",Single Family,No Data,"Forced air, Heat pump",Central,2 spaces,"$754,800",$307
+299125344,3,3,"1,851",Single Family,2020,Forced air,No Data,2 spaces,"$359,900",$194
+448700,--,1,550,Condo,1963,Forced air,Central,1 space,"$255,000",$464
+26944325,3,2,"1,758",Single Family,1948,"Forced air, Gas",Central,1 space,"$199,000",$113
+61325138,2,2,"1,559",Condo,1926,No Data,No Data,1 space,"$1,549,000",$994
+26995971,4,2,"1,439",Single Family,1959,"Forced air, Gas",Central,No Data,"$295,000",$205
+19556721,4,3,"1,722",Single Family,1954,"Forced air, Gas",Central,1 space,"$1,150,000",$668
+3580631,4,3,"2,900",Single Family,1990,"Forced air, Gas",Central,2 spaces,"$449,000",$155
+110751900,3,1,"1,264",Single Family,1953,"Forced air, Gas",Central,1 space,"$184,900",$146
+40473124,3,1,"1,447",Single Family,1952,"Forced air, Gas",Central,2 spaces,"$197,000",$136
+53735967,3,2,"2,052",Single Family,2001,"Forced air, Heat pump",Central,2 spaces,"$265,000",$129
+20688535,4,5,"3,908",Single Family,2005,Forced air,Central,2 spaces,"$1,350,000",$345
+2077987889,2,2,"1,120",Condo,1996,Forced air,Central,1 space,"$194,900",$174
+110701338,4,2,"1,749",Single Family,1956,"Forced air, Gas",Central,2 spaces,"$244,900",$140
+17044483,3,2,"1,072",Single Family,1987,Forced air,Wall,2 spaces,"$499,000",$465
+27330607,3,2,"1,624",Single Family,1983,"Forced air, Gas",Central,2 spaces,"$289,900",$179
+20794256,3,2,"1,949",Single Family,1916,Forced air,Central,2 spaces,"$1,799,000",$923
+125231582,2,1,"1,100",Condo,2012,Forced air,Central,2 spaces,"$220,000",$200
+19579887,3,2,"1,512",Single Family,1920,"None, Forced air",None,4 spaces,"$1,250,000",$827
+20801682,2,2,"1,300",Single Family,1929,Forced air,Central,2 spaces,"$1,249,000",$961
+7515527,5,3.5,"24,888",Single Family,2020,"Electric, Gas",Evaporative,4 spaces,"$318,888",$13
+60270617,2,2,"1,300",Condo,1999,"Forced air, Gas",Central,1 space,"$199,000",$153
+63703823,2,2,"1,200",Condo,2002,"Forced air, Gas",Central,1 space,"$249,000",$208
+20788332,2,2,"1,255",Condo,1981,Forced air,Central,2 spaces,"$815,000",$649
+61122203,1,2,900,Condo,2002,Forced air,Central,No Data,"$269,900",$300
+82291316,--,1,562,Condo,2007,Forced air,Central,1 space,"$489,000",$870
+94702669,3,4,"1,548",Townhouse,2010,"Forced air, Gas",Central,2 spaces,"$1,250,000",$807
+62007666,1,1,600,Condo,1963,"Forced air, Gas",Central,1 space,"$99,900",$167
+7510715,3,2,"1,258",Single Family,1951,"Other, Gas",Evaporative,3 spaces,"$219,999",$175
+2093019920,2,2,--,Condo,2017,"Forced air, Gas",Central,1 space,"$374,999",
+110755026,3,3,"2,212",Single Family,1948,"Forced air, Gas",Central,1 space,"$359,000",$162
+26802165,2,1,840,Single Family,1954,"Other, Electric",Central,1 space,"$130,000",$155
+36744633,4,3,"4,000",Single Family,1989,Heat pump,Central,9 spaces,"$550,000",$138
+43710140,3,2,"2,116",Single Family,1979,Forced air,Central,No Data,"$349,999",$165
+72652295,--,1,550,Condo,1985,"Forced air, Heat pump, Electric",Central,1 space,"$463,933",$844
+49911608,2,2,--,Condo,1890,Gas,Central,1 space,"$325,000",
+96031440,2,2,917,Condo,2009,Forced air,Central,No Data,"$1,190,000","$1,298"
